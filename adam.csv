@@ -1,0 +1,3497 @@
+,date,home_team,score,away_team
+0,12-08-2023,Arsenal,2 - 1,Nott'm Forest
+1,21-08-2023,Crystal Palace,0 - 1,Arsenal
+2,26-08-2023,Arsenal,2 - 2,Fulham
+3,03-09-2023,Arsenal,3 - 1,Man United
+4,17-09-2023,Everton,0 - 1,Arsenal
+5,24-09-2023,Arsenal,2 - 2,Tottenham
+6,30-09-2023,Bournemouth,0 - 4,Arsenal
+7,08-10-2023,Arsenal,1 - 0,Man City
+8,21-10-2023,Chelsea,2 - 2,Arsenal
+9,28-10-2023,Arsenal,5 - 0,Sheffield United
+10,04-11-2023,Newcastle,1 - 0,Arsenal
+11,11-11-2023,Arsenal,3 - 1,Burnley
+12,25-11-2023,Brentford,0 - 1,Arsenal
+13,02-12-2023,Arsenal,2 - 1,Wolves
+14,05-12-2023,Luton,3 - 4,Arsenal
+15,09-12-2023,Aston Villa,1 - 0,Arsenal
+16,17-12-2023,Arsenal,2 - 0,Brighton
+17,23-12-2023,Liverpool,1 - 1,Arsenal
+18,28-12-2023,Arsenal,0 - 2,West Ham
+19,31-12-2023,Fulham,2 - 1,Arsenal
+20,20-01-2024,Arsenal,? - ?,Crystal Palace
+21,12-08-2023,Newcastle,5 - 1,Aston Villa
+22,20-08-2023,Aston Villa,4 - 0,Everton
+23,27-08-2023,Burnley,1 - 3,Aston Villa
+24,03-09-2023,Liverpool,3 - 0,Aston Villa
+25,16-09-2023,Aston Villa,3 - 1,Crystal Palace
+26,24-09-2023,Chelsea,0 - 1,Aston Villa
+27,30-09-2023,Aston Villa,6 - 1,Brighton
+28,08-10-2023,Wolves,1 - 1,Aston Villa
+29,22-10-2023,Aston Villa,4 - 1,West Ham
+30,29-10-2023,Aston Villa,3 - 1,Luton
+31,05-11-2023,Nott'm Forest,2 - 0,Aston Villa
+32,12-11-2023,Aston Villa,3 - 1,Fulham
+33,26-11-2023,Tottenham,1 - 2,Aston Villa
+34,03-12-2023,Bournemouth,2 - 2,Aston Villa
+35,06-12-2023,Aston Villa,1 - 0,Man City
+36,09-12-2023,Aston Villa,1 - 0,Arsenal
+37,17-12-2023,Brentford,1 - 2,Aston Villa
+38,22-12-2023,Aston Villa,1 - 1,Sheffield United
+39,26-12-2023,Man United,3 - 2,Aston Villa
+40,30-12-2023,Aston Villa,3 - 2,Burnley
+41,14-01-2024,Everton,0 - 0,Aston Villa
+42,12-08-2023,Bournemouth,1 - 1,West Ham
+43,19-08-2023,Liverpool,3 - 1,Bournemouth
+44,26-08-2023,Bournemouth,0 - 2,Tottenham
+45,02-09-2023,Brentford,2 - 2,Bournemouth
+46,17-09-2023,Bournemouth,0 - 0,Chelsea
+47,24-09-2023,Brighton,3 - 1,Bournemouth
+48,30-09-2023,Bournemouth,0 - 4,Arsenal
+49,07-10-2023,Everton,3 - 0,Bournemouth
+50,21-10-2023,Bournemouth,1 - 2,Wolves
+51,28-10-2023,Bournemouth,2 - 1,Burnley
+52,04-11-2023,Man City,6 - 1,Bournemouth
+53,11-11-2023,Bournemouth,2 - 0,Newcastle
+54,25-11-2023,Sheffield United,1 - 3,Bournemouth
+55,03-12-2023,Bournemouth,2 - 2,Aston Villa
+56,06-12-2023,Crystal Palace,0 - 2,Bournemouth
+57,09-12-2023,Man United,0 - 3,Bournemouth
+58,23-12-2023,Nott'm Forest,2 - 3,Bournemouth
+59,26-12-2023,Bournemouth,3 - 0,Fulham
+60,31-12-2023,Tottenham,3 - 1,Bournemouth
+61,21-01-2024,Bournemouth,? - ?,Liverpool
+62,13-08-2023,Brentford,2 - 2,Tottenham
+63,19-08-2023,Fulham,0 - 3,Brentford
+64,26-08-2023,Brentford,1 - 1,Crystal Palace
+65,02-09-2023,Brentford,2 - 2,Bournemouth
+66,16-09-2023,Newcastle,1 - 0,Brentford
+67,23-09-2023,Brentford,1 - 3,Everton
+68,01-10-2023,Nott'm Forest,1 - 1,Brentford
+69,07-10-2023,Man United,2 - 1,Brentford
+70,21-10-2023,Brentford,3 - 0,Burnley
+71,28-10-2023,Chelsea,0 - 2,Brentford
+72,04-11-2023,Brentford,3 - 2,West Ham
+73,12-11-2023,Liverpool,3 - 0,Brentford
+74,25-11-2023,Brentford,0 - 1,Arsenal
+75,02-12-2023,Brentford,3 - 1,Luton
+76,06-12-2023,Brighton,2 - 1,Brentford
+77,09-12-2023,Sheffield United,1 - 0,Brentford
+78,17-12-2023,Brentford,1 - 2,Aston Villa
+79,27-12-2023,Brentford,1 - 4,Wolves
+80,30-12-2023,Crystal Palace,3 - 1,Brentford
+81,20-01-2024,Brentford,? - ?,Nott'm Forest
+82,12-08-2023,Brighton,4 - 1,Luton
+83,19-08-2023,Wolves,1 - 4,Brighton
+84,26-08-2023,Brighton,1 - 3,West Ham
+85,02-09-2023,Brighton,3 - 1,Newcastle
+86,16-09-2023,Man United,1 - 3,Brighton
+87,24-09-2023,Brighton,3 - 1,Bournemouth
+88,30-09-2023,Aston Villa,6 - 1,Brighton
+89,08-10-2023,Brighton,2 - 2,Liverpool
+90,21-10-2023,Man City,2 - 1,Brighton
+91,29-10-2023,Brighton,1 - 1,Fulham
+92,04-11-2023,Everton,1 - 1,Brighton
+93,12-11-2023,Brighton,1 - 1,Sheffield United
+94,25-11-2023,Nott'm Forest,2 - 3,Brighton
+95,03-12-2023,Chelsea,3 - 2,Brighton
+96,06-12-2023,Brighton,2 - 1,Brentford
+97,09-12-2023,Brighton,1 - 1,Burnley
+98,17-12-2023,Arsenal,2 - 0,Brighton
+99,21-12-2023,Crystal Palace,1 - 1,Brighton
+100,28-12-2023,Brighton,4 - 2,Tottenham
+101,02-01-2024,West Ham,0 - 0,Brighton
+102,22-01-2024,Brighton,? - ?,Wolves
+103,11-08-2023,Burnley,0 - 3,Man City
+104,27-08-2023,Burnley,1 - 3,Aston Villa
+105,02-09-2023,Burnley,2 - 5,Tottenham
+106,18-09-2023,Nott'm Forest,1 - 1,Burnley
+107,23-09-2023,Burnley,0 - 1,Man United
+108,30-09-2023,Newcastle,2 - 0,Burnley
+109,03-10-2023,Luton,1 - 2,Burnley
+110,07-10-2023,Burnley,1 - 4,Chelsea
+111,21-10-2023,Brentford,3 - 0,Burnley
+112,28-10-2023,Bournemouth,2 - 1,Burnley
+113,04-11-2023,Burnley,0 - 2,Crystal Palace
+114,11-11-2023,Arsenal,3 - 1,Burnley
+115,25-11-2023,Burnley,1 - 2,West Ham
+116,02-12-2023,Burnley,5 - 0,Sheffield United
+117,05-12-2023,Wolves,1 - 0,Burnley
+118,09-12-2023,Brighton,1 - 1,Burnley
+119,16-12-2023,Burnley,0 - 2,Everton
+120,23-12-2023,Fulham,0 - 2,Burnley
+121,26-12-2023,Burnley,0 - 2,Liverpool
+122,30-12-2023,Aston Villa,3 - 2,Burnley
+123,12-01-2024,Burnley,1 - 1,Luton
+124,13-08-2023,Chelsea,1 - 1,Liverpool
+125,20-08-2023,West Ham,3 - 1,Chelsea
+126,25-08-2023,Chelsea,3 - 0,Luton
+127,02-09-2023,Chelsea,0 - 1,Nott'm Forest
+128,17-09-2023,Bournemouth,0 - 0,Chelsea
+129,24-09-2023,Chelsea,0 - 1,Aston Villa
+130,02-10-2023,Fulham,0 - 2,Chelsea
+131,07-10-2023,Burnley,1 - 4,Chelsea
+132,21-10-2023,Chelsea,2 - 2,Arsenal
+133,28-10-2023,Chelsea,0 - 2,Brentford
+134,06-11-2023,Tottenham,1 - 4,Chelsea
+135,12-11-2023,Chelsea,4 - 4,Man City
+136,25-11-2023,Newcastle,4 - 1,Chelsea
+137,03-12-2023,Chelsea,3 - 2,Brighton
+138,06-12-2023,Man United,2 - 1,Chelsea
+139,10-12-2023,Everton,2 - 0,Chelsea
+140,16-12-2023,Chelsea,2 - 0,Sheffield United
+141,24-12-2023,Wolves,2 - 1,Chelsea
+142,27-12-2023,Chelsea,2 - 1,Crystal Palace
+143,30-12-2023,Luton,2 - 3,Chelsea
+144,13-01-2024,Chelsea,1 - 0,Fulham
+145,12-08-2023,Sheffield United,0 - 1,Crystal Palace
+146,21-08-2023,Crystal Palace,0 - 1,Arsenal
+147,26-08-2023,Brentford,1 - 1,Crystal Palace
+148,03-09-2023,Crystal Palace,3 - 2,Wolves
+149,16-09-2023,Aston Villa,3 - 1,Crystal Palace
+150,23-09-2023,Crystal Palace,0 - 0,Fulham
+151,30-09-2023,Man United,0 - 1,Crystal Palace
+152,07-10-2023,Crystal Palace,0 - 0,Nott'm Forest
+153,21-10-2023,Newcastle,4 - 0,Crystal Palace
+154,27-10-2023,Crystal Palace,1 - 2,Tottenham
+155,04-11-2023,Burnley,0 - 2,Crystal Palace
+156,11-11-2023,Crystal Palace,2 - 3,Everton
+157,25-11-2023,Luton,2 - 1,Crystal Palace
+158,03-12-2023,West Ham,1 - 1,Crystal Palace
+159,06-12-2023,Crystal Palace,0 - 2,Bournemouth
+160,09-12-2023,Crystal Palace,1 - 2,Liverpool
+161,16-12-2023,Man City,2 - 2,Crystal Palace
+162,21-12-2023,Crystal Palace,1 - 1,Brighton
+163,27-12-2023,Chelsea,2 - 1,Crystal Palace
+164,30-12-2023,Crystal Palace,3 - 1,Brentford
+165,20-01-2024,Arsenal,? - ?,Crystal Palace
+166,12-08-2023,Everton,0 - 1,Fulham
+167,20-08-2023,Aston Villa,4 - 0,Everton
+168,26-08-2023,Everton,0 - 1,Wolves
+169,02-09-2023,Sheffield United,2 - 2,Everton
+170,17-09-2023,Everton,0 - 1,Arsenal
+171,23-09-2023,Brentford,1 - 3,Everton
+172,30-09-2023,Everton,1 - 2,Luton
+173,07-10-2023,Everton,3 - 0,Bournemouth
+174,21-10-2023,Liverpool,2 - 0,Everton
+175,29-10-2023,West Ham,0 - 1,Everton
+176,04-11-2023,Everton,1 - 1,Brighton
+177,11-11-2023,Crystal Palace,2 - 3,Everton
+178,26-11-2023,Everton,0 - 3,Man United
+179,02-12-2023,Nott'm Forest,0 - 1,Everton
+180,07-12-2023,Everton,3 - 0,Newcastle
+181,10-12-2023,Everton,2 - 0,Chelsea
+182,16-12-2023,Burnley,0 - 2,Everton
+183,23-12-2023,Tottenham,2 - 1,Everton
+184,27-12-2023,Everton,1 - 3,Man City
+185,30-12-2023,Wolves,3 - 0,Everton
+186,14-01-2024,Everton,0 - 0,Aston Villa
+187,12-08-2023,Everton,0 - 1,Fulham
+188,19-08-2023,Fulham,0 - 3,Brentford
+189,26-08-2023,Arsenal,2 - 2,Fulham
+190,02-09-2023,Man City,5 - 1,Fulham
+191,16-09-2023,Fulham,1 - 0,Luton
+192,23-09-2023,Crystal Palace,0 - 0,Fulham
+193,02-10-2023,Fulham,0 - 2,Chelsea
+194,07-10-2023,Fulham,3 - 1,Sheffield United
+195,23-10-2023,Tottenham,2 - 0,Fulham
+196,29-10-2023,Brighton,1 - 1,Fulham
+197,04-11-2023,Fulham,0 - 1,Man United
+198,12-11-2023,Aston Villa,3 - 1,Fulham
+199,27-11-2023,Fulham,3 - 2,Wolves
+200,03-12-2023,Liverpool,4 - 3,Fulham
+201,06-12-2023,Fulham,5 - 0,Nott'm Forest
+202,10-12-2023,Fulham,5 - 0,West Ham
+203,16-12-2023,Newcastle,3 - 0,Fulham
+204,23-12-2023,Fulham,0 - 2,Burnley
+205,26-12-2023,Bournemouth,3 - 0,Fulham
+206,31-12-2023,Fulham,2 - 1,Arsenal
+207,13-01-2024,Chelsea,1 - 0,Fulham
+208,13-08-2023,Chelsea,1 - 1,Liverpool
+209,19-08-2023,Liverpool,3 - 1,Bournemouth
+210,27-08-2023,Newcastle,1 - 2,Liverpool
+211,03-09-2023,Liverpool,3 - 0,Aston Villa
+212,16-09-2023,Wolves,1 - 3,Liverpool
+213,24-09-2023,Liverpool,3 - 1,West Ham
+214,30-09-2023,Tottenham,2 - 1,Liverpool
+215,08-10-2023,Brighton,2 - 2,Liverpool
+216,21-10-2023,Liverpool,2 - 0,Everton
+217,29-10-2023,Liverpool,3 - 0,Nott'm Forest
+218,05-11-2023,Luton,1 - 1,Liverpool
+219,12-11-2023,Liverpool,3 - 0,Brentford
+220,25-11-2023,Man City,1 - 1,Liverpool
+221,03-12-2023,Liverpool,4 - 3,Fulham
+222,06-12-2023,Sheffield United,0 - 2,Liverpool
+223,09-12-2023,Crystal Palace,1 - 2,Liverpool
+224,17-12-2023,Liverpool,0 - 0,Man United
+225,23-12-2023,Liverpool,1 - 1,Arsenal
+226,26-12-2023,Burnley,0 - 2,Liverpool
+227,01-01-2024,Liverpool,4 - 2,Newcastle
+228,21-01-2024,Bournemouth,? - ?,Liverpool
+229,12-08-2023,Brighton,4 - 1,Luton
+230,25-08-2023,Chelsea,3 - 0,Luton
+231,01-09-2023,Luton,1 - 2,West Ham
+232,16-09-2023,Fulham,1 - 0,Luton
+233,23-09-2023,Luton,1 - 1,Wolves
+234,30-09-2023,Everton,1 - 2,Luton
+235,03-10-2023,Luton,1 - 2,Burnley
+236,07-10-2023,Luton,0 - 1,Tottenham
+237,21-10-2023,Nott'm Forest,2 - 2,Luton
+238,29-10-2023,Aston Villa,3 - 1,Luton
+239,05-11-2023,Luton,1 - 1,Liverpool
+240,11-11-2023,Man United,1 - 0,Luton
+241,25-11-2023,Luton,2 - 1,Crystal Palace
+242,02-12-2023,Brentford,3 - 1,Luton
+243,05-12-2023,Luton,3 - 4,Arsenal
+244,10-12-2023,Luton,1 - 2,Man City
+245,23-12-2023,Luton,1 - 0,Newcastle
+246,26-12-2023,Sheffield United,2 - 3,Luton
+247,30-12-2023,Luton,2 - 3,Chelsea
+248,12-01-2024,Burnley,1 - 1,Luton
+249,11-08-2023,Burnley,0 - 3,Man City
+250,19-08-2023,Man City,1 - 0,Newcastle
+251,27-08-2023,Sheffield United,1 - 2,Man City
+252,02-09-2023,Man City,5 - 1,Fulham
+253,16-09-2023,West Ham,1 - 3,Man City
+254,23-09-2023,Man City,2 - 0,Nott'm Forest
+255,30-09-2023,Wolves,2 - 1,Man City
+256,08-10-2023,Arsenal,1 - 0,Man City
+257,21-10-2023,Man City,2 - 1,Brighton
+258,29-10-2023,Man United,0 - 3,Man City
+259,04-11-2023,Man City,6 - 1,Bournemouth
+260,12-11-2023,Chelsea,4 - 4,Man City
+261,25-11-2023,Man City,1 - 1,Liverpool
+262,03-12-2023,Man City,3 - 3,Tottenham
+263,06-12-2023,Aston Villa,1 - 0,Man City
+264,10-12-2023,Luton,1 - 2,Man City
+265,16-12-2023,Man City,2 - 2,Crystal Palace
+266,27-12-2023,Everton,1 - 3,Man City
+267,30-12-2023,Man City,2 - 0,Sheffield United
+268,13-01-2024,Newcastle,2 - 3,Man City
+269,14-08-2023,Man United,1 - 0,Wolves
+270,19-08-2023,Tottenham,2 - 0,Man United
+271,26-08-2023,Man United,3 - 2,Nott'm Forest
+272,03-09-2023,Arsenal,3 - 1,Man United
+273,16-09-2023,Man United,1 - 3,Brighton
+274,23-09-2023,Burnley,0 - 1,Man United
+275,30-09-2023,Man United,0 - 1,Crystal Palace
+276,07-10-2023,Man United,2 - 1,Brentford
+277,21-10-2023,Sheffield United,1 - 2,Man United
+278,29-10-2023,Man United,0 - 3,Man City
+279,04-11-2023,Fulham,0 - 1,Man United
+280,11-11-2023,Man United,1 - 0,Luton
+281,26-11-2023,Everton,0 - 3,Man United
+282,02-12-2023,Newcastle,1 - 0,Man United
+283,06-12-2023,Man United,2 - 1,Chelsea
+284,09-12-2023,Man United,0 - 3,Bournemouth
+285,17-12-2023,Liverpool,0 - 0,Man United
+286,23-12-2023,West Ham,2 - 0,Man United
+287,26-12-2023,Man United,3 - 2,Aston Villa
+288,30-12-2023,Nott'm Forest,2 - 1,Man United
+289,14-01-2024,Man United,2 - 2,Tottenham
+290,12-08-2023,Newcastle,5 - 1,Aston Villa
+291,19-08-2023,Man City,1 - 0,Newcastle
+292,27-08-2023,Newcastle,1 - 2,Liverpool
+293,02-09-2023,Brighton,3 - 1,Newcastle
+294,16-09-2023,Newcastle,1 - 0,Brentford
+295,24-09-2023,Sheffield United,0 - 8,Newcastle
+296,30-09-2023,Newcastle,2 - 0,Burnley
+297,08-10-2023,West Ham,2 - 2,Newcastle
+298,21-10-2023,Newcastle,4 - 0,Crystal Palace
+299,28-10-2023,Wolves,2 - 2,Newcastle
+300,04-11-2023,Newcastle,1 - 0,Arsenal
+301,11-11-2023,Bournemouth,2 - 0,Newcastle
+302,25-11-2023,Newcastle,4 - 1,Chelsea
+303,02-12-2023,Newcastle,1 - 0,Man United
+304,07-12-2023,Everton,3 - 0,Newcastle
+305,10-12-2023,Tottenham,4 - 1,Newcastle
+306,16-12-2023,Newcastle,3 - 0,Fulham
+307,23-12-2023,Luton,1 - 0,Newcastle
+308,26-12-2023,Newcastle,1 - 3,Nott'm Forest
+309,01-01-2024,Liverpool,4 - 2,Newcastle
+310,13-01-2024,Newcastle,2 - 3,Man City
+311,12-08-2023,Arsenal,2 - 1,Nott'm Forest
+312,18-08-2023,Nott'm Forest,2 - 1,Sheffield United
+313,26-08-2023,Man United,3 - 2,Nott'm Forest
+314,02-09-2023,Chelsea,0 - 1,Nott'm Forest
+315,18-09-2023,Nott'm Forest,1 - 1,Burnley
+316,23-09-2023,Man City,2 - 0,Nott'm Forest
+317,01-10-2023,Nott'm Forest,1 - 1,Brentford
+318,07-10-2023,Crystal Palace,0 - 0,Nott'm Forest
+319,21-10-2023,Nott'm Forest,2 - 2,Luton
+320,29-10-2023,Liverpool,3 - 0,Nott'm Forest
+321,05-11-2023,Nott'm Forest,2 - 0,Aston Villa
+322,12-11-2023,West Ham,3 - 2,Nott'm Forest
+323,25-11-2023,Nott'm Forest,2 - 3,Brighton
+324,02-12-2023,Nott'm Forest,0 - 1,Everton
+325,06-12-2023,Fulham,5 - 0,Nott'm Forest
+326,09-12-2023,Wolves,1 - 1,Nott'm Forest
+327,15-12-2023,Nott'm Forest,0 - 2,Tottenham
+328,23-12-2023,Nott'm Forest,2 - 3,Bournemouth
+329,26-12-2023,Newcastle,1 - 3,Nott'm Forest
+330,30-12-2023,Nott'm Forest,2 - 1,Man United
+331,20-01-2024,Brentford,? - ?,Nott'm Forest
+332,12-08-2023,Sheffield United,0 - 1,Crystal Palace
+333,18-08-2023,Nott'm Forest,2 - 1,Sheffield United
+334,27-08-2023,Sheffield United,1 - 2,Man City
+335,02-09-2023,Sheffield United,2 - 2,Everton
+336,16-09-2023,Tottenham,2 - 1,Sheffield United
+337,24-09-2023,Sheffield United,0 - 8,Newcastle
+338,30-09-2023,West Ham,2 - 0,Sheffield United
+339,07-10-2023,Fulham,3 - 1,Sheffield United
+340,21-10-2023,Sheffield United,1 - 2,Man United
+341,28-10-2023,Arsenal,5 - 0,Sheffield United
+342,04-11-2023,Sheffield United,2 - 1,Wolves
+343,12-11-2023,Brighton,1 - 1,Sheffield United
+344,25-11-2023,Sheffield United,1 - 3,Bournemouth
+345,02-12-2023,Burnley,5 - 0,Sheffield United
+346,06-12-2023,Sheffield United,0 - 2,Liverpool
+347,09-12-2023,Sheffield United,1 - 0,Brentford
+348,16-12-2023,Chelsea,2 - 0,Sheffield United
+349,22-12-2023,Aston Villa,1 - 1,Sheffield United
+350,26-12-2023,Sheffield United,2 - 3,Luton
+351,30-12-2023,Man City,2 - 0,Sheffield United
+352,21-01-2024,Sheffield United,? - ?,West Ham
+353,13-08-2023,Brentford,2 - 2,Tottenham
+354,19-08-2023,Tottenham,2 - 0,Man United
+355,26-08-2023,Bournemouth,0 - 2,Tottenham
+356,02-09-2023,Burnley,2 - 5,Tottenham
+357,16-09-2023,Tottenham,2 - 1,Sheffield United
+358,24-09-2023,Arsenal,2 - 2,Tottenham
+359,30-09-2023,Tottenham,2 - 1,Liverpool
+360,07-10-2023,Luton,0 - 1,Tottenham
+361,23-10-2023,Tottenham,2 - 0,Fulham
+362,27-10-2023,Crystal Palace,1 - 2,Tottenham
+363,06-11-2023,Tottenham,1 - 4,Chelsea
+364,11-11-2023,Wolves,2 - 1,Tottenham
+365,26-11-2023,Tottenham,1 - 2,Aston Villa
+366,03-12-2023,Man City,3 - 3,Tottenham
+367,07-12-2023,Tottenham,1 - 2,West Ham
+368,10-12-2023,Tottenham,4 - 1,Newcastle
+369,15-12-2023,Nott'm Forest,0 - 2,Tottenham
+370,23-12-2023,Tottenham,2 - 1,Everton
+371,28-12-2023,Brighton,4 - 2,Tottenham
+372,31-12-2023,Tottenham,3 - 1,Bournemouth
+373,14-01-2024,Man United,2 - 2,Tottenham
+374,12-08-2023,Bournemouth,1 - 1,West Ham
+375,20-08-2023,West Ham,3 - 1,Chelsea
+376,26-08-2023,Brighton,1 - 3,West Ham
+377,01-09-2023,Luton,1 - 2,West Ham
+378,16-09-2023,West Ham,1 - 3,Man City
+379,24-09-2023,Liverpool,3 - 1,West Ham
+380,30-09-2023,West Ham,2 - 0,Sheffield United
+381,08-10-2023,West Ham,2 - 2,Newcastle
+382,22-10-2023,Aston Villa,4 - 1,West Ham
+383,29-10-2023,West Ham,0 - 1,Everton
+384,04-11-2023,Brentford,3 - 2,West Ham
+385,12-11-2023,West Ham,3 - 2,Nott'm Forest
+386,25-11-2023,Burnley,1 - 2,West Ham
+387,03-12-2023,West Ham,1 - 1,Crystal Palace
+388,07-12-2023,Tottenham,1 - 2,West Ham
+389,10-12-2023,Fulham,5 - 0,West Ham
+390,17-12-2023,West Ham,3 - 0,Wolves
+391,23-12-2023,West Ham,2 - 0,Man United
+392,28-12-2023,Arsenal,0 - 2,West Ham
+393,02-01-2024,West Ham,0 - 0,Brighton
+394,21-01-2024,Sheffield United,? - ?,West Ham
+395,14-08-2023,Man United,1 - 0,Wolves
+396,19-08-2023,Wolves,1 - 4,Brighton
+397,26-08-2023,Everton,0 - 1,Wolves
+398,03-09-2023,Crystal Palace,3 - 2,Wolves
+399,16-09-2023,Wolves,1 - 3,Liverpool
+400,23-09-2023,Luton,1 - 1,Wolves
+401,30-09-2023,Wolves,2 - 1,Man City
+402,08-10-2023,Wolves,1 - 1,Aston Villa
+403,21-10-2023,Bournemouth,1 - 2,Wolves
+404,28-10-2023,Wolves,2 - 2,Newcastle
+405,04-11-2023,Sheffield United,2 - 1,Wolves
+406,11-11-2023,Wolves,2 - 1,Tottenham
+407,27-11-2023,Fulham,3 - 2,Wolves
+408,02-12-2023,Arsenal,2 - 1,Wolves
+409,05-12-2023,Wolves,1 - 0,Burnley
+410,09-12-2023,Wolves,1 - 1,Nott'm Forest
+411,17-12-2023,West Ham,3 - 0,Wolves
+412,24-12-2023,Wolves,2 - 1,Chelsea
+413,27-12-2023,Brentford,1 - 4,Wolves
+414,30-12-2023,Wolves,3 - 0,Everton
+415,22-01-2024,Brighton,? - ?,Wolves
+416,14-08-2023,Cadiz,1 - 0,Alaves
+417,21-08-2023,Alaves,4 - 3,Sevilla
+418,28-08-2023,Getafe,1 - 0,Alaves
+419,02-09-2023,Alaves,1 - 0,Valencia
+420,15-09-2023,Vallecano,2 - 0,Alaves
+421,22-09-2023,Alaves,0 - 2,Ath Bilbao
+422,28-09-2023,Celta,1 - 1,Alaves
+423,01-10-2023,Alaves,0 - 2,Osasuna
+424,08-10-2023,Alaves,1 - 1,Betis
+425,22-10-2023,Villarreal,1 - 1,Alaves
+426,29-10-2023,Ath Madrid,2 - 1,Alaves
+427,05-11-2023,Alaves,1 - 0,Almeria
+428,12-11-2023,Barcelona,2 - 1,Alaves
+429,24-11-2023,Alaves,3 - 1,Granada
+430,03-12-2023,Mallorca,0 - 0,Alaves
+431,09-12-2023,Alaves,0 - 1,Las Palmas
+432,18-12-2023,Girona,3 - 0,Alaves
+433,21-12-2023,Alaves,0 - 1,Real Madrid
+434,02-01-2024,Sociedad,1 - 1,Alaves
+435,12-01-2024,Sevilla,2 - 3,Alaves
+436,19-01-2024,Alaves,? - ?,Cadiz
+437,11-08-2023,Almeria,0 - 2,Vallecano
+438,19-08-2023,Almeria,1 - 3,Real Madrid
+439,26-08-2023,Cadiz,1 - 1,Almeria
+440,01-09-2023,Almeria,2 - 3,Celta
+441,17-09-2023,Villarreal,2 - 1,Almeria
+442,23-09-2023,Almeria,2 - 2,Valencia
+443,26-09-2023,Sevilla,5 - 1,Almeria
+444,01-10-2023,Almeria,3 - 3,Granada
+445,06-10-2023,Ath Bilbao,3 - 0,Almeria
+446,22-10-2023,Girona,5 - 2,Almeria
+447,28-10-2023,Almeria,1 - 2,Las Palmas
+448,05-11-2023,Alaves,1 - 0,Almeria
+449,11-11-2023,Almeria,1 - 3,Sociedad
+450,25-11-2023,Getafe,2 - 1,Almeria
+451,03-12-2023,Almeria,0 - 0,Betis
+452,10-12-2023,Ath Madrid,2 - 1,Almeria
+453,17-12-2023,Almeria,0 - 0,Mallorca
+454,20-12-2023,Barcelona,3 - 2,Almeria
+455,04-01-2024,Osasuna,1 - 0,Almeria
+456,14-01-2024,Almeria,0 - 0,Girona
+457,21-01-2024,Real Madrid,? - ?,Almeria
+458,12-08-2023,Ath Bilbao,0 - 2,Real Madrid
+459,19-08-2023,Osasuna,0 - 2,Ath Bilbao
+460,27-08-2023,Ath Bilbao,4 - 2,Betis
+461,03-09-2023,Mallorca,0 - 0,Ath Bilbao
+462,16-09-2023,Ath Bilbao,3 - 0,Cadiz
+463,22-09-2023,Alaves,0 - 2,Ath Bilbao
+464,27-09-2023,Ath Bilbao,2 - 2,Getafe
+465,30-09-2023,Sociedad,3 - 0,Ath Bilbao
+466,06-10-2023,Ath Bilbao,3 - 0,Almeria
+467,22-10-2023,Barcelona,1 - 0,Ath Bilbao
+468,29-10-2023,Ath Bilbao,2 - 2,Valencia
+469,05-11-2023,Villarreal,2 - 3,Ath Bilbao
+470,10-11-2023,Ath Bilbao,4 - 3,Celta
+471,27-11-2023,Girona,1 - 1,Ath Bilbao
+472,02-12-2023,Ath Bilbao,4 - 0,Vallecano
+473,11-12-2023,Granada,1 - 1,Ath Bilbao
+474,16-12-2023,Ath Bilbao,2 - 0,Ath Madrid
+475,20-12-2023,Ath Bilbao,1 - 0,Las Palmas
+476,04-01-2024,Sevilla,0 - 2,Ath Bilbao
+477,13-01-2024,Ath Bilbao,2 - 1,Sociedad
+478,20-01-2024,Valencia,? - ?,Ath Bilbao
+479,14-08-2023,Ath Madrid,3 - 1,Granada
+480,20-08-2023,Betis,0 - 0,Ath Madrid
+481,28-08-2023,Vallecano,0 - 7,Ath Madrid
+482,16-09-2023,Valencia,3 - 0,Ath Madrid
+483,24-09-2023,Ath Madrid,3 - 1,Real Madrid
+484,28-09-2023,Osasuna,0 - 2,Ath Madrid
+485,01-10-2023,Ath Madrid,3 - 2,Cadiz
+486,08-10-2023,Ath Madrid,2 - 1,Sociedad
+487,21-10-2023,Celta,0 - 3,Ath Madrid
+488,29-10-2023,Ath Madrid,2 - 1,Alaves
+489,03-11-2023,Las Palmas,2 - 1,Ath Madrid
+490,12-11-2023,Ath Madrid,3 - 1,Villarreal
+491,25-11-2023,Ath Madrid,1 - 0,Mallorca
+492,03-12-2023,Barcelona,1 - 0,Ath Madrid
+493,10-12-2023,Ath Madrid,2 - 1,Almeria
+494,16-12-2023,Ath Bilbao,2 - 0,Ath Madrid
+495,19-12-2023,Ath Madrid,3 - 3,Getafe
+496,23-12-2023,Ath Madrid,1 - 0,Sevilla
+497,03-01-2024,Girona,4 - 3,Ath Madrid
+498,22-01-2024,Granada,? - ?,Ath Madrid
+499,13-08-2023,Getafe,0 - 0,Barcelona
+500,20-08-2023,Barcelona,2 - 0,Cadiz
+501,27-08-2023,Villarreal,3 - 4,Barcelona
+502,03-09-2023,Osasuna,1 - 2,Barcelona
+503,16-09-2023,Barcelona,5 - 0,Betis
+504,23-09-2023,Barcelona,3 - 2,Celta
+505,26-09-2023,Mallorca,2 - 2,Barcelona
+506,29-09-2023,Barcelona,1 - 0,Sevilla
+507,08-10-2023,Granada,2 - 2,Barcelona
+508,22-10-2023,Barcelona,1 - 0,Ath Bilbao
+509,28-10-2023,Barcelona,1 - 2,Real Madrid
+510,04-11-2023,Sociedad,0 - 1,Barcelona
+511,12-11-2023,Barcelona,2 - 1,Alaves
+512,25-11-2023,Vallecano,1 - 1,Barcelona
+513,03-12-2023,Barcelona,1 - 0,Ath Madrid
+514,10-12-2023,Barcelona,2 - 4,Girona
+515,16-12-2023,Valencia,1 - 1,Barcelona
+516,20-12-2023,Barcelona,3 - 2,Almeria
+517,04-01-2024,Las Palmas,1 - 2,Barcelona
+518,21-01-2024,Betis,? - ?,Barcelona
+519,13-08-2023,Villarreal,1 - 2,Betis
+520,20-08-2023,Betis,0 - 0,Ath Madrid
+521,27-08-2023,Ath Bilbao,4 - 2,Betis
+522,02-09-2023,Betis,1 - 0,Vallecano
+523,16-09-2023,Barcelona,5 - 0,Betis
+524,24-09-2023,Betis,1 - 1,Cadiz
+525,28-09-2023,Granada,1 - 1,Betis
+526,01-10-2023,Betis,3 - 0,Valencia
+527,08-10-2023,Alaves,1 - 1,Betis
+528,21-10-2023,Getafe,1 - 1,Betis
+529,29-10-2023,Betis,2 - 1,Osasuna
+530,04-11-2023,Betis,2 - 0,Mallorca
+531,12-11-2023,Sevilla,1 - 1,Betis
+532,26-11-2023,Betis,1 - 0,Las Palmas
+533,03-12-2023,Almeria,0 - 0,Betis
+534,09-12-2023,Betis,1 - 1,Real Madrid
+535,17-12-2023,Sociedad,0 - 0,Betis
+536,21-12-2023,Betis,1 - 1,Girona
+537,03-01-2024,Celta,2 - 1,Betis
+538,13-01-2024,Betis,1 - 0,Granada
+539,21-01-2024,Betis,? - ?,Barcelona
+540,14-08-2023,Cadiz,1 - 0,Alaves
+541,20-08-2023,Barcelona,2 - 0,Cadiz
+542,26-08-2023,Cadiz,1 - 1,Almeria
+543,01-09-2023,Cadiz,3 - 1,Villarreal
+544,16-09-2023,Ath Bilbao,3 - 0,Cadiz
+545,24-09-2023,Betis,1 - 1,Cadiz
+546,27-09-2023,Cadiz,0 - 0,Vallecano
+547,01-10-2023,Ath Madrid,3 - 2,Cadiz
+548,07-10-2023,Cadiz,0 - 1,Girona
+549,23-10-2023,Valencia,2 - 0,Cadiz
+550,28-10-2023,Cadiz,2 - 2,Sevilla
+551,06-11-2023,Getafe,1 - 0,Cadiz
+552,26-11-2023,Cadiz,0 - 3,Real Madrid
+553,29-11-2023,Mallorca,1 - 1,Cadiz
+554,04-12-2023,Celta,1 - 1,Cadiz
+555,10-12-2023,Cadiz,1 - 1,Osasuna
+556,17-12-2023,Las Palmas,1 - 1,Cadiz
+557,21-12-2023,Cadiz,0 - 0,Sociedad
+558,03-01-2024,Granada,2 - 0,Cadiz
+559,14-01-2024,Cadiz,1 - 4,Valencia
+560,19-01-2024,Alaves,? - ?,Cadiz
+561,13-08-2023,Celta,0 - 2,Osasuna
+562,19-08-2023,Sociedad,1 - 1,Celta
+563,25-08-2023,Celta,0 - 1,Real Madrid
+564,01-09-2023,Almeria,2 - 3,Celta
+565,16-09-2023,Celta,0 - 1,Mallorca
+566,23-09-2023,Barcelona,3 - 2,Celta
+567,28-09-2023,Celta,1 - 1,Alaves
+568,02-10-2023,Las Palmas,2 - 1,Celta
+569,08-10-2023,Celta,2 - 2,Getafe
+570,21-10-2023,Celta,0 - 3,Ath Madrid
+571,27-10-2023,Girona,1 - 0,Celta
+572,04-11-2023,Celta,1 - 1,Sevilla
+573,10-11-2023,Ath Bilbao,4 - 3,Celta
+574,25-11-2023,Valencia,0 - 0,Celta
+575,04-12-2023,Celta,1 - 1,Cadiz
+576,11-12-2023,Vallecano,0 - 0,Celta
+577,16-12-2023,Celta,1 - 0,Granada
+578,20-12-2023,Villarreal,3 - 2,Celta
+579,03-01-2024,Celta,2 - 1,Betis
+580,13-01-2024,Mallorca,1 - 1,Celta
+581,20-01-2024,Celta,? - ?,Sociedad
+582,13-08-2023,Getafe,0 - 0,Barcelona
+583,20-08-2023,Girona,3 - 0,Getafe
+584,28-08-2023,Getafe,1 - 0,Alaves
+585,02-09-2023,Real Madrid,2 - 1,Getafe
+586,17-09-2023,Getafe,3 - 2,Osasuna
+587,24-09-2023,Sociedad,4 - 3,Getafe
+588,27-09-2023,Ath Bilbao,2 - 2,Getafe
+589,30-09-2023,Getafe,0 - 0,Villarreal
+590,08-10-2023,Celta,2 - 2,Getafe
+591,21-10-2023,Getafe,1 - 1,Betis
+592,28-10-2023,Mallorca,0 - 0,Getafe
+593,06-11-2023,Getafe,1 - 0,Cadiz
+594,11-11-2023,Granada,1 - 1,Getafe
+595,25-11-2023,Getafe,2 - 1,Almeria
+596,01-12-2023,Las Palmas,2 - 0,Getafe
+597,08-12-2023,Getafe,1 - 0,Valencia
+598,16-12-2023,Sevilla,0 - 3,Getafe
+599,19-12-2023,Ath Madrid,3 - 3,Getafe
+600,02-01-2024,Getafe,0 - 2,Vallecano
+601,21-01-2024,Osasuna,? - ?,Getafe
+602,12-08-2023,Sociedad,1 - 1,Girona
+603,20-08-2023,Girona,3 - 0,Getafe
+604,26-08-2023,Sevilla,1 - 2,Girona
+605,03-09-2023,Girona,1 - 0,Las Palmas
+606,18-09-2023,Granada,2 - 4,Girona
+607,23-09-2023,Girona,5 - 3,Mallorca
+608,27-09-2023,Villarreal,1 - 2,Girona
+609,30-09-2023,Girona,0 - 3,Real Madrid
+610,07-10-2023,Cadiz,0 - 1,Girona
+611,22-10-2023,Girona,5 - 2,Almeria
+612,27-10-2023,Girona,1 - 0,Celta
+613,04-11-2023,Osasuna,2 - 4,Girona
+614,11-11-2023,Vallecano,1 - 2,Girona
+615,27-11-2023,Girona,1 - 1,Ath Bilbao
+616,02-12-2023,Girona,2 - 1,Valencia
+617,10-12-2023,Barcelona,2 - 4,Girona
+618,18-12-2023,Girona,3 - 0,Alaves
+619,21-12-2023,Betis,1 - 1,Girona
+620,03-01-2024,Girona,4 - 3,Ath Madrid
+621,14-01-2024,Almeria,0 - 0,Girona
+622,21-01-2024,Girona,? - ?,Sevilla
+623,14-08-2023,Ath Madrid,3 - 1,Granada
+624,21-08-2023,Granada,0 - 2,Vallecano
+625,26-08-2023,Granada,3 - 2,Mallorca
+626,02-09-2023,Sociedad,5 - 3,Granada
+627,18-09-2023,Granada,2 - 4,Girona
+628,24-09-2023,Las Palmas,1 - 0,Granada
+629,28-09-2023,Granada,1 - 1,Betis
+630,01-10-2023,Almeria,3 - 3,Granada
+631,08-10-2023,Granada,2 - 2,Barcelona
+632,20-10-2023,Osasuna,2 - 0,Granada
+633,30-10-2023,Granada,2 - 3,Villarreal
+634,05-11-2023,Valencia,1 - 0,Granada
+635,11-11-2023,Granada,1 - 1,Getafe
+636,24-11-2023,Alaves,3 - 1,Granada
+637,02-12-2023,Real Madrid,2 - 0,Granada
+638,11-12-2023,Granada,1 - 1,Ath Bilbao
+639,16-12-2023,Celta,1 - 0,Granada
+640,19-12-2023,Granada,0 - 3,Sevilla
+641,03-01-2024,Granada,2 - 0,Cadiz
+642,13-01-2024,Betis,1 - 0,Granada
+643,22-01-2024,Granada,? - ?,Ath Madrid
+644,12-08-2023,Las Palmas,1 - 1,Mallorca
+645,18-08-2023,Valencia,1 - 0,Las Palmas
+646,25-08-2023,Las Palmas,0 - 0,Sociedad
+647,03-09-2023,Girona,1 - 0,Las Palmas
+648,17-09-2023,Sevilla,1 - 0,Las Palmas
+649,24-09-2023,Las Palmas,1 - 0,Granada
+650,27-09-2023,Real Madrid,2 - 0,Las Palmas
+651,02-10-2023,Las Palmas,2 - 1,Celta
+652,08-10-2023,Villarreal,1 - 2,Las Palmas
+653,22-10-2023,Las Palmas,0 - 1,Vallecano
+654,28-10-2023,Almeria,1 - 2,Las Palmas
+655,03-11-2023,Las Palmas,2 - 1,Ath Madrid
+656,11-11-2023,Osasuna,1 - 1,Las Palmas
+657,26-11-2023,Betis,1 - 0,Las Palmas
+658,01-12-2023,Las Palmas,2 - 0,Getafe
+659,09-12-2023,Alaves,0 - 1,Las Palmas
+660,17-12-2023,Las Palmas,1 - 1,Cadiz
+661,20-12-2023,Ath Bilbao,1 - 0,Las Palmas
+662,04-01-2024,Las Palmas,1 - 2,Barcelona
+663,13-01-2024,Las Palmas,3 - 0,Villarreal
+664,20-01-2024,Vallecano,? - ?,Las Palmas
+665,12-08-2023,Las Palmas,1 - 1,Mallorca
+666,18-08-2023,Mallorca,0 - 1,Villarreal
+667,26-08-2023,Granada,3 - 2,Mallorca
+668,03-09-2023,Mallorca,0 - 0,Ath Bilbao
+669,16-09-2023,Celta,0 - 1,Mallorca
+670,23-09-2023,Girona,5 - 3,Mallorca
+671,26-09-2023,Mallorca,2 - 2,Barcelona
+672,30-09-2023,Vallecano,2 - 2,Mallorca
+673,07-10-2023,Mallorca,1 - 1,Valencia
+674,21-10-2023,Sociedad,1 - 0,Mallorca
+675,28-10-2023,Mallorca,0 - 0,Getafe
+676,04-11-2023,Betis,2 - 0,Mallorca
+677,25-11-2023,Ath Madrid,1 - 0,Mallorca
+678,29-11-2023,Mallorca,1 - 1,Cadiz
+679,03-12-2023,Mallorca,0 - 0,Alaves
+680,09-12-2023,Mallorca,1 - 0,Sevilla
+681,17-12-2023,Almeria,0 - 0,Mallorca
+682,21-12-2023,Mallorca,3 - 2,Osasuna
+683,03-01-2024,Real Madrid,1 - 0,Mallorca
+684,13-01-2024,Mallorca,1 - 1,Celta
+685,20-01-2024,Villarreal,? - ?,Mallorca
+686,13-08-2023,Celta,0 - 2,Osasuna
+687,19-08-2023,Osasuna,0 - 2,Ath Bilbao
+688,27-08-2023,Valencia,1 - 2,Osasuna
+689,03-09-2023,Osasuna,1 - 2,Barcelona
+690,17-09-2023,Getafe,3 - 2,Osasuna
+691,23-09-2023,Osasuna,0 - 0,Sevilla
+692,28-09-2023,Osasuna,0 - 2,Ath Madrid
+693,01-10-2023,Alaves,0 - 2,Osasuna
+694,07-10-2023,Real Madrid,4 - 0,Osasuna
+695,20-10-2023,Osasuna,2 - 0,Granada
+696,29-10-2023,Betis,2 - 1,Osasuna
+697,04-11-2023,Osasuna,2 - 4,Girona
+698,11-11-2023,Osasuna,1 - 1,Las Palmas
+699,26-11-2023,Villarreal,3 - 1,Osasuna
+700,02-12-2023,Osasuna,1 - 1,Sociedad
+701,10-12-2023,Cadiz,1 - 1,Osasuna
+702,15-12-2023,Osasuna,1 - 0,Vallecano
+703,21-12-2023,Mallorca,3 - 2,Osasuna
+704,04-01-2024,Osasuna,1 - 0,Almeria
+705,21-01-2024,Osasuna,? - ?,Getafe
+706,12-08-2023,Ath Bilbao,0 - 2,Real Madrid
+707,19-08-2023,Almeria,1 - 3,Real Madrid
+708,25-08-2023,Celta,0 - 1,Real Madrid
+709,02-09-2023,Real Madrid,2 - 1,Getafe
+710,17-09-2023,Real Madrid,2 - 1,Sociedad
+711,24-09-2023,Ath Madrid,3 - 1,Real Madrid
+712,27-09-2023,Real Madrid,2 - 0,Las Palmas
+713,30-09-2023,Girona,0 - 3,Real Madrid
+714,07-10-2023,Real Madrid,4 - 0,Osasuna
+715,21-10-2023,Sevilla,1 - 1,Real Madrid
+716,28-10-2023,Barcelona,1 - 2,Real Madrid
+717,05-11-2023,Real Madrid,0 - 0,Vallecano
+718,11-11-2023,Real Madrid,5 - 1,Valencia
+719,26-11-2023,Cadiz,0 - 3,Real Madrid
+720,02-12-2023,Real Madrid,2 - 0,Granada
+721,09-12-2023,Betis,1 - 1,Real Madrid
+722,17-12-2023,Real Madrid,4 - 1,Villarreal
+723,21-12-2023,Alaves,0 - 1,Real Madrid
+724,03-01-2024,Real Madrid,1 - 0,Mallorca
+725,21-01-2024,Real Madrid,? - ?,Almeria
+726,11-08-2023,Sevilla,1 - 2,Valencia
+727,21-08-2023,Alaves,4 - 3,Sevilla
+728,26-08-2023,Sevilla,1 - 2,Girona
+729,17-09-2023,Sevilla,1 - 0,Las Palmas
+730,23-09-2023,Osasuna,0 - 0,Sevilla
+731,26-09-2023,Sevilla,5 - 1,Almeria
+732,29-09-2023,Barcelona,1 - 0,Sevilla
+733,07-10-2023,Sevilla,2 - 2,Vallecano
+734,21-10-2023,Sevilla,1 - 1,Real Madrid
+735,28-10-2023,Cadiz,2 - 2,Sevilla
+736,04-11-2023,Celta,1 - 1,Sevilla
+737,12-11-2023,Sevilla,1 - 1,Betis
+738,26-11-2023,Sociedad,2 - 1,Sevilla
+739,03-12-2023,Sevilla,1 - 1,Villarreal
+740,09-12-2023,Mallorca,1 - 0,Sevilla
+741,16-12-2023,Sevilla,0 - 3,Getafe
+742,19-12-2023,Granada,0 - 3,Sevilla
+743,23-12-2023,Ath Madrid,1 - 0,Sevilla
+744,04-01-2024,Sevilla,0 - 2,Ath Bilbao
+745,12-01-2024,Sevilla,2 - 3,Alaves
+746,21-01-2024,Girona,? - ?,Sevilla
+747,12-08-2023,Sociedad,1 - 1,Girona
+748,19-08-2023,Sociedad,1 - 1,Celta
+749,25-08-2023,Las Palmas,0 - 0,Sociedad
+750,02-09-2023,Sociedad,5 - 3,Granada
+751,17-09-2023,Real Madrid,2 - 1,Sociedad
+752,24-09-2023,Sociedad,4 - 3,Getafe
+753,27-09-2023,Valencia,0 - 1,Sociedad
+754,30-09-2023,Sociedad,3 - 0,Ath Bilbao
+755,08-10-2023,Ath Madrid,2 - 1,Sociedad
+756,21-10-2023,Sociedad,1 - 0,Mallorca
+757,29-10-2023,Vallecano,2 - 2,Sociedad
+758,04-11-2023,Sociedad,0 - 1,Barcelona
+759,11-11-2023,Almeria,1 - 3,Sociedad
+760,26-11-2023,Sociedad,2 - 1,Sevilla
+761,02-12-2023,Osasuna,1 - 1,Sociedad
+762,09-12-2023,Villarreal,0 - 3,Sociedad
+763,17-12-2023,Sociedad,0 - 0,Betis
+764,21-12-2023,Cadiz,0 - 0,Sociedad
+765,02-01-2024,Sociedad,1 - 1,Alaves
+766,13-01-2024,Ath Bilbao,2 - 1,Sociedad
+767,20-01-2024,Celta,? - ?,Sociedad
+768,11-08-2023,Sevilla,1 - 2,Valencia
+769,18-08-2023,Valencia,1 - 0,Las Palmas
+770,27-08-2023,Valencia,1 - 2,Osasuna
+771,02-09-2023,Alaves,1 - 0,Valencia
+772,16-09-2023,Valencia,3 - 0,Ath Madrid
+773,23-09-2023,Almeria,2 - 2,Valencia
+774,27-09-2023,Valencia,0 - 1,Sociedad
+775,01-10-2023,Betis,3 - 0,Valencia
+776,07-10-2023,Mallorca,1 - 1,Valencia
+777,23-10-2023,Valencia,2 - 0,Cadiz
+778,29-10-2023,Ath Bilbao,2 - 2,Valencia
+779,05-11-2023,Valencia,1 - 0,Granada
+780,11-11-2023,Real Madrid,5 - 1,Valencia
+781,25-11-2023,Valencia,0 - 0,Celta
+782,02-12-2023,Girona,2 - 1,Valencia
+783,08-12-2023,Getafe,1 - 0,Valencia
+784,16-12-2023,Valencia,1 - 1,Barcelona
+785,19-12-2023,Vallecano,0 - 1,Valencia
+786,02-01-2024,Valencia,3 - 1,Villarreal
+787,14-01-2024,Cadiz,1 - 4,Valencia
+788,20-01-2024,Valencia,? - ?,Ath Bilbao
+789,11-08-2023,Almeria,0 - 2,Vallecano
+790,21-08-2023,Granada,0 - 2,Vallecano
+791,28-08-2023,Vallecano,0 - 7,Ath Madrid
+792,02-09-2023,Betis,1 - 0,Vallecano
+793,15-09-2023,Vallecano,2 - 0,Alaves
+794,24-09-2023,Vallecano,1 - 1,Villarreal
+795,27-09-2023,Cadiz,0 - 0,Vallecano
+796,30-09-2023,Vallecano,2 - 2,Mallorca
+797,07-10-2023,Sevilla,2 - 2,Vallecano
+798,22-10-2023,Las Palmas,0 - 1,Vallecano
+799,29-10-2023,Vallecano,2 - 2,Sociedad
+800,05-11-2023,Real Madrid,0 - 0,Vallecano
+801,11-11-2023,Vallecano,1 - 2,Girona
+802,25-11-2023,Vallecano,1 - 1,Barcelona
+803,02-12-2023,Ath Bilbao,4 - 0,Vallecano
+804,11-12-2023,Vallecano,0 - 0,Celta
+805,15-12-2023,Osasuna,1 - 0,Vallecano
+806,19-12-2023,Vallecano,0 - 1,Valencia
+807,02-01-2024,Getafe,0 - 2,Vallecano
+808,20-01-2024,Vallecano,? - ?,Las Palmas
+809,13-08-2023,Villarreal,1 - 2,Betis
+810,18-08-2023,Mallorca,0 - 1,Villarreal
+811,27-08-2023,Villarreal,3 - 4,Barcelona
+812,01-09-2023,Cadiz,3 - 1,Villarreal
+813,17-09-2023,Villarreal,2 - 1,Almeria
+814,24-09-2023,Vallecano,1 - 1,Villarreal
+815,27-09-2023,Villarreal,1 - 2,Girona
+816,30-09-2023,Getafe,0 - 0,Villarreal
+817,08-10-2023,Villarreal,1 - 2,Las Palmas
+818,22-10-2023,Villarreal,1 - 1,Alaves
+819,30-10-2023,Granada,2 - 3,Villarreal
+820,05-11-2023,Villarreal,2 - 3,Ath Bilbao
+821,12-11-2023,Ath Madrid,3 - 1,Villarreal
+822,26-11-2023,Villarreal,3 - 1,Osasuna
+823,03-12-2023,Sevilla,1 - 1,Villarreal
+824,09-12-2023,Villarreal,0 - 3,Sociedad
+825,17-12-2023,Real Madrid,4 - 1,Villarreal
+826,20-12-2023,Villarreal,3 - 2,Celta
+827,02-01-2024,Valencia,3 - 1,Villarreal
+828,13-01-2024,Las Palmas,3 - 0,Villarreal
+829,20-01-2024,Villarreal,? - ?,Mallorca
+830,20-12-2023,Union Berlin,2 - 0,1.FC Köln
+831,13-01-2024,1.FC Köln,1 - 1,Heidenheim
+832,20-01-2024,1.FC Köln,? - ?,Dortmund
+833,19-08-2023,Augsburg,4 - 4,M''gladbach
+834,27-08-2023,Bayern Munich,3 - 1,Augsburg
+835,02-09-2023,Augsburg,2 - 2,Bochum
+836,16-09-2023,RB Leipzig,3 - 0,Augsburg
+837,23-09-2023,Augsburg,2 - 1,Mainz
+838,01-10-2023,Freiburg,2 - 0,Augsburg
+839,07-10-2023,Augsburg,1 - 2,Darmstadt
+840,22-10-2023,Heidenheim,2 - 5,Augsburg
+841,28-10-2023,Augsburg,3 - 2,Wolfsburg
+842,04-11-2023,FC Koln,1 - 1,Augsburg
+843,11-11-2023,Augsburg,1 - 1,Hoffenheim
+844,25-11-2023,Union Berlin,1 - 1,Augsburg
+845,03-12-2023,Augsburg,2 - 1,Ein Frankfurt
+846,09-12-2023,Werder Bremen,2 - 0,Augsburg
+847,16-12-2023,Augsburg,1 - 1,Dortmund
+848,20-12-2023,Stuttgart,3 - 0,Augsburg
+849,13-01-2024,Augsburg,0 - 1,Leverkusen
+850,21-01-2024,M''gladbach,? - ?,Augsburg
+851,18-08-2023,Werder Bremen,0 - 4,Bayern Munich
+852,27-08-2023,Bayern Munich,3 - 1,Augsburg
+853,02-09-2023,M''gladbach,1 - 2,Bayern Munich
+854,15-09-2023,Bayern Munich,2 - 2,Leverkusen
+855,23-09-2023,Bayern Munich,7 - 0,Bochum
+856,30-09-2023,RB Leipzig,2 - 2,Bayern Munich
+857,08-10-2023,Bayern Munich,3 - 0,Freiburg
+858,21-10-2023,Mainz,1 - 3,Bayern Munich
+859,28-10-2023,Bayern Munich,8 - 0,Darmstadt
+860,04-11-2023,Dortmund,0 - 4,Bayern Munich
+861,11-11-2023,Bayern Munich,4 - 2,Heidenheim
+862,24-11-2023,FC Koln,0 - 1,Bayern Munich
+863,09-12-2023,Ein Frankfurt,5 - 1,Bayern Munich
+864,17-12-2023,Bayern Munich,3 - 0,Stuttgart
+865,20-12-2023,Wolfsburg,1 - 2,Bayern Munich
+866,12-01-2024,Bayern Munich,3 - 0,Hoffenheim
+867,21-01-2024,Bayern Munich,? - ?,Werder Bremen
+868,19-08-2023,Stuttgart,5 - 0,Bochum
+869,26-08-2023,Bochum,1 - 1,Dortmund
+870,02-09-2023,Augsburg,2 - 2,Bochum
+871,16-09-2023,Bochum,1 - 1,Ein Frankfurt
+872,23-09-2023,Bayern Munich,7 - 0,Bochum
+873,30-09-2023,Bochum,1 - 3,M''gladbach
+874,07-10-2023,RB Leipzig,0 - 0,Bochum
+875,21-10-2023,Freiburg,2 - 1,Bochum
+876,27-10-2023,Bochum,2 - 2,Mainz
+877,03-11-2023,Darmstadt,1 - 2,Bochum
+878,11-11-2023,Bochum,1 - 1,FC Koln
+879,26-11-2023,Heidenheim,0 - 0,Bochum
+880,02-12-2023,Bochum,3 - 1,Wolfsburg
+881,08-12-2023,Hoffenheim,3 - 1,Bochum
+882,16-12-2023,Bochum,3 - 0,Union Berlin
+883,20-08-2023,Ein Frankfurt,1 - 0,Darmstadt
+884,26-08-2023,Darmstadt,1 - 4,Union Berlin
+885,02-09-2023,Leverkusen,5 - 1,Darmstadt
+886,17-09-2023,Darmstadt,3 - 3,M''gladbach
+887,22-09-2023,Stuttgart,3 - 1,Darmstadt
+888,01-10-2023,Darmstadt,4 - 2,Werder Bremen
+889,07-10-2023,Augsburg,1 - 2,Darmstadt
+890,21-10-2023,Darmstadt,1 - 3,RB Leipzig
+891,28-10-2023,Bayern Munich,8 - 0,Darmstadt
+892,03-11-2023,Darmstadt,1 - 2,Bochum
+893,11-11-2023,Darmstadt,0 - 0,Mainz
+894,25-11-2023,Freiburg,1 - 1,Darmstadt
+895,01-12-2023,Darmstadt,0 - 1,FC Koln
+896,09-12-2023,Heidenheim,3 - 2,Darmstadt
+897,16-12-2023,Darmstadt,0 - 1,Wolfsburg
+898,19-12-2023,Hoffenheim,3 - 3,Darmstadt
+899,13-01-2024,Darmstadt,0 - 3,Dortmund
+900,20-01-2024,Darmstadt,? - ?,Ein Frankfurt
+901,19-08-2023,Dortmund,1 - 0,FC Koln
+902,26-08-2023,Bochum,1 - 1,Dortmund
+903,01-09-2023,Dortmund,2 - 2,Heidenheim
+904,16-09-2023,Freiburg,2 - 4,Dortmund
+905,23-09-2023,Dortmund,1 - 0,Wolfsburg
+906,29-09-2023,Hoffenheim,1 - 3,Dortmund
+907,07-10-2023,Dortmund,4 - 2,Union Berlin
+908,20-10-2023,Dortmund,1 - 0,Werder Bremen
+909,29-10-2023,Ein Frankfurt,3 - 3,Dortmund
+910,04-11-2023,Dortmund,0 - 4,Bayern Munich
+911,11-11-2023,Stuttgart,2 - 1,Dortmund
+912,25-11-2023,Dortmund,4 - 2,M''gladbach
+913,03-12-2023,Leverkusen,1 - 1,Dortmund
+914,09-12-2023,Dortmund,2 - 3,RB Leipzig
+915,16-12-2023,Augsburg,1 - 1,Dortmund
+916,19-12-2023,Dortmund,1 - 1,Mainz
+917,13-01-2024,Darmstadt,0 - 3,Dortmund
+918,20-01-2024,1.FC Köln,? - ?,Dortmund
+919,20-08-2023,Ein Frankfurt,1 - 0,Darmstadt
+920,27-08-2023,Mainz,1 - 1,Ein Frankfurt
+921,03-09-2023,Ein Frankfurt,1 - 1,FC Koln
+922,16-09-2023,Bochum,1 - 1,Ein Frankfurt
+923,24-09-2023,Ein Frankfurt,0 - 0,Freiburg
+924,30-09-2023,Wolfsburg,2 - 0,Ein Frankfurt
+925,08-10-2023,Ein Frankfurt,2 - 0,Heidenheim
+926,21-10-2023,Hoffenheim,1 - 3,Ein Frankfurt
+927,29-10-2023,Ein Frankfurt,3 - 3,Dortmund
+928,04-11-2023,Union Berlin,0 - 3,Ein Frankfurt
+929,12-11-2023,Werder Bremen,2 - 2,Ein Frankfurt
+930,25-11-2023,Ein Frankfurt,1 - 2,Stuttgart
+931,03-12-2023,Augsburg,2 - 1,Ein Frankfurt
+932,09-12-2023,Ein Frankfurt,5 - 1,Bayern Munich
+933,17-12-2023,Leverkusen,3 - 0,Ein Frankfurt
+934,20-12-2023,Ein Frankfurt,2 - 1,M''gladbach
+935,13-01-2024,RB Leipzig,0 - 1,Ein Frankfurt
+936,20-01-2024,Darmstadt,? - ?,Ein Frankfurt
+937,19-08-2023,Dortmund,1 - 0,FC Koln
+938,26-08-2023,FC Koln,1 - 2,Wolfsburg
+939,03-09-2023,Ein Frankfurt,1 - 1,FC Koln
+940,16-09-2023,FC Koln,1 - 3,Hoffenheim
+941,23-09-2023,Werder Bremen,2 - 1,FC Koln
+942,30-09-2023,FC Koln,0 - 2,Stuttgart
+943,08-10-2023,Leverkusen,3 - 0,FC Koln
+944,22-10-2023,FC Koln,3 - 1,M''gladbach
+945,28-10-2023,RB Leipzig,6 - 0,FC Koln
+946,04-11-2023,FC Koln,1 - 1,Augsburg
+947,11-11-2023,Bochum,1 - 1,FC Koln
+948,24-11-2023,FC Koln,0 - 1,Bayern Munich
+949,01-12-2023,Darmstadt,0 - 1,FC Koln
+950,10-12-2023,FC Koln,0 - 0,Mainz
+951,17-12-2023,Freiburg,2 - 0,FC Koln
+952,19-08-2023,Hoffenheim,1 - 2,Freiburg
+953,26-08-2023,Freiburg,1 - 0,Werder Bremen
+954,02-09-2023,Stuttgart,5 - 0,Freiburg
+955,16-09-2023,Freiburg,2 - 4,Dortmund
+956,24-09-2023,Ein Frankfurt,0 - 0,Freiburg
+957,01-10-2023,Freiburg,2 - 0,Augsburg
+958,08-10-2023,Bayern Munich,3 - 0,Freiburg
+959,21-10-2023,Freiburg,2 - 1,Bochum
+960,29-10-2023,Leverkusen,2 - 1,Freiburg
+961,04-11-2023,Freiburg,3 - 3,M''gladbach
+962,12-11-2023,RB Leipzig,3 - 1,Freiburg
+963,25-11-2023,Freiburg,1 - 1,Darmstadt
+964,03-12-2023,Mainz,0 - 1,Freiburg
+965,09-12-2023,Wolfsburg,0 - 1,Freiburg
+966,17-12-2023,Freiburg,2 - 0,FC Koln
+967,20-12-2023,Heidenheim,3 - 2,Freiburg
+968,13-01-2024,Freiburg,0 - 0,Union Berlin
+969,20-01-2024,Freiburg,? - ?,Hoffenheim
+970,19-08-2023,Wolfsburg,2 - 0,Heidenheim
+971,26-08-2023,Heidenheim,2 - 3,Hoffenheim
+972,01-09-2023,Dortmund,2 - 2,Heidenheim
+973,17-09-2023,Heidenheim,4 - 2,Werder Bremen
+974,24-09-2023,Leverkusen,4 - 1,Heidenheim
+975,30-09-2023,Heidenheim,1 - 0,Union Berlin
+976,08-10-2023,Ein Frankfurt,2 - 0,Heidenheim
+977,22-10-2023,Heidenheim,2 - 5,Augsburg
+978,28-10-2023,M''gladbach,2 - 1,Heidenheim
+979,05-11-2023,Heidenheim,2 - 0,Stuttgart
+980,11-11-2023,Bayern Munich,4 - 2,Heidenheim
+981,26-11-2023,Heidenheim,0 - 0,Bochum
+982,02-12-2023,RB Leipzig,2 - 1,Heidenheim
+983,09-12-2023,Heidenheim,3 - 2,Darmstadt
+984,16-12-2023,Mainz,0 - 1,Heidenheim
+985,20-12-2023,Heidenheim,3 - 2,Freiburg
+986,13-01-2024,1.FC Köln,1 - 1,Heidenheim
+987,20-01-2024,Heidenheim,? - ?,Wolfsburg
+988,19-08-2023,Hoffenheim,1 - 2,Freiburg
+989,26-08-2023,Heidenheim,2 - 3,Hoffenheim
+990,02-09-2023,Hoffenheim,3 - 1,Wolfsburg
+991,16-09-2023,FC Koln,1 - 3,Hoffenheim
+992,23-09-2023,Union Berlin,0 - 2,Hoffenheim
+993,29-09-2023,Hoffenheim,1 - 3,Dortmund
+994,07-10-2023,Werder Bremen,2 - 3,Hoffenheim
+995,21-10-2023,Hoffenheim,1 - 3,Ein Frankfurt
+996,28-10-2023,Stuttgart,2 - 3,Hoffenheim
+997,04-11-2023,Hoffenheim,2 - 3,Leverkusen
+998,11-11-2023,Augsburg,1 - 1,Hoffenheim
+999,26-11-2023,Hoffenheim,1 - 1,Mainz
+1000,02-12-2023,M''gladbach,2 - 1,Hoffenheim
+1001,08-12-2023,Hoffenheim,3 - 1,Bochum
+1002,16-12-2023,RB Leipzig,3 - 1,Hoffenheim
+1003,19-12-2023,Hoffenheim,3 - 3,Darmstadt
+1004,12-01-2024,Bayern Munich,3 - 0,Hoffenheim
+1005,20-01-2024,Freiburg,? - ?,Hoffenheim
+1006,19-08-2023,Leverkusen,3 - 2,RB Leipzig
+1007,26-08-2023,M''gladbach,0 - 3,Leverkusen
+1008,02-09-2023,Leverkusen,5 - 1,Darmstadt
+1009,15-09-2023,Bayern Munich,2 - 2,Leverkusen
+1010,24-09-2023,Leverkusen,4 - 1,Heidenheim
+1011,30-09-2023,Mainz,0 - 3,Leverkusen
+1012,08-10-2023,Leverkusen,3 - 0,FC Koln
+1013,21-10-2023,Wolfsburg,1 - 2,Leverkusen
+1014,29-10-2023,Leverkusen,2 - 1,Freiburg
+1015,04-11-2023,Hoffenheim,2 - 3,Leverkusen
+1016,12-11-2023,Leverkusen,4 - 0,Union Berlin
+1017,25-11-2023,Werder Bremen,0 - 3,Leverkusen
+1018,03-12-2023,Leverkusen,1 - 1,Dortmund
+1019,10-12-2023,Stuttgart,1 - 1,Leverkusen
+1020,17-12-2023,Leverkusen,3 - 0,Ein Frankfurt
+1021,20-12-2023,Leverkusen,4 - 0,Vfl Bochum
+1022,13-01-2024,Augsburg,0 - 1,Leverkusen
+1023,20-01-2024,RB Leipzig,? - ?,Leverkusen
+1024,19-08-2023,Augsburg,4 - 4,M''gladbach
+1025,26-08-2023,M''gladbach,0 - 3,Leverkusen
+1026,02-09-2023,M''gladbach,1 - 2,Bayern Munich
+1027,17-09-2023,Darmstadt,3 - 3,M''gladbach
+1028,23-09-2023,M''gladbach,0 - 1,RB Leipzig
+1029,30-09-2023,Bochum,1 - 3,M''gladbach
+1030,06-10-2023,M''gladbach,2 - 2,Mainz
+1031,22-10-2023,FC Koln,3 - 1,M''gladbach
+1032,28-10-2023,M''gladbach,2 - 1,Heidenheim
+1033,04-11-2023,Freiburg,3 - 3,M''gladbach
+1034,10-11-2023,M''gladbach,4 - 0,Wolfsburg
+1035,25-11-2023,Dortmund,4 - 2,M''gladbach
+1036,02-12-2023,M''gladbach,2 - 1,Hoffenheim
+1037,09-12-2023,Union Berlin,3 - 1,M''gladbach
+1038,15-12-2023,M''gladbach,2 - 2,Werder Bremen
+1039,20-12-2023,Ein Frankfurt,2 - 1,M''gladbach
+1040,14-01-2024,M''gladbach,3 - 1,Stuttgart
+1041,21-01-2024,M''gladbach,? - ?,Augsburg
+1042,20-08-2023,Union Berlin,4 - 1,Mainz
+1043,27-08-2023,Mainz,1 - 1,Ein Frankfurt
+1044,02-09-2023,Werder Bremen,4 - 0,Mainz
+1045,16-09-2023,Mainz,1 - 3,Stuttgart
+1046,23-09-2023,Augsburg,2 - 1,Mainz
+1047,30-09-2023,Mainz,0 - 3,Leverkusen
+1048,06-10-2023,M''gladbach,2 - 2,Mainz
+1049,21-10-2023,Mainz,1 - 3,Bayern Munich
+1050,27-10-2023,Bochum,2 - 2,Mainz
+1051,04-11-2023,Mainz,2 - 0,RB Leipzig
+1052,11-11-2023,Darmstadt,0 - 0,Mainz
+1053,26-11-2023,Hoffenheim,1 - 1,Mainz
+1054,03-12-2023,Mainz,0 - 1,Freiburg
+1055,10-12-2023,FC Koln,0 - 0,Mainz
+1056,16-12-2023,Mainz,0 - 1,Heidenheim
+1057,19-12-2023,Dortmund,1 - 1,Mainz
+1058,13-01-2024,Mainz,1 - 1,Wolfsburg
+1059,19-01-2024,Mainz,? - ?,Union Berlin
+1060,19-08-2023,Leverkusen,3 - 2,RB Leipzig
+1061,25-08-2023,RB Leipzig,5 - 1,Stuttgart
+1062,03-09-2023,Union Berlin,0 - 3,RB Leipzig
+1063,16-09-2023,RB Leipzig,3 - 0,Augsburg
+1064,23-09-2023,M''gladbach,0 - 1,RB Leipzig
+1065,30-09-2023,RB Leipzig,2 - 2,Bayern Munich
+1066,07-10-2023,RB Leipzig,0 - 0,Bochum
+1067,21-10-2023,Darmstadt,1 - 3,RB Leipzig
+1068,28-10-2023,RB Leipzig,6 - 0,FC Koln
+1069,04-11-2023,Mainz,2 - 0,RB Leipzig
+1070,12-11-2023,RB Leipzig,3 - 1,Freiburg
+1071,25-11-2023,Wolfsburg,2 - 1,RB Leipzig
+1072,02-12-2023,RB Leipzig,2 - 1,Heidenheim
+1073,09-12-2023,Dortmund,2 - 3,RB Leipzig
+1074,16-12-2023,RB Leipzig,3 - 1,Hoffenheim
+1075,19-12-2023,Werder Bremen,1 - 1,RB Leipzig
+1076,13-01-2024,RB Leipzig,0 - 1,Ein Frankfurt
+1077,20-01-2024,RB Leipzig,? - ?,Leverkusen
+1078,19-08-2023,Stuttgart,5 - 0,Bochum
+1079,25-08-2023,RB Leipzig,5 - 1,Stuttgart
+1080,02-09-2023,Stuttgart,5 - 0,Freiburg
+1081,16-09-2023,Mainz,1 - 3,Stuttgart
+1082,22-09-2023,Stuttgart,3 - 1,Darmstadt
+1083,30-09-2023,FC Koln,0 - 2,Stuttgart
+1084,07-10-2023,Stuttgart,3 - 1,Wolfsburg
+1085,21-10-2023,Union Berlin,0 - 3,Stuttgart
+1086,28-10-2023,Stuttgart,2 - 3,Hoffenheim
+1087,05-11-2023,Heidenheim,2 - 0,Stuttgart
+1088,11-11-2023,Stuttgart,2 - 1,Dortmund
+1089,25-11-2023,Ein Frankfurt,1 - 2,Stuttgart
+1090,02-12-2023,Stuttgart,2 - 0,Werder Bremen
+1091,10-12-2023,Stuttgart,1 - 1,Leverkusen
+1092,17-12-2023,Bayern Munich,3 - 0,Stuttgart
+1093,20-12-2023,Stuttgart,3 - 0,Augsburg
+1094,14-01-2024,M''gladbach,3 - 1,Stuttgart
+1095,20-01-2024,Vfl Bochum,? - ?,Stuttgart
+1096,20-08-2023,Union Berlin,4 - 1,Mainz
+1097,26-08-2023,Darmstadt,1 - 4,Union Berlin
+1098,03-09-2023,Union Berlin,0 - 3,RB Leipzig
+1099,16-09-2023,Wolfsburg,2 - 1,Union Berlin
+1100,23-09-2023,Union Berlin,0 - 2,Hoffenheim
+1101,30-09-2023,Heidenheim,1 - 0,Union Berlin
+1102,07-10-2023,Dortmund,4 - 2,Union Berlin
+1103,21-10-2023,Union Berlin,0 - 3,Stuttgart
+1104,28-10-2023,Werder Bremen,2 - 0,Union Berlin
+1105,04-11-2023,Union Berlin,0 - 3,Ein Frankfurt
+1106,12-11-2023,Leverkusen,4 - 0,Union Berlin
+1107,25-11-2023,Union Berlin,1 - 1,Augsburg
+1108,09-12-2023,Union Berlin,3 - 1,M''gladbach
+1109,16-12-2023,Bochum,3 - 0,Union Berlin
+1110,20-12-2023,Union Berlin,2 - 0,1.FC Köln
+1111,13-01-2024,Freiburg,0 - 0,Union Berlin
+1112,19-01-2024,Mainz,? - ?,Union Berlin
+1113,20-12-2023,Leverkusen,4 - 0,Vfl Bochum
+1114,14-01-2024,Vfl Bochum,1 - 1,Werder Bremen
+1115,20-01-2024,Vfl Bochum,? - ?,Stuttgart
+1116,18-08-2023,Werder Bremen,0 - 4,Bayern Munich
+1117,26-08-2023,Freiburg,1 - 0,Werder Bremen
+1118,02-09-2023,Werder Bremen,4 - 0,Mainz
+1119,17-09-2023,Heidenheim,4 - 2,Werder Bremen
+1120,23-09-2023,Werder Bremen,2 - 1,FC Koln
+1121,01-10-2023,Darmstadt,4 - 2,Werder Bremen
+1122,07-10-2023,Werder Bremen,2 - 3,Hoffenheim
+1123,20-10-2023,Dortmund,1 - 0,Werder Bremen
+1124,28-10-2023,Werder Bremen,2 - 0,Union Berlin
+1125,05-11-2023,Wolfsburg,2 - 2,Werder Bremen
+1126,12-11-2023,Werder Bremen,2 - 2,Ein Frankfurt
+1127,25-11-2023,Werder Bremen,0 - 3,Leverkusen
+1128,02-12-2023,Stuttgart,2 - 0,Werder Bremen
+1129,09-12-2023,Werder Bremen,2 - 0,Augsburg
+1130,15-12-2023,M''gladbach,2 - 2,Werder Bremen
+1131,19-12-2023,Werder Bremen,1 - 1,RB Leipzig
+1132,14-01-2024,Vfl Bochum,1 - 1,Werder Bremen
+1133,21-01-2024,Bayern Munich,? - ?,Werder Bremen
+1134,19-08-2023,Wolfsburg,2 - 0,Heidenheim
+1135,26-08-2023,FC Koln,1 - 2,Wolfsburg
+1136,02-09-2023,Hoffenheim,3 - 1,Wolfsburg
+1137,16-09-2023,Wolfsburg,2 - 1,Union Berlin
+1138,23-09-2023,Dortmund,1 - 0,Wolfsburg
+1139,30-09-2023,Wolfsburg,2 - 0,Ein Frankfurt
+1140,07-10-2023,Stuttgart,3 - 1,Wolfsburg
+1141,21-10-2023,Wolfsburg,1 - 2,Leverkusen
+1142,28-10-2023,Augsburg,3 - 2,Wolfsburg
+1143,05-11-2023,Wolfsburg,2 - 2,Werder Bremen
+1144,10-11-2023,M''gladbach,4 - 0,Wolfsburg
+1145,25-11-2023,Wolfsburg,2 - 1,RB Leipzig
+1146,02-12-2023,Bochum,3 - 1,Wolfsburg
+1147,09-12-2023,Wolfsburg,0 - 1,Freiburg
+1148,16-12-2023,Darmstadt,0 - 1,Wolfsburg
+1149,20-12-2023,Wolfsburg,1 - 2,Bayern Munich
+1150,13-01-2024,Mainz,1 - 1,Wolfsburg
+1151,20-01-2024,Heidenheim,? - ?,Wolfsburg
+1152,20-08-2023,Sassuolo,0 - 2,Atalanta
+1153,26-08-2023,Frosinone,2 - 1,Atalanta
+1154,02-09-2023,Atalanta,3 - 0,Monza
+1155,17-09-2023,Fiorentina,3 - 2,Atalanta
+1156,24-09-2023,Atalanta,2 - 0,Cagliari
+1157,27-09-2023,Verona,0 - 1,Atalanta
+1158,01-10-2023,Atalanta,0 - 0,Juventus
+1159,08-10-2023,Lazio,3 - 2,Atalanta
+1160,22-10-2023,Atalanta,2 - 0,Genoa
+1161,30-10-2023,Empoli,0 - 3,Atalanta
+1162,04-11-2023,Atalanta,1 - 2,Inter
+1163,12-11-2023,Udinese,1 - 1,Atalanta
+1164,25-11-2023,Atalanta,1 - 2,Napoli
+1165,04-12-2023,Torino,3 - 0,Atalanta
+1166,09-12-2023,Atalanta,3 - 2,Milan
+1167,18-12-2023,Atalanta,4 - 1,Salernitana
+1168,23-12-2023,Bologna,1 - 0,Atalanta
+1169,30-12-2023,Atalanta,1 - 0,Lecce
+1170,07-01-2024,Roma,1 - 1,Atalanta
+1171,15-01-2024,Atalanta,5 - 0,Frosinone
+1172,21-08-2023,Bologna,0 - 2,Milan
+1173,27-08-2023,Juventus,1 - 1,Bologna
+1174,02-09-2023,Bologna,2 - 1,Cagliari
+1175,18-09-2023,Verona,0 - 0,Bologna
+1176,24-09-2023,Bologna,0 - 0,Napoli
+1177,28-09-2023,Monza,0 - 0,Bologna
+1178,01-10-2023,Bologna,3 - 0,Empoli
+1179,07-10-2023,Inter,2 - 2,Bologna
+1180,22-10-2023,Bologna,2 - 1,Frosinone
+1181,28-10-2023,Sassuolo,1 - 1,Bologna
+1182,03-11-2023,Bologna,1 - 0,Lazio
+1183,12-11-2023,Fiorentina,2 - 1,Bologna
+1184,27-11-2023,Bologna,2 - 0,Torino
+1185,03-12-2023,Lecce,1 - 1,Bologna
+1186,10-12-2023,Salernitana,1 - 2,Bologna
+1187,17-12-2023,Bologna,2 - 0,Roma
+1188,23-12-2023,Bologna,1 - 0,Atalanta
+1189,30-12-2023,Udinese,3 - 0,Bologna
+1190,05-01-2024,Bologna,1 - 1,Genoa
+1191,14-01-2024,Cagliari,2 - 1,Bologna
+1192,21-08-2023,Torino,0 - 0,Cagliari
+1193,28-08-2023,Cagliari,0 - 2,Inter
+1194,02-09-2023,Bologna,2 - 1,Cagliari
+1195,17-09-2023,Cagliari,0 - 0,Udinese
+1196,24-09-2023,Atalanta,2 - 0,Cagliari
+1197,27-09-2023,Cagliari,1 - 3,Milan
+1198,02-10-2023,Fiorentina,3 - 0,Cagliari
+1199,08-10-2023,Cagliari,1 - 4,Roma
+1200,22-10-2023,Salernitana,2 - 2,Cagliari
+1201,29-10-2023,Cagliari,4 - 3,Frosinone
+1202,05-11-2023,Cagliari,2 - 1,Genoa
+1203,11-11-2023,Juventus,2 - 1,Cagliari
+1204,26-11-2023,Cagliari,1 - 1,Monza
+1205,02-12-2023,Lazio,1 - 0,Cagliari
+1206,11-12-2023,Cagliari,2 - 1,Sassuolo
+1207,16-12-2023,Napoli,2 - 1,Cagliari
+1208,23-12-2023,Verona,2 - 0,Cagliari
+1209,30-12-2023,Cagliari,0 - 0,Empoli
+1210,06-01-2024,Lecce,1 - 1,Cagliari
+1211,14-01-2024,Cagliari,2 - 1,Bologna
+1212,21-01-2024,Frosinone,? - ?,Cagliari
+1213,19-08-2023,Empoli,0 - 1,Verona
+1214,26-08-2023,Monza,2 - 0,Empoli
+1215,03-09-2023,Empoli,0 - 2,Juventus
+1216,17-09-2023,Roma,7 - 0,Empoli
+1217,24-09-2023,Empoli,0 - 1,Inter
+1218,27-09-2023,Empoli,1 - 0,Salernitana
+1219,01-10-2023,Bologna,3 - 0,Empoli
+1220,06-10-2023,Empoli,0 - 0,Udinese
+1221,23-10-2023,Fiorentina,0 - 2,Empoli
+1222,30-10-2023,Empoli,0 - 3,Atalanta
+1223,06-11-2023,Frosinone,2 - 1,Empoli
+1224,12-11-2023,Napoli,0 - 1,Empoli
+1225,26-11-2023,Empoli,3 - 4,Sassuolo
+1226,02-12-2023,Genoa,1 - 1,Empoli
+1227,11-12-2023,Empoli,1 - 1,Lecce
+1228,16-12-2023,Torino,1 - 0,Empoli
+1229,22-12-2023,Empoli,0 - 2,Lazio
+1230,30-12-2023,Cagliari,0 - 0,Empoli
+1231,07-01-2024,Empoli,0 - 3,Milan
+1232,13-01-2024,Verona,2 - 1,Empoli
+1233,21-01-2024,Empoli,? - ?,Monza
+1234,19-08-2023,Genoa,1 - 4,Fiorentina
+1235,27-08-2023,Fiorentina,2 - 2,Lecce
+1236,03-09-2023,Inter,4 - 0,Fiorentina
+1237,17-09-2023,Fiorentina,3 - 2,Atalanta
+1238,24-09-2023,Udinese,0 - 2,Fiorentina
+1239,28-09-2023,Frosinone,1 - 1,Fiorentina
+1240,02-10-2023,Fiorentina,3 - 0,Cagliari
+1241,08-10-2023,Napoli,1 - 3,Fiorentina
+1242,23-10-2023,Fiorentina,0 - 2,Empoli
+1243,30-10-2023,Lazio,1 - 0,Fiorentina
+1244,05-11-2023,Fiorentina,0 - 1,Juventus
+1245,12-11-2023,Fiorentina,2 - 1,Bologna
+1246,25-11-2023,Milan,1 - 0,Fiorentina
+1247,03-12-2023,Fiorentina,3 - 0,Salernitana
+1248,10-12-2023,Roma,1 - 1,Fiorentina
+1249,17-12-2023,Fiorentina,1 - 0,Verona
+1250,22-12-2023,Monza,0 - 1,Fiorentina
+1251,29-12-2023,Fiorentina,1 - 0,Torino
+1252,06-01-2024,Sassuolo,1 - 0,Fiorentina
+1253,14-01-2024,Fiorentina,2 - 2,Udinese
+1254,28-01-2024,Fiorentina,? - ?,Inter
+1255,19-08-2023,Frosinone,1 - 3,Napoli
+1256,26-08-2023,Frosinone,2 - 1,Atalanta
+1257,02-09-2023,Udinese,0 - 0,Frosinone
+1258,17-09-2023,Frosinone,4 - 2,Sassuolo
+1259,22-09-2023,Salernitana,1 - 1,Frosinone
+1260,28-09-2023,Frosinone,1 - 1,Fiorentina
+1261,01-10-2023,Roma,2 - 0,Frosinone
+1262,08-10-2023,Frosinone,2 - 1,Verona
+1263,22-10-2023,Bologna,2 - 1,Frosinone
+1264,29-10-2023,Cagliari,4 - 3,Frosinone
+1265,06-11-2023,Frosinone,2 - 1,Empoli
+1266,12-11-2023,Inter,2 - 0,Frosinone
+1267,26-11-2023,Frosinone,2 - 1,Genoa
+1268,02-12-2023,Milan,3 - 1,Frosinone
+1269,10-12-2023,Frosinone,0 - 0,Torino
+1270,16-12-2023,Lecce,2 - 1,Frosinone
+1271,23-12-2023,Frosinone,1 - 2,Juventus
+1272,29-12-2023,Lazio,3 - 1,Frosinone
+1273,06-01-2024,Frosinone,2 - 3,Monza
+1274,15-01-2024,Atalanta,5 - 0,Frosinone
+1275,21-01-2024,Frosinone,? - ?,Cagliari
+1276,19-08-2023,Genoa,1 - 4,Fiorentina
+1277,27-08-2023,Lazio,0 - 1,Genoa
+1278,03-09-2023,Torino,1 - 0,Genoa
+1279,16-09-2023,Genoa,2 - 2,Napoli
+1280,22-09-2023,Lecce,1 - 0,Genoa
+1281,28-09-2023,Genoa,4 - 1,Roma
+1282,01-10-2023,Udinese,2 - 2,Genoa
+1283,07-10-2023,Genoa,0 - 1,Milan
+1284,22-10-2023,Atalanta,2 - 0,Genoa
+1285,27-10-2023,Genoa,1 - 0,Salernitana
+1286,05-11-2023,Cagliari,2 - 1,Genoa
+1287,10-11-2023,Genoa,1 - 0,Verona
+1288,26-11-2023,Frosinone,2 - 1,Genoa
+1289,02-12-2023,Genoa,1 - 1,Empoli
+1290,10-12-2023,Monza,1 - 0,Genoa
+1291,15-12-2023,Genoa,1 - 1,Juventus
+1292,22-12-2023,Sassuolo,1 - 2,Genoa
+1293,29-12-2023,Genoa,1 - 1,Inter
+1294,05-01-2024,Bologna,1 - 1,Genoa
+1295,13-01-2024,Genoa,0 - 0,Torino
+1296,21-01-2024,Salernitana,? - ?,Genoa
+1297,19-08-2023,Inter,2 - 0,Monza
+1298,28-08-2023,Cagliari,0 - 2,Inter
+1299,03-09-2023,Inter,4 - 0,Fiorentina
+1300,16-09-2023,Inter,5 - 1,Milan
+1301,24-09-2023,Empoli,0 - 1,Inter
+1302,27-09-2023,Inter,1 - 2,Sassuolo
+1303,30-09-2023,Salernitana,0 - 4,Inter
+1304,07-10-2023,Inter,2 - 2,Bologna
+1305,21-10-2023,Torino,0 - 3,Inter
+1306,29-10-2023,Inter,1 - 0,Roma
+1307,04-11-2023,Atalanta,1 - 2,Inter
+1308,12-11-2023,Inter,2 - 0,Frosinone
+1309,26-11-2023,Juventus,1 - 1,Inter
+1310,03-12-2023,Napoli,0 - 3,Inter
+1311,09-12-2023,Inter,4 - 0,Udinese
+1312,17-12-2023,Lazio,0 - 2,Inter
+1313,23-12-2023,Inter,2 - 0,Lecce
+1314,29-12-2023,Genoa,1 - 1,Inter
+1315,06-01-2024,Inter,2 - 1,Verona
+1316,13-01-2024,Monza,1 - 5,Inter
+1317,28-01-2024,Fiorentina,? - ?,Inter
+1318,20-08-2023,Udinese,0 - 3,Juventus
+1319,27-08-2023,Juventus,1 - 1,Bologna
+1320,03-09-2023,Empoli,0 - 2,Juventus
+1321,16-09-2023,Juventus,3 - 1,Lazio
+1322,23-09-2023,Sassuolo,4 - 2,Juventus
+1323,26-09-2023,Juventus,1 - 0,Lecce
+1324,01-10-2023,Atalanta,0 - 0,Juventus
+1325,07-10-2023,Juventus,2 - 0,Torino
+1326,22-10-2023,Milan,0 - 1,Juventus
+1327,28-10-2023,Juventus,1 - 0,Verona
+1328,05-11-2023,Fiorentina,0 - 1,Juventus
+1329,11-11-2023,Juventus,2 - 1,Cagliari
+1330,26-11-2023,Juventus,1 - 1,Inter
+1331,01-12-2023,Monza,1 - 2,Juventus
+1332,08-12-2023,Juventus,1 - 0,Napoli
+1333,15-12-2023,Genoa,1 - 1,Juventus
+1334,23-12-2023,Frosinone,1 - 2,Juventus
+1335,30-12-2023,Juventus,1 - 0,Roma
+1336,07-01-2024,Salernitana,1 - 2,Juventus
+1337,16-01-2024,Juventus,3 - 0,Sassuolo
+1338,21-01-2024,Lecce,? - ?,Juventus
+1339,20-08-2023,Lecce,2 - 1,Lazio
+1340,27-08-2023,Lazio,0 - 1,Genoa
+1341,02-09-2023,Napoli,1 - 2,Lazio
+1342,16-09-2023,Juventus,3 - 1,Lazio
+1343,23-09-2023,Lazio,1 - 1,Monza
+1344,27-09-2023,Lazio,2 - 0,Torino
+1345,30-09-2023,Milan,2 - 0,Lazio
+1346,08-10-2023,Lazio,3 - 2,Atalanta
+1347,21-10-2023,Sassuolo,0 - 2,Lazio
+1348,30-10-2023,Lazio,1 - 0,Fiorentina
+1349,03-11-2023,Bologna,1 - 0,Lazio
+1350,12-11-2023,Lazio,0 - 0,Roma
+1351,25-11-2023,Salernitana,2 - 1,Lazio
+1352,02-12-2023,Lazio,1 - 0,Cagliari
+1353,09-12-2023,Verona,1 - 1,Lazio
+1354,17-12-2023,Lazio,0 - 2,Inter
+1355,22-12-2023,Empoli,0 - 2,Lazio
+1356,29-12-2023,Lazio,3 - 1,Frosinone
+1357,07-01-2024,Udinese,1 - 2,Lazio
+1358,14-01-2024,Lazio,1 - 0,Lecce
+1359,28-01-2024,Lazio,? - ?,Napoli
+1360,20-08-2023,Lecce,2 - 1,Lazio
+1361,27-08-2023,Fiorentina,2 - 2,Lecce
+1362,03-09-2023,Lecce,2 - 0,Salernitana
+1363,17-09-2023,Monza,1 - 1,Lecce
+1364,22-09-2023,Lecce,1 - 0,Genoa
+1365,26-09-2023,Juventus,1 - 0,Lecce
+1366,30-09-2023,Lecce,0 - 4,Napoli
+1367,06-10-2023,Lecce,1 - 1,Sassuolo
+1368,23-10-2023,Udinese,1 - 1,Lecce
+1369,28-10-2023,Lecce,0 - 1,Torino
+1370,05-11-2023,Roma,2 - 1,Lecce
+1371,11-11-2023,Lecce,2 - 2,Milan
+1372,27-11-2023,Verona,2 - 2,Lecce
+1373,03-12-2023,Lecce,1 - 1,Bologna
+1374,11-12-2023,Empoli,1 - 1,Lecce
+1375,16-12-2023,Lecce,2 - 1,Frosinone
+1376,23-12-2023,Inter,2 - 0,Lecce
+1377,30-12-2023,Atalanta,1 - 0,Lecce
+1378,06-01-2024,Lecce,1 - 1,Cagliari
+1379,14-01-2024,Lazio,1 - 0,Lecce
+1380,21-01-2024,Lecce,? - ?,Juventus
+1381,21-08-2023,Bologna,0 - 2,Milan
+1382,26-08-2023,Milan,4 - 1,Torino
+1383,01-09-2023,Roma,1 - 2,Milan
+1384,16-09-2023,Inter,5 - 1,Milan
+1385,23-09-2023,Milan,1 - 0,Verona
+1386,27-09-2023,Cagliari,1 - 3,Milan
+1387,30-09-2023,Milan,2 - 0,Lazio
+1388,07-10-2023,Genoa,0 - 1,Milan
+1389,22-10-2023,Milan,0 - 1,Juventus
+1390,29-10-2023,Napoli,2 - 2,Milan
+1391,04-11-2023,Milan,0 - 1,Udinese
+1392,11-11-2023,Lecce,2 - 2,Milan
+1393,25-11-2023,Milan,1 - 0,Fiorentina
+1394,02-12-2023,Milan,3 - 1,Frosinone
+1395,09-12-2023,Atalanta,3 - 2,Milan
+1396,17-12-2023,Milan,3 - 0,Monza
+1397,22-12-2023,Salernitana,2 - 2,Milan
+1398,30-12-2023,Milan,1 - 0,Sassuolo
+1399,07-01-2024,Empoli,0 - 3,Milan
+1400,14-01-2024,Milan,3 - 1,Roma
+1401,20-01-2024,Udinese,? - ?,Milan
+1402,19-08-2023,Inter,2 - 0,Monza
+1403,26-08-2023,Monza,2 - 0,Empoli
+1404,02-09-2023,Atalanta,3 - 0,Monza
+1405,17-09-2023,Monza,1 - 1,Lecce
+1406,23-09-2023,Lazio,1 - 1,Monza
+1407,28-09-2023,Monza,0 - 0,Bologna
+1408,02-10-2023,Sassuolo,0 - 1,Monza
+1409,08-10-2023,Monza,3 - 0,Salernitana
+1410,22-10-2023,Roma,1 - 0,Monza
+1411,29-10-2023,Monza,1 - 1,Udinese
+1412,05-11-2023,Verona,1 - 3,Monza
+1413,11-11-2023,Monza,1 - 1,Torino
+1414,26-11-2023,Cagliari,1 - 1,Monza
+1415,01-12-2023,Monza,1 - 2,Juventus
+1416,10-12-2023,Monza,1 - 0,Genoa
+1417,17-12-2023,Milan,3 - 0,Monza
+1418,22-12-2023,Monza,0 - 1,Fiorentina
+1419,29-12-2023,Napoli,0 - 0,Monza
+1420,06-01-2024,Frosinone,2 - 3,Monza
+1421,13-01-2024,Monza,1 - 5,Inter
+1422,21-01-2024,Empoli,? - ?,Monza
+1423,19-08-2023,Frosinone,1 - 3,Napoli
+1424,27-08-2023,Napoli,2 - 0,Sassuolo
+1425,02-09-2023,Napoli,1 - 2,Lazio
+1426,16-09-2023,Genoa,2 - 2,Napoli
+1427,24-09-2023,Bologna,0 - 0,Napoli
+1428,27-09-2023,Napoli,4 - 1,Udinese
+1429,30-09-2023,Lecce,0 - 4,Napoli
+1430,08-10-2023,Napoli,1 - 3,Fiorentina
+1431,21-10-2023,Verona,1 - 3,Napoli
+1432,29-10-2023,Napoli,2 - 2,Milan
+1433,04-11-2023,Salernitana,0 - 2,Napoli
+1434,12-11-2023,Napoli,0 - 1,Empoli
+1435,25-11-2023,Atalanta,1 - 2,Napoli
+1436,03-12-2023,Napoli,0 - 3,Inter
+1437,08-12-2023,Juventus,1 - 0,Napoli
+1438,16-12-2023,Napoli,2 - 1,Cagliari
+1439,23-12-2023,Roma,2 - 0,Napoli
+1440,29-12-2023,Napoli,0 - 0,Monza
+1441,07-01-2024,Torino,3 - 0,Napoli
+1442,13-01-2024,Napoli,2 - 1,Salernitana
+1443,28-01-2024,Lazio,? - ?,Napoli
+1444,20-08-2023,Roma,2 - 2,Salernitana
+1445,26-08-2023,Verona,2 - 1,Roma
+1446,01-09-2023,Roma,1 - 2,Milan
+1447,17-09-2023,Roma,7 - 0,Empoli
+1448,24-09-2023,Torino,1 - 1,Roma
+1449,28-09-2023,Genoa,4 - 1,Roma
+1450,01-10-2023,Roma,2 - 0,Frosinone
+1451,08-10-2023,Cagliari,1 - 4,Roma
+1452,22-10-2023,Roma,1 - 0,Monza
+1453,29-10-2023,Inter,1 - 0,Roma
+1454,05-11-2023,Roma,2 - 1,Lecce
+1455,12-11-2023,Lazio,0 - 0,Roma
+1456,26-11-2023,Roma,3 - 1,Udinese
+1457,03-12-2023,Sassuolo,1 - 2,Roma
+1458,10-12-2023,Roma,1 - 1,Fiorentina
+1459,17-12-2023,Bologna,2 - 0,Roma
+1460,23-12-2023,Roma,2 - 0,Napoli
+1461,30-12-2023,Juventus,1 - 0,Roma
+1462,07-01-2024,Roma,1 - 1,Atalanta
+1463,14-01-2024,Milan,3 - 1,Roma
+1464,20-01-2024,Roma,? - ?,Verona
+1465,20-08-2023,Roma,2 - 2,Salernitana
+1466,28-08-2023,Salernitana,1 - 1,Udinese
+1467,03-09-2023,Lecce,2 - 0,Salernitana
+1468,18-09-2023,Salernitana,0 - 3,Torino
+1469,22-09-2023,Salernitana,1 - 1,Frosinone
+1470,27-09-2023,Empoli,1 - 0,Salernitana
+1471,30-09-2023,Salernitana,0 - 4,Inter
+1472,08-10-2023,Monza,3 - 0,Salernitana
+1473,22-10-2023,Salernitana,2 - 2,Cagliari
+1474,27-10-2023,Genoa,1 - 0,Salernitana
+1475,04-11-2023,Salernitana,0 - 2,Napoli
+1476,10-11-2023,Sassuolo,2 - 2,Salernitana
+1477,25-11-2023,Salernitana,2 - 1,Lazio
+1478,03-12-2023,Fiorentina,3 - 0,Salernitana
+1479,10-12-2023,Salernitana,1 - 2,Bologna
+1480,18-12-2023,Atalanta,4 - 1,Salernitana
+1481,22-12-2023,Salernitana,2 - 2,Milan
+1482,30-12-2023,Verona,0 - 1,Salernitana
+1483,07-01-2024,Salernitana,1 - 2,Juventus
+1484,13-01-2024,Napoli,2 - 1,Salernitana
+1485,21-01-2024,Salernitana,? - ?,Genoa
+1486,20-08-2023,Sassuolo,0 - 2,Atalanta
+1487,27-08-2023,Napoli,2 - 0,Sassuolo
+1488,01-09-2023,Sassuolo,3 - 1,Verona
+1489,17-09-2023,Frosinone,4 - 2,Sassuolo
+1490,23-09-2023,Sassuolo,4 - 2,Juventus
+1491,27-09-2023,Inter,1 - 2,Sassuolo
+1492,02-10-2023,Sassuolo,0 - 1,Monza
+1493,06-10-2023,Lecce,1 - 1,Sassuolo
+1494,21-10-2023,Sassuolo,0 - 2,Lazio
+1495,28-10-2023,Sassuolo,1 - 1,Bologna
+1496,06-11-2023,Torino,2 - 1,Sassuolo
+1497,10-11-2023,Sassuolo,2 - 2,Salernitana
+1498,26-11-2023,Empoli,3 - 4,Sassuolo
+1499,03-12-2023,Sassuolo,1 - 2,Roma
+1500,11-12-2023,Cagliari,2 - 1,Sassuolo
+1501,17-12-2023,Udinese,2 - 2,Sassuolo
+1502,22-12-2023,Sassuolo,1 - 2,Genoa
+1503,30-12-2023,Milan,1 - 0,Sassuolo
+1504,06-01-2024,Sassuolo,1 - 0,Fiorentina
+1505,16-01-2024,Juventus,3 - 0,Sassuolo
+1506,21-08-2023,Torino,0 - 0,Cagliari
+1507,26-08-2023,Milan,4 - 1,Torino
+1508,03-09-2023,Torino,1 - 0,Genoa
+1509,18-09-2023,Salernitana,0 - 3,Torino
+1510,24-09-2023,Torino,1 - 1,Roma
+1511,27-09-2023,Lazio,2 - 0,Torino
+1512,02-10-2023,Torino,0 - 0,Verona
+1513,07-10-2023,Juventus,2 - 0,Torino
+1514,21-10-2023,Torino,0 - 3,Inter
+1515,28-10-2023,Lecce,0 - 1,Torino
+1516,06-11-2023,Torino,2 - 1,Sassuolo
+1517,11-11-2023,Monza,1 - 1,Torino
+1518,27-11-2023,Bologna,2 - 0,Torino
+1519,04-12-2023,Torino,3 - 0,Atalanta
+1520,10-12-2023,Frosinone,0 - 0,Torino
+1521,16-12-2023,Torino,1 - 0,Empoli
+1522,23-12-2023,Torino,1 - 1,Udinese
+1523,29-12-2023,Fiorentina,1 - 0,Torino
+1524,07-01-2024,Torino,3 - 0,Napoli
+1525,13-01-2024,Genoa,0 - 0,Torino
+1526,20-08-2023,Udinese,0 - 3,Juventus
+1527,28-08-2023,Salernitana,1 - 1,Udinese
+1528,02-09-2023,Udinese,0 - 0,Frosinone
+1529,17-09-2023,Cagliari,0 - 0,Udinese
+1530,24-09-2023,Udinese,0 - 2,Fiorentina
+1531,27-09-2023,Napoli,4 - 1,Udinese
+1532,01-10-2023,Udinese,2 - 2,Genoa
+1533,06-10-2023,Empoli,0 - 0,Udinese
+1534,23-10-2023,Udinese,1 - 1,Lecce
+1535,29-10-2023,Monza,1 - 1,Udinese
+1536,04-11-2023,Milan,0 - 1,Udinese
+1537,12-11-2023,Udinese,1 - 1,Atalanta
+1538,26-11-2023,Roma,3 - 1,Udinese
+1539,03-12-2023,Udinese,3 - 3,Verona
+1540,09-12-2023,Inter,4 - 0,Udinese
+1541,17-12-2023,Udinese,2 - 2,Sassuolo
+1542,23-12-2023,Torino,1 - 1,Udinese
+1543,30-12-2023,Udinese,3 - 0,Bologna
+1544,07-01-2024,Udinese,1 - 2,Lazio
+1545,14-01-2024,Fiorentina,2 - 2,Udinese
+1546,20-01-2024,Udinese,? - ?,Milan
+1547,19-08-2023,Empoli,0 - 1,Verona
+1548,26-08-2023,Verona,2 - 1,Roma
+1549,01-09-2023,Sassuolo,3 - 1,Verona
+1550,18-09-2023,Verona,0 - 0,Bologna
+1551,23-09-2023,Milan,1 - 0,Verona
+1552,27-09-2023,Verona,0 - 1,Atalanta
+1553,02-10-2023,Torino,0 - 0,Verona
+1554,08-10-2023,Frosinone,2 - 1,Verona
+1555,21-10-2023,Verona,1 - 3,Napoli
+1556,28-10-2023,Juventus,1 - 0,Verona
+1557,05-11-2023,Verona,1 - 3,Monza
+1558,10-11-2023,Genoa,1 - 0,Verona
+1559,27-11-2023,Verona,2 - 2,Lecce
+1560,03-12-2023,Udinese,3 - 3,Verona
+1561,09-12-2023,Verona,1 - 1,Lazio
+1562,17-12-2023,Fiorentina,1 - 0,Verona
+1563,23-12-2023,Verona,2 - 0,Cagliari
+1564,30-12-2023,Verona,0 - 1,Salernitana
+1565,06-01-2024,Inter,2 - 1,Verona
+1566,13-01-2024,Verona,2 - 1,Empoli
+1567,20-01-2024,Roma,? - ?,Verona
+1568,13-08-2023,Brest,3 - 2,Lens
+1569,20-08-2023,Le Havre,1 - 2,Brest
+1570,26-08-2023,Marseille,2 - 0,Brest
+1571,02-09-2023,Brest,0 - 0,Rennes
+1572,17-09-2023,Reims,1 - 2,Brest
+1573,23-09-2023,Brest,1 - 0,Lyon
+1574,01-10-2023,Nice,0 - 0,Brest
+1575,08-10-2023,Brest,1 - 1,Toulouse
+1576,22-10-2023,Lille,1 - 0,Brest
+1577,29-10-2023,Brest,2 - 3,Paris SG
+1578,05-11-2023,Monaco,2 - 0,Brest
+1579,26-11-2023,Montpellier,1 - 3,Brest
+1580,03-12-2023,Brest,3 - 0,Clermont
+1581,07-12-2023,Brest,1 - 1,Strasbourg
+1582,10-12-2023,Metz,0 - 1,Brest
+1583,17-12-2023,Nantes,0 - 2,Brest
+1584,20-12-2023,Brest,4 - 0,Lorient
+1585,14-01-2024,Brest,2 - 0,Montpellier
+1586,28-01-2024,Paris SG,? - ?,Brest
+1587,13-08-2023,Clermont,2 - 4,Monaco
+1588,20-08-2023,Reims,2 - 0,Clermont
+1589,27-08-2023,Clermont,0 - 1,Metz
+1590,03-09-2023,Toulouse,2 - 2,Clermont
+1591,17-09-2023,Clermont,0 - 1,Nantes
+1592,24-09-2023,Le Havre,2 - 1,Clermont
+1593,30-09-2023,Clermont,0 - 0,Paris SG
+1594,22-10-2023,Lyon,1 - 2,Clermont
+1595,27-10-2023,Clermont,0 - 1,Nice
+1596,05-11-2023,Strasbourg,0 - 0,Clermont
+1597,12-11-2023,Clermont,1 - 0,Lorient
+1598,25-11-2023,Clermont,0 - 3,Lens
+1599,29-11-2023,Montpellier,1 - 1,Clermont
+1600,03-12-2023,Brest,3 - 0,Clermont
+1601,10-12-2023,Clermont,0 - 0,Lille
+1602,17-12-2023,Marseille,2 - 1,Clermont
+1603,20-12-2023,Clermont,1 - 3,Rennes
+1604,14-01-2024,Nantes,1 - 2,Clermont
+1605,28-01-2024,Clermont,? - ?,Strasbourg
+1606,13-08-2023,Montpellier,2 - 2,Le Havre
+1607,20-08-2023,Le Havre,1 - 2,Brest
+1608,27-08-2023,Rennes,2 - 2,Le Havre
+1609,03-09-2023,Le Havre,3 - 0,Lorient
+1610,17-09-2023,Lyon,0 - 0,Le Havre
+1611,24-09-2023,Le Havre,2 - 1,Clermont
+1612,01-10-2023,Le Havre,0 - 2,Lille
+1613,08-10-2023,Marseille,3 - 0,Le Havre
+1614,20-10-2023,Le Havre,0 - 0,Lens
+1615,29-10-2023,Metz,0 - 0,Le Havre
+1616,05-11-2023,Toulouse,1 - 2,Le Havre
+1617,11-11-2023,Le Havre,0 - 0,Monaco
+1618,26-11-2023,Nantes,0 - 0,Le Havre
+1619,03-12-2023,Le Havre,0 - 2,Paris SG
+1620,10-12-2023,Strasbourg,2 - 1,Le Havre
+1621,16-12-2023,Le Havre,3 - 1,Nice
+1622,20-12-2023,Reims,1 - 0,Le Havre
+1623,14-01-2024,Le Havre,3 - 1,Lyon
+1624,28-01-2024,Lorient,? - ?,Le Havre
+1625,13-08-2023,Brest,3 - 2,Lens
+1626,20-08-2023,Lens,1 - 1,Rennes
+1627,26-08-2023,Paris SG,3 - 1,Lens
+1628,02-09-2023,Monaco,3 - 0,Lens
+1629,16-09-2023,Lens,0 - 1,Metz
+1630,24-09-2023,Lens,2 - 1,Toulouse
+1631,29-09-2023,Strasbourg,0 - 1,Lens
+1632,08-10-2023,Lens,1 - 1,Lille
+1633,20-10-2023,Le Havre,0 - 0,Lens
+1634,28-10-2023,Lens,4 - 0,Nantes
+1635,04-11-2023,Lorient,0 - 0,Lens
+1636,12-11-2023,Lens,1 - 0,Marseille
+1637,25-11-2023,Clermont,0 - 3,Lens
+1638,02-12-2023,Lens,3 - 2,Lyon
+1639,08-12-2023,Montpellier,0 - 0,Lens
+1640,16-12-2023,Lens,2 - 0,Reims
+1641,20-12-2023,Nice,2 - 0,Lens
+1642,14-01-2024,Lens,0 - 2,Paris SG
+1643,28-01-2024,Toulouse,? - ?,Lens
+1644,11-08-2023,Nice,1 - 1,Lille
+1645,20-08-2023,Lille,2 - 0,Nantes
+1646,27-08-2023,Lorient,4 - 1,Lille
+1647,03-09-2023,Lille,1 - 0,Montpellier
+1648,16-09-2023,Rennes,2 - 2,Lille
+1649,26-09-2023,Lille,1 - 2,Reims
+1650,01-10-2023,Le Havre,0 - 2,Lille
+1651,08-10-2023,Lens,1 - 1,Lille
+1652,22-10-2023,Lille,1 - 0,Brest
+1653,29-10-2023,Lille,2 - 0,Monaco
+1654,04-11-2023,Marseille,0 - 0,Lille
+1655,12-11-2023,Lille,1 - 1,Toulouse
+1656,26-11-2023,Lyon,0 - 2,Lille
+1657,03-12-2023,Lille,2 - 0,Metz
+1658,10-12-2023,Clermont,0 - 0,Lille
+1659,17-12-2023,Lille,1 - 1,Paris SG
+1660,20-12-2023,Strasbourg,2 - 1,Lille
+1661,14-01-2024,Lille,3 - 0,Lorient
+1662,28-01-2024,Montpellier,? - ?,Lille
+1663,12-08-2023,Paris SG,0 - 0,Lorient
+1664,20-08-2023,Lorient,1 - 1,Nice
+1665,27-08-2023,Lorient,4 - 1,Lille
+1666,03-09-2023,Le Havre,3 - 0,Lorient
+1667,17-09-2023,Lorient,2 - 2,Monaco
+1668,23-09-2023,Nantes,5 - 3,Lorient
+1669,01-10-2023,Lorient,0 - 3,Montpellier
+1670,08-10-2023,Lyon,3 - 3,Lorient
+1671,22-10-2023,Lorient,2 - 1,Rennes
+1672,28-10-2023,Reims,1 - 0,Lorient
+1673,04-11-2023,Lorient,0 - 0,Lens
+1674,12-11-2023,Clermont,1 - 0,Lorient
+1675,26-11-2023,Lorient,2 - 3,Metz
+1676,03-12-2023,Toulouse,1 - 1,Lorient
+1677,10-12-2023,Lorient,2 - 4,Marseille
+1678,17-12-2023,Lorient,1 - 2,Strasbourg
+1679,20-12-2023,Brest,4 - 0,Lorient
+1680,14-01-2024,Lille,3 - 0,Lorient
+1681,28-01-2024,Lorient,? - ?,Le Havre
+1682,13-08-2023,Strasbourg,2 - 1,Lyon
+1683,19-08-2023,Lyon,1 - 4,Montpellier
+1684,27-08-2023,Nice,0 - 0,Lyon
+1685,03-09-2023,Lyon,1 - 4,Paris SG
+1686,17-09-2023,Lyon,0 - 0,Le Havre
+1687,23-09-2023,Brest,1 - 0,Lyon
+1688,01-10-2023,Reims,2 - 0,Lyon
+1689,08-10-2023,Lyon,3 - 3,Lorient
+1690,22-10-2023,Lyon,1 - 2,Clermont
+1691,05-11-2023,Lyon,1 - 1,Metz
+1692,12-11-2023,Rennes,0 - 1,Lyon
+1693,26-11-2023,Lyon,0 - 2,Lille
+1694,02-12-2023,Lens,3 - 2,Lyon
+1695,06-12-2023,Marseille,3 - 0,Lyon
+1696,10-12-2023,Lyon,3 - 0,Toulouse
+1697,15-12-2023,Monaco,0 - 1,Lyon
+1698,20-12-2023,Lyon,1 - 0,Nantes
+1699,14-01-2024,Le Havre,3 - 1,Lyon
+1700,26-01-2024,Lyon,? - ?,Rennes
+1701,12-08-2023,Marseille,2 - 1,Reims
+1702,18-08-2023,Metz,2 - 2,Marseille
+1703,26-08-2023,Marseille,2 - 0,Brest
+1704,01-09-2023,Nantes,1 - 1,Marseille
+1705,17-09-2023,Marseille,0 - 0,Toulouse
+1706,24-09-2023,Paris SG,4 - 0,Marseille
+1707,30-09-2023,Monaco,3 - 2,Marseille
+1708,08-10-2023,Marseille,3 - 0,Le Havre
+1709,21-10-2023,Nice,1 - 0,Marseille
+1710,04-11-2023,Marseille,0 - 0,Lille
+1711,12-11-2023,Lens,1 - 0,Marseille
+1712,25-11-2023,Strasbourg,1 - 1,Marseille
+1713,03-12-2023,Marseille,2 - 0,Rennes
+1714,06-12-2023,Marseille,3 - 0,Lyon
+1715,10-12-2023,Lorient,2 - 4,Marseille
+1716,17-12-2023,Marseille,2 - 1,Clermont
+1717,20-12-2023,Montpellier,1 - 1,Marseille
+1718,12-01-2024,Marseille,1 - 1,Strasbourg
+1719,27-01-2024,Marseille,? - ?,Monaco
+1720,13-08-2023,Rennes,5 - 1,Metz
+1721,18-08-2023,Metz,2 - 2,Marseille
+1722,27-08-2023,Clermont,0 - 1,Metz
+1723,03-09-2023,Metz,2 - 2,Reims
+1724,16-09-2023,Lens,0 - 1,Metz
+1725,24-09-2023,Metz,0 - 1,Strasbourg
+1726,01-10-2023,Toulouse,3 - 0,Metz
+1727,07-10-2023,Metz,0 - 1,Nice
+1728,22-10-2023,Monaco,2 - 1,Metz
+1729,29-10-2023,Metz,0 - 0,Le Havre
+1730,05-11-2023,Lyon,1 - 1,Metz
+1731,12-11-2023,Metz,3 - 1,Nantes
+1732,26-11-2023,Lorient,2 - 3,Metz
+1733,03-12-2023,Lille,2 - 0,Metz
+1734,10-12-2023,Metz,0 - 1,Brest
+1735,17-12-2023,Metz,0 - 1,Montpellier
+1736,20-12-2023,Paris SG,3 - 1,Metz
+1737,14-01-2024,Metz,0 - 1,Toulouse
+1738,27-01-2024,Nice,? - ?,Metz
+1739,13-08-2023,Clermont,2 - 4,Monaco
+1740,20-08-2023,Monaco,3 - 0,Strasbourg
+1741,25-08-2023,Nantes,3 - 3,Monaco
+1742,02-09-2023,Monaco,3 - 0,Lens
+1743,17-09-2023,Lorient,2 - 2,Monaco
+1744,22-09-2023,Monaco,0 - 1,Nice
+1745,30-09-2023,Monaco,3 - 2,Marseille
+1746,07-10-2023,Reims,1 - 3,Monaco
+1747,22-10-2023,Monaco,2 - 1,Metz
+1748,29-10-2023,Lille,2 - 0,Monaco
+1749,05-11-2023,Monaco,2 - 0,Brest
+1750,11-11-2023,Le Havre,0 - 0,Monaco
+1751,24-11-2023,Paris SG,5 - 2,Monaco
+1752,03-12-2023,Monaco,2 - 0,Montpellier
+1753,09-12-2023,Rennes,1 - 2,Monaco
+1754,15-12-2023,Monaco,0 - 1,Lyon
+1755,20-12-2023,Toulouse,1 - 2,Monaco
+1756,13-01-2024,Monaco,1 - 3,Reims
+1757,27-01-2024,Marseille,? - ?,Monaco
+1758,13-08-2023,Montpellier,2 - 2,Le Havre
+1759,19-08-2023,Lyon,1 - 4,Montpellier
+1760,27-08-2023,Montpellier,1 - 3,Reims
+1761,03-09-2023,Lille,1 - 0,Montpellier
+1762,17-09-2023,Strasbourg,2 - 2,Montpellier
+1763,24-09-2023,Montpellier,0 - 0,Rennes
+1764,01-10-2023,Lorient,0 - 3,Montpellier
+1765,22-10-2023,Nantes,2 - 0,Montpellier
+1766,29-10-2023,Montpellier,3 - 0,Toulouse
+1767,03-11-2023,Paris SG,3 - 0,Montpellier
+1768,10-11-2023,Montpellier,0 - 0,Nice
+1769,26-11-2023,Montpellier,1 - 3,Brest
+1770,29-11-2023,Montpellier,1 - 1,Clermont
+1771,03-12-2023,Monaco,2 - 0,Montpellier
+1772,08-12-2023,Montpellier,0 - 0,Lens
+1773,17-12-2023,Metz,0 - 1,Montpellier
+1774,20-12-2023,Montpellier,1 - 1,Marseille
+1775,14-01-2024,Brest,2 - 0,Montpellier
+1776,28-01-2024,Montpellier,? - ?,Lille
+1777,13-08-2023,Nantes,1 - 2,Toulouse
+1778,20-08-2023,Lille,2 - 0,Nantes
+1779,25-08-2023,Nantes,3 - 3,Monaco
+1780,01-09-2023,Nantes,1 - 1,Marseille
+1781,17-09-2023,Clermont,0 - 1,Nantes
+1782,23-09-2023,Nantes,5 - 3,Lorient
+1783,01-10-2023,Rennes,3 - 1,Nantes
+1784,06-10-2023,Strasbourg,1 - 2,Nantes
+1785,22-10-2023,Nantes,2 - 0,Montpellier
+1786,28-10-2023,Lens,4 - 0,Nantes
+1787,05-11-2023,Nantes,0 - 1,Reims
+1788,12-11-2023,Metz,3 - 1,Nantes
+1789,26-11-2023,Nantes,0 - 0,Le Havre
+1790,02-12-2023,Nantes,1 - 0,Nice
+1791,09-12-2023,Paris SG,2 - 1,Nantes
+1792,17-12-2023,Nantes,0 - 2,Brest
+1793,20-12-2023,Lyon,1 - 0,Nantes
+1794,14-01-2024,Nantes,1 - 2,Clermont
+1795,28-01-2024,Reims,? - ?,Nantes
+1796,11-08-2023,Nice,1 - 1,Lille
+1797,20-08-2023,Lorient,1 - 1,Nice
+1798,27-08-2023,Nice,0 - 0,Lyon
+1799,03-09-2023,Nice,2 - 0,Strasbourg
+1800,15-09-2023,Paris SG,2 - 3,Nice
+1801,22-09-2023,Monaco,0 - 1,Nice
+1802,01-10-2023,Nice,0 - 0,Brest
+1803,07-10-2023,Metz,0 - 1,Nice
+1804,21-10-2023,Nice,1 - 0,Marseille
+1805,27-10-2023,Clermont,0 - 1,Nice
+1806,05-11-2023,Nice,2 - 0,Rennes
+1807,10-11-2023,Montpellier,0 - 0,Nice
+1808,26-11-2023,Nice,1 - 0,Toulouse
+1809,02-12-2023,Nantes,1 - 0,Nice
+1810,10-12-2023,Nice,2 - 1,Reims
+1811,16-12-2023,Le Havre,3 - 1,Nice
+1812,20-12-2023,Nice,2 - 0,Lens
+1813,13-01-2024,Rennes,2 - 0,Nice
+1814,27-01-2024,Nice,? - ?,Metz
+1815,12-08-2023,Paris SG,0 - 0,Lorient
+1816,19-08-2023,Toulouse,1 - 1,Paris SG
+1817,26-08-2023,Paris SG,3 - 1,Lens
+1818,03-09-2023,Lyon,1 - 4,Paris SG
+1819,15-09-2023,Paris SG,2 - 3,Nice
+1820,24-09-2023,Paris SG,4 - 0,Marseille
+1821,30-09-2023,Clermont,0 - 0,Paris SG
+1822,08-10-2023,Rennes,1 - 3,Paris SG
+1823,21-10-2023,Paris SG,3 - 0,Strasbourg
+1824,29-10-2023,Brest,2 - 3,Paris SG
+1825,03-11-2023,Paris SG,3 - 0,Montpellier
+1826,11-11-2023,Reims,0 - 3,Paris SG
+1827,24-11-2023,Paris SG,5 - 2,Monaco
+1828,03-12-2023,Le Havre,0 - 2,Paris SG
+1829,09-12-2023,Paris SG,2 - 1,Nantes
+1830,17-12-2023,Lille,1 - 1,Paris SG
+1831,20-12-2023,Paris SG,3 - 1,Metz
+1832,14-01-2024,Lens,0 - 2,Paris SG
+1833,28-01-2024,Paris SG,? - ?,Brest
+1834,12-08-2023,Marseille,2 - 1,Reims
+1835,20-08-2023,Reims,2 - 0,Clermont
+1836,27-08-2023,Montpellier,1 - 3,Reims
+1837,03-09-2023,Metz,2 - 2,Reims
+1838,17-09-2023,Reims,1 - 2,Brest
+1839,26-09-2023,Lille,1 - 2,Reims
+1840,01-10-2023,Reims,2 - 0,Lyon
+1841,07-10-2023,Reims,1 - 3,Monaco
+1842,22-10-2023,Toulouse,1 - 1,Reims
+1843,28-10-2023,Reims,1 - 0,Lorient
+1844,05-11-2023,Nantes,0 - 1,Reims
+1845,11-11-2023,Reims,0 - 3,Paris SG
+1846,26-11-2023,Rennes,3 - 1,Reims
+1847,01-12-2023,Reims,2 - 1,Strasbourg
+1848,10-12-2023,Nice,2 - 1,Reims
+1849,16-12-2023,Lens,2 - 0,Reims
+1850,20-12-2023,Reims,1 - 0,Le Havre
+1851,13-01-2024,Monaco,1 - 3,Reims
+1852,28-01-2024,Reims,? - ?,Nantes
+1853,13-08-2023,Rennes,5 - 1,Metz
+1854,20-08-2023,Lens,1 - 1,Rennes
+1855,27-08-2023,Rennes,2 - 2,Le Havre
+1856,02-09-2023,Brest,0 - 0,Rennes
+1857,16-09-2023,Rennes,2 - 2,Lille
+1858,24-09-2023,Montpellier,0 - 0,Rennes
+1859,01-10-2023,Rennes,3 - 1,Nantes
+1860,08-10-2023,Rennes,1 - 3,Paris SG
+1861,22-10-2023,Lorient,2 - 1,Rennes
+1862,29-10-2023,Rennes,1 - 1,Strasbourg
+1863,05-11-2023,Nice,2 - 0,Rennes
+1864,12-11-2023,Rennes,0 - 1,Lyon
+1865,26-11-2023,Rennes,3 - 1,Reims
+1866,03-12-2023,Marseille,2 - 0,Rennes
+1867,09-12-2023,Rennes,1 - 2,Monaco
+1868,17-12-2023,Toulouse,0 - 0,Rennes
+1869,20-12-2023,Clermont,1 - 3,Rennes
+1870,13-01-2024,Rennes,2 - 0,Nice
+1871,26-01-2024,Lyon,? - ?,Rennes
+1872,13-08-2023,Strasbourg,2 - 1,Lyon
+1873,20-08-2023,Monaco,3 - 0,Strasbourg
+1874,27-08-2023,Strasbourg,2 - 0,Toulouse
+1875,03-09-2023,Nice,2 - 0,Strasbourg
+1876,17-09-2023,Strasbourg,2 - 2,Montpellier
+1877,24-09-2023,Metz,0 - 1,Strasbourg
+1878,29-09-2023,Strasbourg,0 - 1,Lens
+1879,06-10-2023,Strasbourg,1 - 2,Nantes
+1880,21-10-2023,Paris SG,3 - 0,Strasbourg
+1881,29-10-2023,Rennes,1 - 1,Strasbourg
+1882,05-11-2023,Strasbourg,0 - 0,Clermont
+1883,25-11-2023,Strasbourg,1 - 1,Marseille
+1884,01-12-2023,Reims,2 - 1,Strasbourg
+1885,07-12-2023,Brest,1 - 1,Strasbourg
+1886,10-12-2023,Strasbourg,2 - 1,Le Havre
+1887,17-12-2023,Lorient,1 - 2,Strasbourg
+1888,20-12-2023,Strasbourg,2 - 1,Lille
+1889,12-01-2024,Marseille,1 - 1,Strasbourg
+1890,28-01-2024,Clermont,? - ?,Strasbourg
+1891,13-08-2023,Nantes,1 - 2,Toulouse
+1892,19-08-2023,Toulouse,1 - 1,Paris SG
+1893,27-08-2023,Strasbourg,2 - 0,Toulouse
+1894,03-09-2023,Toulouse,2 - 2,Clermont
+1895,17-09-2023,Marseille,0 - 0,Toulouse
+1896,24-09-2023,Lens,2 - 1,Toulouse
+1897,01-10-2023,Toulouse,3 - 0,Metz
+1898,08-10-2023,Brest,1 - 1,Toulouse
+1899,22-10-2023,Toulouse,1 - 1,Reims
+1900,29-10-2023,Montpellier,3 - 0,Toulouse
+1901,05-11-2023,Toulouse,1 - 2,Le Havre
+1902,12-11-2023,Lille,1 - 1,Toulouse
+1903,26-11-2023,Nice,1 - 0,Toulouse
+1904,03-12-2023,Toulouse,1 - 1,Lorient
+1905,10-12-2023,Lyon,3 - 0,Toulouse
+1906,17-12-2023,Toulouse,0 - 0,Rennes
+1907,20-12-2023,Toulouse,1 - 2,Monaco
+1908,14-01-2024,Metz,0 - 1,Toulouse
+1909,28-01-2024,Toulouse,? - ?,Lens
+1910,05-08-2023,Livingston,0 - 0,Aberdeen
+1911,13-08-2023,Aberdeen,1 - 3,Celtic
+1912,27-08-2023,St Mirren,2 - 2,Aberdeen
+1913,03-09-2023,Aberdeen,0 - 2,Hibernian
+1914,16-09-2023,Hearts,2 - 0,Aberdeen
+1915,24-09-2023,Aberdeen,4 - 0,Ross County
+1916,30-09-2023,Rangers,1 - 3,Aberdeen
+1917,08-10-2023,Aberdeen,0 - 0,St Johnstone
+1918,29-10-2023,Kilmarnock,2 - 0,Aberdeen
+1919,01-11-2023,Motherwell,2 - 4,Aberdeen
+1920,12-11-2023,Celtic,6 - 0,Aberdeen
+1921,26-11-2023,Aberdeen,1 - 1,Rangers
+1922,03-12-2023,Hibernian,2 - 0,Aberdeen
+1923,06-12-2023,Aberdeen,0 - 1,Kilmarnock
+1924,09-12-2023,Aberdeen,2 - 1,Hearts
+1925,20-12-2023,Aberdeen,2 - 1,Livingston
+1926,30-12-2023,Aberdeen,0 - 3,St Mirren
+1927,02-01-2024,Ross County,0 - 3,Aberdeen
+1928,24-01-2024,St Johnstone,? - ?,Aberdeen
+1929,05-08-2023,Celtic,4 - 2,Ross County
+1930,13-08-2023,Aberdeen,1 - 3,Celtic
+1931,26-08-2023,Celtic,0 - 0,St Johnstone
+1932,03-09-2023,Rangers,0 - 1,Celtic
+1933,16-09-2023,Celtic,3 - 0,Dundee
+1934,23-09-2023,Livingston,0 - 3,Celtic
+1935,30-09-2023,Motherwell,1 - 2,Celtic
+1936,07-10-2023,Celtic,3 - 1,Kilmarnock
+1937,22-10-2023,Hearts,1 - 4,Celtic
+1938,28-10-2023,Hibernian,0 - 0,Celtic
+1939,01-11-2023,Celtic,2 - 1,St Mirren
+1940,04-11-2023,Ross County,0 - 3,Celtic
+1941,12-11-2023,Celtic,6 - 0,Aberdeen
+1942,25-11-2023,Celtic,1 - 1,Motherwell
+1943,03-12-2023,St Johnstone,1 - 3,Celtic
+1944,06-12-2023,Celtic,4 - 1,Hibernian
+1945,10-12-2023,Kilmarnock,2 - 1,Celtic
+1946,16-12-2023,Celtic,0 - 2,Hearts
+1947,23-12-2023,Celtic,2 - 0,Livingston
+1948,26-12-2023,Dundee,0 - 3,Celtic
+1949,30-12-2023,Celtic,2 - 1,Rangers
+1950,02-01-2024,St Mirren,0 - 3,Celtic
+1951,27-01-2024,Celtic,? - ?,Ross County
+1952,05-08-2023,Dundee,1 - 1,Motherwell
+1953,12-08-2023,St Mirren,2 - 1,Dundee
+1954,27-08-2023,Dundee,1 - 0,Hearts
+1955,02-09-2023,St Johnstone,2 - 2,Dundee
+1956,16-09-2023,Celtic,3 - 0,Dundee
+1957,23-09-2023,Dundee,2 - 2,Kilmarnock
+1958,30-09-2023,Hibernian,0 - 0,Dundee
+1959,24-10-2023,Dundee,0 - 0,Ross County
+1960,28-10-2023,Livingston,0 - 2,Dundee
+1961,01-11-2023,Dundee,0 - 5,Rangers
+1962,05-11-2023,Dundee,1 - 0,Livingston
+1963,11-11-2023,Dundee,4 - 0,St Mirren
+1964,25-11-2023,Dundee,1 - 2,Hibernian
+1965,02-12-2023,Motherwell,3 - 3,Dundee
+1966,09-12-2023,Rangers,3 - 1,Dundee
+1967,16-12-2023,Ross County,0 - 1,Dundee
+1968,26-12-2023,Dundee,0 - 3,Celtic
+1969,30-12-2023,Kilmarnock,2 - 2,Dundee
+1970,23-01-2024,Hearts,? - ?,Dundee
+1971,05-08-2023,St Johnstone,0 - 2,Hearts
+1972,13-08-2023,Hearts,0 - 0,Kilmarnock
+1973,27-08-2023,Dundee,1 - 0,Hearts
+1974,03-09-2023,Hearts,0 - 1,Motherwell
+1975,16-09-2023,Hearts,2 - 0,Aberdeen
+1976,23-09-2023,St Mirren,1 - 0,Hearts
+1977,30-09-2023,Ross County,0 - 1,Hearts
+1978,07-10-2023,Hearts,2 - 2,Hibernian
+1979,22-10-2023,Hearts,1 - 4,Celtic
+1980,29-10-2023,Rangers,2 - 1,Hearts
+1981,01-11-2023,Hearts,1 - 0,Livingston
+1982,11-11-2023,Motherwell,1 - 2,Hearts
+1983,25-11-2023,Hearts,1 - 0,St Johnstone
+1984,02-12-2023,Kilmarnock,0 - 1,Hearts
+1985,06-12-2023,Hearts,0 - 1,Rangers
+1986,09-12-2023,Aberdeen,2 - 1,Hearts
+1987,16-12-2023,Celtic,0 - 2,Hearts
+1988,23-12-2023,Hearts,2 - 0,St Mirren
+1989,27-12-2023,Hibernian,0 - 1,Hearts
+1990,30-12-2023,Hearts,2 - 2,Ross County
+1991,02-01-2024,Livingston,1 - 2,Hearts
+1992,23-01-2024,Hearts,? - ?,Dundee
+1993,06-08-2023,Hibernian,2 - 3,St Mirren
+1994,13-08-2023,Motherwell,2 - 1,Hibernian
+1995,26-08-2023,Hibernian,2 - 3,Livingston
+1996,03-09-2023,Aberdeen,0 - 2,Hibernian
+1997,16-09-2023,Kilmarnock,2 - 2,Hibernian
+1998,23-09-2023,Hibernian,2 - 0,St Johnstone
+1999,30-09-2023,Hibernian,0 - 0,Dundee
+2000,07-10-2023,Hearts,2 - 2,Hibernian
+2001,21-10-2023,Rangers,4 - 0,Hibernian
+2002,28-10-2023,Hibernian,0 - 0,Celtic
+2003,31-10-2023,Hibernian,2 - 2,Ross County
+2004,08-11-2023,St Mirren,2 - 2,Hibernian
+2005,11-11-2023,Hibernian,1 - 0,Kilmarnock
+2006,25-11-2023,Dundee,1 - 2,Hibernian
+2007,03-12-2023,Hibernian,2 - 0,Aberdeen
+2008,06-12-2023,Celtic,4 - 1,Hibernian
+2009,09-12-2023,Livingston,0 - 1,Hibernian
+2010,16-12-2023,St Johnstone,1 - 0,Hibernian
+2011,27-12-2023,Hibernian,0 - 1,Hearts
+2012,02-01-2024,Hibernian,2 - 2,Motherwell
+2013,24-01-2024,Hibernian,? - ?,Rangers
+2014,05-08-2023,Kilmarnock,1 - 0,Rangers
+2015,13-08-2023,Hearts,0 - 0,Kilmarnock
+2016,26-08-2023,Motherwell,2 - 1,Kilmarnock
+2017,02-09-2023,Kilmarnock,0 - 1,Ross County
+2018,16-09-2023,Kilmarnock,2 - 2,Hibernian
+2019,23-09-2023,Dundee,2 - 2,Kilmarnock
+2020,30-09-2023,Kilmarnock,1 - 1,St Mirren
+2021,07-10-2023,Celtic,3 - 1,Kilmarnock
+2022,21-10-2023,Kilmarnock,3 - 1,Livingston
+2023,29-10-2023,Kilmarnock,2 - 0,Aberdeen
+2024,01-11-2023,St Johnstone,2 - 1,Kilmarnock
+2025,04-11-2023,Kilmarnock,1 - 0,Motherwell
+2026,11-11-2023,Hibernian,1 - 0,Kilmarnock
+2027,25-11-2023,Ross County,0 - 0,Kilmarnock
+2028,02-12-2023,Kilmarnock,0 - 1,Hearts
+2029,06-12-2023,Aberdeen,0 - 1,Kilmarnock
+2030,10-12-2023,Kilmarnock,2 - 1,Celtic
+2031,16-12-2023,Livingston,0 - 0,Kilmarnock
+2032,23-12-2023,Kilmarnock,2 - 1,St Johnstone
+2033,27-12-2023,St Mirren,0 - 1,Kilmarnock
+2034,30-12-2023,Kilmarnock,2 - 2,Dundee
+2035,02-01-2024,Rangers,3 - 1,Kilmarnock
+2036,05-08-2023,Livingston,0 - 0,Aberdeen
+2037,12-08-2023,Rangers,4 - 0,Livingston
+2038,26-08-2023,Hibernian,2 - 3,Livingston
+2039,02-09-2023,Livingston,1 - 1,St Mirren
+2040,16-09-2023,Ross County,1 - 1,Livingston
+2041,23-09-2023,Livingston,0 - 3,Celtic
+2042,30-09-2023,St Johnstone,1 - 1,Livingston
+2043,07-10-2023,Livingston,2 - 0,Motherwell
+2044,21-10-2023,Kilmarnock,3 - 1,Livingston
+2045,28-10-2023,Livingston,0 - 2,Dundee
+2046,01-11-2023,Hearts,1 - 0,Livingston
+2047,05-11-2023,Dundee,1 - 0,Livingston
+2048,12-11-2023,Livingston,0 - 2,Rangers
+2049,25-11-2023,St Mirren,1 - 0,Livingston
+2050,09-12-2023,Livingston,0 - 1,Hibernian
+2051,16-12-2023,Livingston,0 - 0,Kilmarnock
+2052,20-12-2023,Aberdeen,2 - 1,Livingston
+2053,23-12-2023,Celtic,2 - 0,Livingston
+2054,27-12-2023,Livingston,0 - 0,St Johnstone
+2055,30-12-2023,Motherwell,3 - 1,Livingston
+2056,02-01-2024,Livingston,1 - 2,Hearts
+2057,05-08-2023,Dundee,1 - 1,Motherwell
+2058,13-08-2023,Motherwell,2 - 1,Hibernian
+2059,26-08-2023,Motherwell,2 - 1,Kilmarnock
+2060,03-09-2023,Hearts,0 - 1,Motherwell
+2061,16-09-2023,Motherwell,0 - 1,St Mirren
+2062,24-09-2023,Rangers,1 - 0,Motherwell
+2063,30-09-2023,Motherwell,1 - 2,Celtic
+2064,07-10-2023,Livingston,2 - 0,Motherwell
+2065,28-10-2023,Motherwell,3 - 3,Ross County
+2066,01-11-2023,Motherwell,2 - 4,Aberdeen
+2067,04-11-2023,Kilmarnock,1 - 0,Motherwell
+2068,07-11-2023,St Johnstone,2 - 2,Motherwell
+2069,11-11-2023,Motherwell,1 - 2,Hearts
+2070,25-11-2023,Celtic,1 - 1,Motherwell
+2071,02-12-2023,Motherwell,3 - 3,Dundee
+2072,05-12-2023,Ross County,3 - 0,Motherwell
+2073,09-12-2023,Motherwell,1 - 1,St Johnstone
+2074,16-12-2023,St Mirren,0 - 0,Motherwell
+2075,24-12-2023,Motherwell,0 - 2,Rangers
+2076,30-12-2023,Motherwell,3 - 1,Livingston
+2077,02-01-2024,Hibernian,2 - 2,Motherwell
+2078,05-08-2023,Kilmarnock,1 - 0,Rangers
+2079,12-08-2023,Rangers,4 - 0,Livingston
+2080,26-08-2023,Ross County,0 - 2,Rangers
+2081,03-09-2023,Rangers,0 - 1,Celtic
+2082,16-09-2023,St Johnstone,0 - 2,Rangers
+2083,24-09-2023,Rangers,1 - 0,Motherwell
+2084,30-09-2023,Rangers,1 - 3,Aberdeen
+2085,08-10-2023,St Mirren,0 - 3,Rangers
+2086,21-10-2023,Rangers,4 - 0,Hibernian
+2087,29-10-2023,Rangers,2 - 1,Hearts
+2088,01-11-2023,Dundee,0 - 5,Rangers
+2089,12-11-2023,Livingston,0 - 2,Rangers
+2090,26-11-2023,Aberdeen,1 - 1,Rangers
+2091,03-12-2023,Rangers,2 - 0,St Mirren
+2092,06-12-2023,Hearts,0 - 1,Rangers
+2093,09-12-2023,Rangers,3 - 1,Dundee
+2094,20-12-2023,Rangers,2 - 0,St Johnstone
+2095,24-12-2023,Motherwell,0 - 2,Rangers
+2096,30-12-2023,Celtic,2 - 1,Rangers
+2097,02-01-2024,Rangers,3 - 1,Kilmarnock
+2098,24-01-2024,Hibernian,? - ?,Rangers
+2099,05-08-2023,Celtic,4 - 2,Ross County
+2100,12-08-2023,Ross County,2 - 0,St Johnstone
+2101,26-08-2023,Ross County,0 - 2,Rangers
+2102,02-09-2023,Kilmarnock,0 - 1,Ross County
+2103,16-09-2023,Ross County,1 - 1,Livingston
+2104,24-09-2023,Aberdeen,4 - 0,Ross County
+2105,30-09-2023,Ross County,0 - 1,Hearts
+2106,24-10-2023,Dundee,0 - 0,Ross County
+2107,28-10-2023,Motherwell,3 - 3,Ross County
+2108,31-10-2023,Hibernian,2 - 2,Ross County
+2109,04-11-2023,Ross County,0 - 3,Celtic
+2110,11-11-2023,St Johnstone,1 - 0,Ross County
+2111,25-11-2023,Ross County,0 - 0,Kilmarnock
+2112,28-11-2023,Ross County,1 - 0,St Mirren
+2113,05-12-2023,Ross County,3 - 0,Motherwell
+2114,09-12-2023,St Mirren,2 - 0,Ross County
+2115,16-12-2023,Ross County,0 - 1,Dundee
+2116,30-12-2023,Hearts,2 - 2,Ross County
+2117,02-01-2024,Ross County,0 - 3,Aberdeen
+2118,27-01-2024,Celtic,? - ?,Ross County
+2119,05-08-2023,St Johnstone,0 - 2,Hearts
+2120,12-08-2023,Ross County,2 - 0,St Johnstone
+2121,26-08-2023,Celtic,0 - 0,St Johnstone
+2122,02-09-2023,St Johnstone,2 - 2,Dundee
+2123,16-09-2023,St Johnstone,0 - 2,Rangers
+2124,23-09-2023,Hibernian,2 - 0,St Johnstone
+2125,30-09-2023,St Johnstone,1 - 1,Livingston
+2126,08-10-2023,Aberdeen,0 - 0,St Johnstone
+2127,28-10-2023,St Mirren,4 - 0,St Johnstone
+2128,01-11-2023,St Johnstone,2 - 1,Kilmarnock
+2129,07-11-2023,St Johnstone,2 - 2,Motherwell
+2130,11-11-2023,St Johnstone,1 - 0,Ross County
+2131,25-11-2023,Hearts,1 - 0,St Johnstone
+2132,03-12-2023,St Johnstone,1 - 3,Celtic
+2133,06-12-2023,St Johnstone,1 - 0,St Mirren
+2134,09-12-2023,Motherwell,1 - 1,St Johnstone
+2135,16-12-2023,St Johnstone,1 - 0,Hibernian
+2136,20-12-2023,Rangers,2 - 0,St Johnstone
+2137,23-12-2023,Kilmarnock,2 - 1,St Johnstone
+2138,27-12-2023,Livingston,0 - 0,St Johnstone
+2139,24-01-2024,St Johnstone,? - ?,Aberdeen
+2140,06-08-2023,Hibernian,2 - 3,St Mirren
+2141,12-08-2023,St Mirren,2 - 1,Dundee
+2142,27-08-2023,St Mirren,2 - 2,Aberdeen
+2143,02-09-2023,Livingston,1 - 1,St Mirren
+2144,16-09-2023,Motherwell,0 - 1,St Mirren
+2145,23-09-2023,St Mirren,1 - 0,Hearts
+2146,30-09-2023,Kilmarnock,1 - 1,St Mirren
+2147,08-10-2023,St Mirren,0 - 3,Rangers
+2148,28-10-2023,St Mirren,4 - 0,St Johnstone
+2149,01-11-2023,Celtic,2 - 1,St Mirren
+2150,08-11-2023,St Mirren,2 - 2,Hibernian
+2151,11-11-2023,Dundee,4 - 0,St Mirren
+2152,25-11-2023,St Mirren,1 - 0,Livingston
+2153,28-11-2023,Ross County,1 - 0,St Mirren
+2154,03-12-2023,Rangers,2 - 0,St Mirren
+2155,06-12-2023,St Johnstone,1 - 0,St Mirren
+2156,09-12-2023,St Mirren,2 - 0,Ross County
+2157,16-12-2023,St Mirren,0 - 0,Motherwell
+2158,23-12-2023,Hearts,2 - 0,St Mirren
+2159,27-12-2023,St Mirren,0 - 1,Kilmarnock
+2160,30-12-2023,Aberdeen,0 - 3,St Mirren
+2161,02-01-2024,St Mirren,0 - 3,Celtic
+2162,13-08-2023,AZ Alkmaar,5 - 1,GO Ahead Eagles
+2163,20-08-2023,Waalwijk,1 - 3,AZ Alkmaar
+2164,03-09-2023,Vitesse,0 - 2,AZ Alkmaar
+2165,17-09-2023,AZ Alkmaar,2 - 0,Sparta Rotterdam
+2166,24-09-2023,Zwolle,0 - 3,AZ Alkmaar
+2167,28-09-2023,AZ Alkmaar,1 - 1,Heracles
+2168,01-10-2023,AZ Alkmaar,4 - 0,Fortuna Sittard
+2169,08-10-2023,Ajax,1 - 2,AZ Alkmaar
+2170,21-10-2023,AZ Alkmaar,3 - 0,Heerenveen
+2171,04-11-2023,Excelsior,1 - 1,AZ Alkmaar
+2172,12-11-2023,Feyenoord,1 - 0,AZ Alkmaar
+2173,26-11-2023,AZ Alkmaar,3 - 0,FC Volendam
+2174,03-12-2023,Utrecht,1 - 1,AZ Alkmaar
+2175,06-12-2023,AZ Alkmaar,1 - 2,NEC Nijmegen
+2176,09-12-2023,AZ Alkmaar,4 - 1,Almere City FC
+2177,17-12-2023,AZ Alkmaar,0 - 4,PSV Eindhoven
+2178,13-01-2024,Twente,2 - 1,AZ Alkmaar
+2179,20-01-2024,AZ Alkmaar,? - ?,Zwolle
+2180,12-08-2023,Ajax,4 - 1,Heracles
+2181,19-08-2023,Excelsior,2 - 2,Ajax
+2182,03-09-2023,Fortuna Sittard,0 - 0,Ajax
+2183,17-09-2023,Twente,3 - 1,Ajax
+2184,27-09-2023,Ajax,0 - 4,Feyenoord
+2185,08-10-2023,Ajax,1 - 2,AZ Alkmaar
+2186,22-10-2023,Utrecht,4 - 3,Ajax
+2187,29-10-2023,PSV Eindhoven,5 - 2,Ajax
+2188,02-11-2023,Ajax,2 - 0,FC Volendam
+2189,05-11-2023,Ajax,4 - 1,Heerenveen
+2190,12-11-2023,Almere City FC,2 - 2,Ajax
+2191,25-11-2023,Ajax,5 - 0,Vitesse
+2192,03-12-2023,NEC Nijmegen,1 - 2,Ajax
+2193,06-12-2023,Waalwijk,2 - 3,Ajax
+2194,09-12-2023,Ajax,2 - 1,Sparta Rotterdam
+2195,17-12-2023,Ajax,2 - 2,Zwolle
+2196,14-01-2024,GO Ahead Eagles,2 - 3,Ajax
+2197,21-01-2024,Ajax,? - ?,Waalwijk
+2198,13-08-2023,Almere City FC,1 - 4,Twente
+2199,19-08-2023,Fortuna Sittard,2 - 1,Almere City FC
+2200,27-08-2023,Feyenoord,6 - 1,Almere City FC
+2201,02-09-2023,Almere City FC,1 - 2,Zwolle
+2202,17-09-2023,Excelsior,0 - 0,Almere City FC
+2203,23-09-2023,Almere City FC,0 - 4,PSV Eindhoven
+2204,30-09-2023,Utrecht,0 - 2,Almere City FC
+2205,07-10-2023,Almere City FC,1 - 0,Waalwijk
+2206,21-10-2023,NEC Nijmegen,1 - 1,Almere City FC
+2207,28-10-2023,Almere City FC,0 - 0,GO Ahead Eagles
+2208,05-11-2023,Sparta Rotterdam,1 - 2,Almere City FC
+2209,12-11-2023,Almere City FC,2 - 2,Ajax
+2210,26-11-2023,Almere City FC,0 - 5,Heracles
+2211,01-12-2023,Heerenveen,3 - 0,Almere City FC
+2212,09-12-2023,AZ Alkmaar,4 - 1,Almere City FC
+2213,17-12-2023,Almere City FC,5 - 0,Vitesse
+2214,14-01-2024,FC Volendam,0 - 1,Almere City FC
+2215,20-01-2024,Almere City FC,? - ?,Fortuna Sittard
+2216,13-08-2023,NEC Nijmegen,3 - 4,Excelsior
+2217,19-08-2023,Excelsior,2 - 2,Ajax
+2218,26-08-2023,Excelsior,2 - 2,Fortuna Sittard
+2219,02-09-2023,Heracles,3 - 1,Excelsior
+2220,17-09-2023,Excelsior,0 - 0,Almere City FC
+2221,23-09-2023,Heerenveen,0 - 3,Excelsior
+2222,01-10-2023,Excelsior,2 - 1,Sparta Rotterdam
+2223,07-10-2023,Vitesse,0 - 0,Excelsior
+2224,22-10-2023,Excelsior,2 - 4,Zwolle
+2225,29-10-2023,FC Volendam,3 - 1,Excelsior
+2226,04-11-2023,Excelsior,1 - 1,AZ Alkmaar
+2227,12-11-2023,Utrecht,2 - 2,Excelsior
+2228,25-11-2023,Excelsior,2 - 4,Feyenoord
+2229,02-12-2023,Waalwijk,2 - 2,Excelsior
+2230,08-12-2023,Twente,4 - 2,Excelsior
+2231,16-12-2023,Excelsior,1 - 1,GO Ahead Eagles
+2232,13-01-2024,PSV Eindhoven,3 - 1,Excelsior
+2233,19-01-2024,Excelsior,? - ?,Heerenveen
+2234,11-08-2023,FC Volendam,1 - 2,Vitesse
+2235,19-08-2023,GO Ahead Eagles,4 - 1,FC Volendam
+2236,03-09-2023,FC Volendam,0 - 2,Twente
+2237,16-09-2023,Fortuna Sittard,3 - 1,FC Volendam
+2238,23-09-2023,FC Volendam,2 - 2,Heracles
+2239,30-09-2023,PSV Eindhoven,3 - 1,FC Volendam
+2240,06-10-2023,FC Volendam,1 - 0,Utrecht
+2241,21-10-2023,Waalwijk,2 - 1,FC Volendam
+2242,29-10-2023,FC Volendam,3 - 1,Excelsior
+2243,02-11-2023,Ajax,2 - 0,FC Volendam
+2244,05-11-2023,NEC Nijmegen,3 - 3,FC Volendam
+2245,12-11-2023,FC Volendam,1 - 4,Sparta Rotterdam
+2246,26-11-2023,AZ Alkmaar,3 - 0,FC Volendam
+2247,02-12-2023,FC Volendam,0 - 5,Zwolle
+2248,07-12-2023,Feyenoord,3 - 1,FC Volendam
+2249,16-12-2023,Heerenveen,1 - 2,FC Volendam
+2250,14-01-2024,FC Volendam,0 - 1,Almere City FC
+2251,20-01-2024,Heracles,? - ?,FC Volendam
+2252,13-08-2023,Feyenoord,0 - 0,Fortuna Sittard
+2253,20-08-2023,Sparta Rotterdam,2 - 2,Feyenoord
+2254,27-08-2023,Feyenoord,6 - 1,Almere City FC
+2255,03-09-2023,Utrecht,1 - 5,Feyenoord
+2256,16-09-2023,Feyenoord,6 - 1,Heerenveen
+2257,27-09-2023,Ajax,0 - 4,Feyenoord
+2258,30-09-2023,Feyenoord,3 - 1,GO Ahead Eagles
+2259,08-10-2023,Zwolle,0 - 2,Feyenoord
+2260,21-10-2023,Feyenoord,4 - 0,Vitesse
+2261,29-10-2023,Twente,2 - 1,Feyenoord
+2262,04-11-2023,Waalwijk,1 - 2,Feyenoord
+2263,12-11-2023,Feyenoord,1 - 0,AZ Alkmaar
+2264,25-11-2023,Excelsior,2 - 4,Feyenoord
+2265,03-12-2023,Feyenoord,1 - 2,PSV Eindhoven
+2266,07-12-2023,Feyenoord,3 - 1,FC Volendam
+2267,17-12-2023,Heracles,0 - 4,Feyenoord
+2268,14-01-2024,Feyenoord,2 - 2,NEC Nijmegen
+2269,21-01-2024,Vitesse,? - ?,Feyenoord
+2270,13-08-2023,Feyenoord,0 - 0,Fortuna Sittard
+2271,19-08-2023,Fortuna Sittard,2 - 1,Almere City FC
+2272,26-08-2023,Excelsior,2 - 2,Fortuna Sittard
+2273,03-09-2023,Fortuna Sittard,0 - 0,Ajax
+2274,16-09-2023,Fortuna Sittard,3 - 1,FC Volendam
+2275,22-09-2023,GO Ahead Eagles,3 - 0,Fortuna Sittard
+2276,01-10-2023,AZ Alkmaar,4 - 0,Fortuna Sittard
+2277,08-10-2023,Fortuna Sittard,0 - 3,Twente
+2278,21-10-2023,PSV Eindhoven,3 - 1,Fortuna Sittard
+2279,28-10-2023,Fortuna Sittard,0 - 0,Utrecht
+2280,05-11-2023,Zwolle,2 - 0,Fortuna Sittard
+2281,10-11-2023,Fortuna Sittard,4 - 1,Heracles
+2282,25-11-2023,Heerenveen,3 - 0,Fortuna Sittard
+2283,02-12-2023,Fortuna Sittard,3 - 1,Vitesse
+2284,10-12-2023,Fortuna Sittard,1 - 0,Waalwijk
+2285,15-12-2023,NEC Nijmegen,4 - 1,Fortuna Sittard
+2286,13-01-2024,Fortuna Sittard,0 - 2,Sparta Rotterdam
+2287,20-01-2024,Almere City FC,? - ?,Fortuna Sittard
+2288,13-08-2023,AZ Alkmaar,5 - 1,GO Ahead Eagles
+2289,19-08-2023,GO Ahead Eagles,4 - 1,FC Volendam
+2290,02-09-2023,GO Ahead Eagles,3 - 2,Heerenveen
+2291,17-09-2023,Zwolle,1 - 1,GO Ahead Eagles
+2292,22-09-2023,GO Ahead Eagles,3 - 0,Fortuna Sittard
+2293,27-09-2023,PSV Eindhoven,3 - 0,GO Ahead Eagles
+2294,30-09-2023,Feyenoord,3 - 1,GO Ahead Eagles
+2295,07-10-2023,GO Ahead Eagles,4 - 0,Heracles
+2296,22-10-2023,GO Ahead Eagles,0 - 0,Sparta Rotterdam
+2297,28-10-2023,Almere City FC,0 - 0,GO Ahead Eagles
+2298,04-11-2023,GO Ahead Eagles,5 - 1,Vitesse
+2299,11-11-2023,Waalwijk,0 - 1,GO Ahead Eagles
+2300,26-11-2023,NEC Nijmegen,1 - 1,GO Ahead Eagles
+2301,03-12-2023,GO Ahead Eagles,1 - 3,Twente
+2302,10-12-2023,GO Ahead Eagles,0 - 2,Utrecht
+2303,16-12-2023,Excelsior,1 - 1,GO Ahead Eagles
+2304,14-01-2024,GO Ahead Eagles,2 - 3,Ajax
+2305,21-01-2024,Sparta Rotterdam,? - ?,GO Ahead Eagles
+2306,12-08-2023,Heerenveen,3 - 1,Waalwijk
+2307,20-08-2023,Utrecht,0 - 2,Heerenveen
+2308,27-08-2023,Heerenveen,1 - 3,Sparta Rotterdam
+2309,02-09-2023,GO Ahead Eagles,3 - 2,Heerenveen
+2310,16-09-2023,Feyenoord,6 - 1,Heerenveen
+2311,23-09-2023,Heerenveen,0 - 3,Excelsior
+2312,30-09-2023,Twente,1 - 0,Heerenveen
+2313,07-10-2023,Heerenveen,1 - 1,NEC Nijmegen
+2314,21-10-2023,AZ Alkmaar,3 - 0,Heerenveen
+2315,28-10-2023,Heerenveen,3 - 0,Heracles
+2316,05-11-2023,Ajax,4 - 1,Heerenveen
+2317,11-11-2023,Vitesse,1 - 3,Heerenveen
+2318,25-11-2023,Heerenveen,3 - 0,Fortuna Sittard
+2319,01-12-2023,Heerenveen,3 - 0,Almere City FC
+2320,07-12-2023,PSV Eindhoven,2 - 0,Heerenveen
+2321,16-12-2023,Heerenveen,1 - 2,FC Volendam
+2322,13-01-2024,Zwolle,2 - 2,Heerenveen
+2323,19-01-2024,Excelsior,? - ?,Heerenveen
+2324,12-08-2023,Ajax,4 - 1,Heracles
+2325,18-08-2023,Heracles,2 - 1,NEC Nijmegen
+2326,02-09-2023,Heracles,3 - 1,Excelsior
+2327,16-09-2023,Heracles,1 - 3,Utrecht
+2328,23-09-2023,FC Volendam,2 - 2,Heracles
+2329,28-09-2023,AZ Alkmaar,1 - 1,Heracles
+2330,01-10-2023,Heracles,2 - 1,Zwolle
+2331,07-10-2023,GO Ahead Eagles,4 - 0,Heracles
+2332,22-10-2023,Heracles,2 - 2,Twente
+2333,28-10-2023,Heerenveen,3 - 0,Heracles
+2334,04-11-2023,Heracles,0 - 6,PSV Eindhoven
+2335,10-11-2023,Fortuna Sittard,4 - 1,Heracles
+2336,26-11-2023,Almere City FC,0 - 5,Heracles
+2337,02-12-2023,Heracles,0 - 1,Sparta Rotterdam
+2338,10-12-2023,Vitesse,2 - 0,Heracles
+2339,17-12-2023,Heracles,0 - 4,Feyenoord
+2340,12-01-2024,Waalwijk,1 - 2,Heracles
+2341,20-01-2024,Heracles,? - ?,FC Volendam
+2342,13-08-2023,NEC Nijmegen,3 - 4,Excelsior
+2343,18-08-2023,Heracles,2 - 1,NEC Nijmegen
+2344,26-08-2023,NEC Nijmegen,3 - 0,Waalwijk
+2345,01-09-2023,Sparta Rotterdam,1 - 1,NEC Nijmegen
+2346,16-09-2023,PSV Eindhoven,4 - 0,NEC Nijmegen
+2347,23-09-2023,NEC Nijmegen,3 - 0,Utrecht
+2348,01-10-2023,NEC Nijmegen,1 - 3,Vitesse
+2349,07-10-2023,Heerenveen,1 - 1,NEC Nijmegen
+2350,21-10-2023,NEC Nijmegen,1 - 1,Almere City FC
+2351,05-11-2023,NEC Nijmegen,3 - 3,FC Volendam
+2352,11-11-2023,Twente,3 - 3,NEC Nijmegen
+2353,26-11-2023,NEC Nijmegen,1 - 1,GO Ahead Eagles
+2354,03-12-2023,NEC Nijmegen,1 - 2,Ajax
+2355,06-12-2023,AZ Alkmaar,1 - 2,NEC Nijmegen
+2356,09-12-2023,Zwolle,1 - 3,NEC Nijmegen
+2357,15-12-2023,NEC Nijmegen,4 - 1,Fortuna Sittard
+2358,14-01-2024,Feyenoord,2 - 2,NEC Nijmegen
+2359,20-01-2024,NEC Nijmegen,? - ?,Twente
+2360,12-08-2023,PSV Eindhoven,2 - 0,Utrecht
+2361,19-08-2023,Vitesse,1 - 3,PSV Eindhoven
+2362,02-09-2023,Waalwijk,0 - 4,PSV Eindhoven
+2363,16-09-2023,PSV Eindhoven,4 - 0,NEC Nijmegen
+2364,23-09-2023,Almere City FC,0 - 4,PSV Eindhoven
+2365,27-09-2023,PSV Eindhoven,3 - 0,GO Ahead Eagles
+2366,30-09-2023,PSV Eindhoven,3 - 1,FC Volendam
+2367,08-10-2023,Sparta Rotterdam,0 - 4,PSV Eindhoven
+2368,21-10-2023,PSV Eindhoven,3 - 1,Fortuna Sittard
+2369,29-10-2023,PSV Eindhoven,5 - 2,Ajax
+2370,04-11-2023,Heracles,0 - 6,PSV Eindhoven
+2371,12-11-2023,PSV Eindhoven,4 - 0,Zwolle
+2372,25-11-2023,Twente,0 - 3,PSV Eindhoven
+2373,03-12-2023,Feyenoord,1 - 2,PSV Eindhoven
+2374,07-12-2023,PSV Eindhoven,2 - 0,Heerenveen
+2375,17-12-2023,AZ Alkmaar,0 - 4,PSV Eindhoven
+2376,13-01-2024,PSV Eindhoven,3 - 1,Excelsior
+2377,21-01-2024,Utrecht,? - ?,PSV Eindhoven
+2378,12-08-2023,Zwolle,1 - 2,Sparta Rotterdam
+2379,20-08-2023,Sparta Rotterdam,2 - 2,Feyenoord
+2380,27-08-2023,Heerenveen,1 - 3,Sparta Rotterdam
+2381,01-09-2023,Sparta Rotterdam,1 - 1,NEC Nijmegen
+2382,17-09-2023,AZ Alkmaar,2 - 0,Sparta Rotterdam
+2383,24-09-2023,Sparta Rotterdam,1 - 0,Vitesse
+2384,01-10-2023,Excelsior,2 - 1,Sparta Rotterdam
+2385,08-10-2023,Sparta Rotterdam,0 - 4,PSV Eindhoven
+2386,22-10-2023,GO Ahead Eagles,0 - 0,Sparta Rotterdam
+2387,28-10-2023,Sparta Rotterdam,2 - 0,Waalwijk
+2388,05-11-2023,Sparta Rotterdam,1 - 2,Almere City FC
+2389,12-11-2023,FC Volendam,1 - 4,Sparta Rotterdam
+2390,26-11-2023,Sparta Rotterdam,1 - 2,Utrecht
+2391,02-12-2023,Heracles,0 - 1,Sparta Rotterdam
+2392,09-12-2023,Ajax,2 - 1,Sparta Rotterdam
+2393,17-12-2023,Sparta Rotterdam,2 - 2,Twente
+2394,13-01-2024,Fortuna Sittard,0 - 2,Sparta Rotterdam
+2395,21-01-2024,Sparta Rotterdam,? - ?,GO Ahead Eagles
+2396,13-08-2023,Almere City FC,1 - 4,Twente
+2397,20-08-2023,Twente,3 - 1,Zwolle
+2398,03-09-2023,FC Volendam,0 - 2,Twente
+2399,17-09-2023,Twente,3 - 1,Ajax
+2400,24-09-2023,Waalwijk,1 - 0,Twente
+2401,27-09-2023,Twente,1 - 0,Vitesse
+2402,30-09-2023,Twente,1 - 0,Heerenveen
+2403,08-10-2023,Fortuna Sittard,0 - 3,Twente
+2404,22-10-2023,Heracles,2 - 2,Twente
+2405,29-10-2023,Twente,2 - 1,Feyenoord
+2406,05-11-2023,Utrecht,1 - 1,Twente
+2407,11-11-2023,Twente,3 - 3,NEC Nijmegen
+2408,25-11-2023,Twente,0 - 3,PSV Eindhoven
+2409,03-12-2023,GO Ahead Eagles,1 - 3,Twente
+2410,08-12-2023,Twente,4 - 2,Excelsior
+2411,17-12-2023,Sparta Rotterdam,2 - 2,Twente
+2412,13-01-2024,Twente,2 - 1,AZ Alkmaar
+2413,20-01-2024,NEC Nijmegen,? - ?,Twente
+2414,12-08-2023,PSV Eindhoven,2 - 0,Utrecht
+2415,20-08-2023,Utrecht,0 - 2,Heerenveen
+2416,27-08-2023,Zwolle,1 - 0,Utrecht
+2417,03-09-2023,Utrecht,1 - 5,Feyenoord
+2418,16-09-2023,Heracles,1 - 3,Utrecht
+2419,23-09-2023,NEC Nijmegen,3 - 0,Utrecht
+2420,30-09-2023,Utrecht,0 - 2,Almere City FC
+2421,06-10-2023,FC Volendam,1 - 0,Utrecht
+2422,22-10-2023,Utrecht,4 - 3,Ajax
+2423,28-10-2023,Fortuna Sittard,0 - 0,Utrecht
+2424,05-11-2023,Utrecht,1 - 1,Twente
+2425,12-11-2023,Utrecht,2 - 2,Excelsior
+2426,26-11-2023,Sparta Rotterdam,1 - 2,Utrecht
+2427,03-12-2023,Utrecht,1 - 1,AZ Alkmaar
+2428,10-12-2023,GO Ahead Eagles,0 - 2,Utrecht
+2429,16-12-2023,Utrecht,1 - 1,Waalwijk
+2430,14-01-2024,Vitesse,0 - 0,Utrecht
+2431,21-01-2024,Utrecht,? - ?,PSV Eindhoven
+2432,11-08-2023,FC Volendam,1 - 2,Vitesse
+2433,19-08-2023,Vitesse,1 - 3,PSV Eindhoven
+2434,03-09-2023,Vitesse,0 - 2,AZ Alkmaar
+2435,16-09-2023,Vitesse,0 - 2,Waalwijk
+2436,24-09-2023,Sparta Rotterdam,1 - 0,Vitesse
+2437,27-09-2023,Twente,1 - 0,Vitesse
+2438,01-10-2023,NEC Nijmegen,1 - 3,Vitesse
+2439,07-10-2023,Vitesse,0 - 0,Excelsior
+2440,21-10-2023,Feyenoord,4 - 0,Vitesse
+2441,27-10-2023,Vitesse,1 - 1,Zwolle
+2442,04-11-2023,GO Ahead Eagles,5 - 1,Vitesse
+2443,11-11-2023,Vitesse,1 - 3,Heerenveen
+2444,25-11-2023,Ajax,5 - 0,Vitesse
+2445,02-12-2023,Fortuna Sittard,3 - 1,Vitesse
+2446,10-12-2023,Vitesse,2 - 0,Heracles
+2447,17-12-2023,Almere City FC,5 - 0,Vitesse
+2448,14-01-2024,Vitesse,0 - 0,Utrecht
+2449,21-01-2024,Vitesse,? - ?,Feyenoord
+2450,12-08-2023,Heerenveen,3 - 1,Waalwijk
+2451,20-08-2023,Waalwijk,1 - 3,AZ Alkmaar
+2452,26-08-2023,NEC Nijmegen,3 - 0,Waalwijk
+2453,02-09-2023,Waalwijk,0 - 4,PSV Eindhoven
+2454,16-09-2023,Vitesse,0 - 2,Waalwijk
+2455,24-09-2023,Waalwijk,1 - 0,Twente
+2456,07-10-2023,Almere City FC,1 - 0,Waalwijk
+2457,21-10-2023,Waalwijk,2 - 1,FC Volendam
+2458,28-10-2023,Sparta Rotterdam,2 - 0,Waalwijk
+2459,04-11-2023,Waalwijk,1 - 2,Feyenoord
+2460,11-11-2023,Waalwijk,0 - 1,GO Ahead Eagles
+2461,25-11-2023,Zwolle,1 - 2,Waalwijk
+2462,02-12-2023,Waalwijk,2 - 2,Excelsior
+2463,06-12-2023,Waalwijk,2 - 3,Ajax
+2464,10-12-2023,Fortuna Sittard,1 - 0,Waalwijk
+2465,16-12-2023,Utrecht,1 - 1,Waalwijk
+2466,12-01-2024,Waalwijk,1 - 2,Heracles
+2467,21-01-2024,Ajax,? - ?,Waalwijk
+2468,12-08-2023,Zwolle,1 - 2,Sparta Rotterdam
+2469,20-08-2023,Twente,3 - 1,Zwolle
+2470,27-08-2023,Zwolle,1 - 0,Utrecht
+2471,02-09-2023,Almere City FC,1 - 2,Zwolle
+2472,17-09-2023,Zwolle,1 - 1,GO Ahead Eagles
+2473,24-09-2023,Zwolle,0 - 3,AZ Alkmaar
+2474,01-10-2023,Heracles,2 - 1,Zwolle
+2475,08-10-2023,Zwolle,0 - 2,Feyenoord
+2476,22-10-2023,Excelsior,2 - 4,Zwolle
+2477,27-10-2023,Vitesse,1 - 1,Zwolle
+2478,05-11-2023,Zwolle,2 - 0,Fortuna Sittard
+2479,12-11-2023,PSV Eindhoven,4 - 0,Zwolle
+2480,25-11-2023,Zwolle,1 - 2,Waalwijk
+2481,02-12-2023,FC Volendam,0 - 5,Zwolle
+2482,09-12-2023,Zwolle,1 - 3,NEC Nijmegen
+2483,17-12-2023,Ajax,2 - 2,Zwolle
+2484,13-01-2024,Zwolle,2 - 2,Heerenveen
+2485,20-01-2024,AZ Alkmaar,? - ?,Zwolle
+2486,13-08-2023,Arouca,4 - 3,Estoril
+2487,20-08-2023,Vizela,2 - 2,Arouca
+2488,26-08-2023,Arouca,1 - 1,Portimonense SC
+2489,03-09-2023,Porto,1 - 1,Arouca
+2490,17-09-2023,Arouca,0 - 1,Casa Pia
+2491,22-09-2023,FC Famalicão,1 - 0,Arouca
+2492,01-10-2023,Arouca,0 - 2,Chaves
+2493,08-10-2023,Sp Lisbon,2 - 1,Arouca
+2494,27-10-2023,Arouca,0 - 1,Moreirense
+2495,06-11-2023,Farense,2 - 0,Arouca
+2496,12-11-2023,Arouca,0 - 1,Sp Braga
+2497,03-12-2023,Boavista,0 - 4,Arouca
+2498,10-12-2023,Arouca,2 - 2,Rio Ave
+2499,16-12-2023,Arouca,3 - 0,Gil Vicente
+2500,28-12-2023,Estrela,1 - 4,Arouca
+2501,06-01-2024,Arouca,0 - 3,Benfica
+2502,15-01-2024,Guimaraes,2 - 1,Arouca
+2503,20-01-2024,Estoril,? - ?,Arouca
+2504,14-08-2023,Boavista,3 - 2,Benfica
+2505,19-08-2023,Benfica,2 - 0,Estrela
+2506,26-08-2023,Gil Vicente,2 - 3,Benfica
+2507,02-09-2023,Benfica,4 - 0,Guimaraes
+2508,16-09-2023,Vizela,1 - 2,Benfica
+2509,24-09-2023,Portimonense SC,1 - 3,Benfica
+2510,29-09-2023,Benfica,1 - 0,Porto
+2511,07-10-2023,Estoril,0 - 1,Benfica
+2512,28-10-2023,Benfica,1 - 1,Casa Pia
+2513,04-11-2023,Chaves,0 - 2,Benfica
+2514,12-11-2023,Benfica,2 - 1,Sp Lisbon
+2515,03-12-2023,Moreirense,0 - 0,Benfica
+2516,08-12-2023,Benfica,1 - 1,Farense
+2517,17-12-2023,Sp Braga,0 - 1,Benfica
+2518,29-12-2023,Benfica,3 - 0,FC Famalicão
+2519,06-01-2024,Arouca,0 - 3,Benfica
+2520,14-01-2024,Benfica,4 - 1,Rio Ave
+2521,19-01-2024,Benfica,? - ?,Boavista
+2522,14-08-2023,Boavista,3 - 2,Benfica
+2523,19-08-2023,Portimonense SC,1 - 4,Boavista
+2524,27-08-2023,Boavista,1 - 1,Casa Pia
+2525,03-09-2023,Estoril,1 - 2,Boavista
+2526,18-09-2023,Boavista,4 - 1,Chaves
+2527,24-09-2023,Sp Braga,4 - 1,Boavista
+2528,30-09-2023,Boavista,2 - 2,FC Famalicão
+2529,06-10-2023,Moreirense,1 - 1,Boavista
+2530,30-10-2023,Boavista,0 - 2,Sp Lisbon
+2531,05-11-2023,Rio Ave,2 - 0,Boavista
+2532,12-11-2023,Boavista,1 - 3,Farense
+2533,03-12-2023,Boavista,0 - 4,Arouca
+2534,10-12-2023,Estrela,3 - 1,Boavista
+2535,16-12-2023,Boavista,1 - 1,Guimaraes
+2536,30-12-2023,Gil Vicente,1 - 0,Boavista
+2537,05-01-2024,Boavista,1 - 1,Porto
+2538,14-01-2024,Vizela,1 - 4,Boavista
+2539,19-01-2024,Benfica,? - ?,Boavista
+2540,12-08-2023,Farense,0 - 3,Casa Pia
+2541,18-08-2023,Casa Pia,1 - 2,Sp Lisbon
+2542,27-08-2023,Boavista,1 - 1,Casa Pia
+2543,02-09-2023,Casa Pia,1 - 1,Rio Ave
+2544,17-09-2023,Arouca,0 - 1,Casa Pia
+2545,23-09-2023,Casa Pia,0 - 0,Guimaraes
+2546,02-10-2023,Gil Vicente,2 - 0,Casa Pia
+2547,08-10-2023,Casa Pia,0 - 1,Estrela
+2548,28-10-2023,Benfica,1 - 1,Casa Pia
+2549,05-11-2023,Casa Pia,0 - 1,Vizela
+2550,10-11-2023,Estoril,4 - 0,Casa Pia
+2551,02-12-2023,Casa Pia,1 - 0,Portimonense SC
+2552,09-12-2023,Porto,3 - 1,Casa Pia
+2553,17-12-2023,Chaves,1 - 3,Casa Pia
+2554,30-12-2023,Casa Pia,1 - 3,Sp Braga
+2555,08-01-2024,Moreirense,1 - 4,Casa Pia
+2556,13-01-2024,Casa Pia,0 - 2,FC Famalicão
+2557,20-01-2024,Casa Pia,? - ?,Farense
+2558,13-08-2023,Rio Ave,2 - 0,Chaves
+2559,19-08-2023,Chaves,2 - 4,Sp Braga
+2560,26-08-2023,Farense,5 - 0,Chaves
+2561,03-09-2023,Chaves,1 - 2,Moreirense
+2562,18-09-2023,Boavista,4 - 1,Chaves
+2563,24-09-2023,Chaves,2 - 2,Estrela
+2564,01-10-2023,Arouca,0 - 2,Chaves
+2565,07-10-2023,Chaves,4 - 2,Gil Vicente
+2566,28-10-2023,Guimaraes,5 - 0,Chaves
+2567,04-11-2023,Chaves,0 - 2,Benfica
+2568,11-11-2023,Portimonense SC,2 - 1,Chaves
+2569,01-12-2023,Chaves,2 - 1,Vizela
+2570,10-12-2023,Estoril,4 - 0,Chaves
+2571,17-12-2023,Chaves,1 - 3,Casa Pia
+2572,29-12-2023,Porto,1 - 0,Chaves
+2573,07-01-2024,FC Famalicão,2 - 2,Chaves
+2574,13-01-2024,Chaves,0 - 3,Sp Lisbon
+2575,21-01-2024,Chaves,? - ?,Rio Ave
+2576,13-08-2023,Arouca,4 - 3,Estoril
+2577,20-08-2023,Estoril,2 - 0,Rio Ave
+2578,25-08-2023,Estrela,2 - 1,Estoril
+2579,03-09-2023,Estoril,1 - 2,Boavista
+2580,17-09-2023,Gil Vicente,5 - 3,Estoril
+2581,23-09-2023,Estoril,2 - 2,Vizela
+2582,01-10-2023,Guimaraes,3 - 2,Estoril
+2583,07-10-2023,Estoril,0 - 1,Benfica
+2584,28-10-2023,Portimonense SC,1 - 0,Estoril
+2585,03-11-2023,Porto,0 - 1,Estoril
+2586,10-11-2023,Estoril,4 - 0,Casa Pia
+2587,03-12-2023,Sp Braga,3 - 1,Estoril
+2588,10-12-2023,Estoril,4 - 0,Chaves
+2589,17-12-2023,FC Famalicão,1 - 1,Estoril
+2590,30-12-2023,Estoril,4 - 0,Farense
+2591,05-01-2024,Sp Lisbon,5 - 1,Estoril
+2592,13-01-2024,Estoril,1 - 3,Moreirense
+2593,20-01-2024,Estoril,? - ?,Arouca
+2594,13-08-2023,Estrela,0 - 1,Guimaraes
+2595,19-08-2023,Benfica,2 - 0,Estrela
+2596,25-08-2023,Estrela,2 - 1,Estoril
+2597,02-09-2023,Portimonense SC,1 - 1,Estrela
+2598,15-09-2023,Estrela,0 - 1,Porto
+2599,24-09-2023,Chaves,2 - 2,Estrela
+2600,28-09-2023,Estrela,2 - 4,Sp Braga
+2601,08-10-2023,Casa Pia,0 - 1,Estrela
+2602,29-10-2023,Estrela,1 - 0,FC Famalicão
+2603,05-11-2023,Sp Lisbon,3 - 2,Estrela
+2604,11-11-2023,Estrela,0 - 1,Moreirense
+2605,02-12-2023,Rio Ave,1 - 1,Estrela
+2606,10-12-2023,Estrela,3 - 1,Boavista
+2607,15-12-2023,Farense,0 - 0,Estrela
+2608,28-12-2023,Estrela,1 - 4,Arouca
+2609,06-01-2024,Estrela,1 - 1,Vizela
+2610,14-01-2024,Gil Vicente,1 - 1,Estrela
+2611,21-01-2024,Guimaraes,? - ?,Estrela
+2612,11-08-2023,Sp Braga,1 - 2,FC Famalicão
+2613,21-08-2023,FC Famalicão,0 - 0,Moreirense
+2614,27-08-2023,Sp Lisbon,1 - 0,FC Famalicão
+2615,02-09-2023,FC Famalicão,1 - 0,Farense
+2616,16-09-2023,Rio Ave,1 - 1,FC Famalicão
+2617,22-09-2023,FC Famalicão,1 - 0,Arouca
+2618,30-09-2023,Boavista,2 - 2,FC Famalicão
+2619,08-10-2023,FC Famalicão,1 - 3,Guimaraes
+2620,29-10-2023,Estrela,1 - 0,FC Famalicão
+2621,04-11-2023,FC Famalicão,3 - 1,Gil Vicente
+2622,11-11-2023,Vizela,0 - 0,FC Famalicão
+2623,02-12-2023,FC Famalicão,0 - 3,Porto
+2624,09-12-2023,Portimonense SC,1 - 1,FC Famalicão
+2625,17-12-2023,FC Famalicão,1 - 1,Estoril
+2626,29-12-2023,Benfica,3 - 0,FC Famalicão
+2627,07-01-2024,FC Famalicão,2 - 2,Chaves
+2628,13-01-2024,Casa Pia,0 - 2,FC Famalicão
+2629,18-01-2024,FC Famalicão,? - ?,Sp Braga
+2630,12-08-2023,Farense,0 - 3,Casa Pia
+2631,20-08-2023,Porto,2 - 1,Farense
+2632,26-08-2023,Farense,5 - 0,Chaves
+2633,02-09-2023,FC Famalicão,1 - 0,Farense
+2634,16-09-2023,Farense,3 - 1,Sp Braga
+2635,23-09-2023,Moreirense,1 - 0,Farense
+2636,30-09-2023,Farense,2 - 3,Sp Lisbon
+2637,07-10-2023,Farense,0 - 0,Vizela
+2638,29-10-2023,Rio Ave,3 - 4,Farense
+2639,06-11-2023,Farense,2 - 0,Arouca
+2640,12-11-2023,Boavista,1 - 3,Farense
+2641,02-12-2023,Farense,1 - 2,Guimaraes
+2642,08-12-2023,Benfica,1 - 1,Farense
+2643,15-12-2023,Farense,0 - 0,Estrela
+2644,30-12-2023,Estoril,4 - 0,Farense
+2645,06-01-2024,Farense,1 - 0,Gil Vicente
+2646,12-01-2024,Portimonense SC,1 - 0,Farense
+2647,20-01-2024,Casa Pia,? - ?,Farense
+2648,12-08-2023,Gil Vicente,5 - 0,Portimonense SC
+2649,19-08-2023,Guimaraes,2 - 1,Gil Vicente
+2650,26-08-2023,Gil Vicente,2 - 3,Benfica
+2651,01-09-2023,Vizela,1 - 0,Gil Vicente
+2652,17-09-2023,Gil Vicente,5 - 3,Estoril
+2653,23-09-2023,Porto,2 - 1,Gil Vicente
+2654,02-10-2023,Gil Vicente,2 - 0,Casa Pia
+2655,07-10-2023,Chaves,4 - 2,Gil Vicente
+2656,28-10-2023,Gil Vicente,3 - 3,Sp Braga
+2657,04-11-2023,FC Famalicão,3 - 1,Gil Vicente
+2658,12-11-2023,Gil Vicente,1 - 1,Rio Ave
+2659,04-12-2023,Sp Lisbon,3 - 1,Gil Vicente
+2660,11-12-2023,Gil Vicente,1 - 1,Moreirense
+2661,16-12-2023,Arouca,3 - 0,Gil Vicente
+2662,30-12-2023,Gil Vicente,1 - 0,Boavista
+2663,06-01-2024,Farense,1 - 0,Gil Vicente
+2664,14-01-2024,Gil Vicente,1 - 1,Estrela
+2665,21-01-2024,Portimonense SC,? - ?,Gil Vicente
+2666,13-08-2023,Estrela,0 - 1,Guimaraes
+2667,19-08-2023,Guimaraes,2 - 1,Gil Vicente
+2668,27-08-2023,Guimaraes,2 - 0,Vizela
+2669,02-09-2023,Benfica,4 - 0,Guimaraes
+2670,17-09-2023,Guimaraes,1 - 2,Portimonense SC
+2671,23-09-2023,Casa Pia,0 - 0,Guimaraes
+2672,01-10-2023,Guimaraes,3 - 2,Estoril
+2673,08-10-2023,FC Famalicão,1 - 3,Guimaraes
+2674,28-10-2023,Guimaraes,5 - 0,Chaves
+2675,05-11-2023,Moreirense,1 - 0,Guimaraes
+2676,11-11-2023,Guimaraes,1 - 2,Porto
+2677,02-12-2023,Farense,1 - 2,Guimaraes
+2678,09-12-2023,Guimaraes,3 - 2,Sp Lisbon
+2679,16-12-2023,Boavista,1 - 1,Guimaraes
+2680,23-12-2023,Guimaraes,1 - 0,Rio Ave
+2681,06-01-2024,Sp Braga,1 - 1,Guimaraes
+2682,15-01-2024,Guimaraes,2 - 1,Arouca
+2683,21-01-2024,Guimaraes,? - ?,Estrela
+2684,14-08-2023,Moreirense,1 - 2,Porto
+2685,21-08-2023,FC Famalicão,0 - 0,Moreirense
+2686,03-09-2023,Chaves,1 - 2,Moreirense
+2687,09-09-2023,Moreirense,2 - 3,Sp Braga
+2688,17-09-2023,Sp Lisbon,3 - 0,Moreirense
+2689,23-09-2023,Moreirense,1 - 0,Farense
+2690,01-10-2023,Rio Ave,0 - 4,Moreirense
+2691,06-10-2023,Moreirense,1 - 1,Boavista
+2692,27-10-2023,Arouca,0 - 1,Moreirense
+2693,05-11-2023,Moreirense,1 - 0,Guimaraes
+2694,11-11-2023,Estrela,0 - 1,Moreirense
+2695,03-12-2023,Moreirense,0 - 0,Benfica
+2696,11-12-2023,Gil Vicente,1 - 1,Moreirense
+2697,17-12-2023,Moreirense,5 - 2,Portimonense SC
+2698,23-12-2023,Vizela,0 - 0,Moreirense
+2699,08-01-2024,Moreirense,1 - 4,Casa Pia
+2700,13-01-2024,Estoril,1 - 3,Moreirense
+2701,20-01-2024,Porto,? - ?,Moreirense
+2702,12-08-2023,Gil Vicente,5 - 0,Portimonense SC
+2703,19-08-2023,Portimonense SC,1 - 4,Boavista
+2704,26-08-2023,Arouca,1 - 1,Portimonense SC
+2705,02-09-2023,Portimonense SC,1 - 1,Estrela
+2706,17-09-2023,Guimaraes,1 - 2,Portimonense SC
+2707,24-09-2023,Portimonense SC,1 - 3,Benfica
+2708,30-09-2023,Vizela,2 - 3,Portimonense SC
+2709,08-10-2023,Porto,1 - 0,Portimonense SC
+2710,28-10-2023,Portimonense SC,1 - 0,Estoril
+2711,04-11-2023,Sp Braga,6 - 1,Portimonense SC
+2712,11-11-2023,Portimonense SC,2 - 1,Chaves
+2713,02-12-2023,Casa Pia,1 - 0,Portimonense SC
+2714,09-12-2023,Portimonense SC,1 - 1,FC Famalicão
+2715,17-12-2023,Moreirense,5 - 2,Portimonense SC
+2716,30-12-2023,Portimonense SC,1 - 2,Sp Lisbon
+2717,07-01-2024,Rio Ave,2 - 0,Portimonense SC
+2718,12-01-2024,Portimonense SC,1 - 0,Farense
+2719,21-01-2024,Portimonense SC,? - ?,Gil Vicente
+2720,14-08-2023,Moreirense,1 - 2,Porto
+2721,20-08-2023,Porto,2 - 1,Farense
+2722,28-08-2023,Rio Ave,1 - 2,Porto
+2723,03-09-2023,Porto,1 - 1,Arouca
+2724,15-09-2023,Estrela,0 - 1,Porto
+2725,23-09-2023,Porto,2 - 1,Gil Vicente
+2726,29-09-2023,Benfica,1 - 0,Porto
+2727,08-10-2023,Porto,1 - 0,Portimonense SC
+2728,29-10-2023,Vizela,0 - 2,Porto
+2729,03-11-2023,Porto,0 - 1,Estoril
+2730,11-11-2023,Guimaraes,1 - 2,Porto
+2731,02-12-2023,FC Famalicão,0 - 3,Porto
+2732,09-12-2023,Porto,3 - 1,Casa Pia
+2733,18-12-2023,Sp Lisbon,2 - 0,Porto
+2734,29-12-2023,Porto,1 - 0,Chaves
+2735,05-01-2024,Boavista,1 - 1,Porto
+2736,14-01-2024,Porto,2 - 0,Sp Braga
+2737,20-01-2024,Porto,? - ?,Moreirense
+2738,13-08-2023,Rio Ave,2 - 0,Chaves
+2739,20-08-2023,Estoril,2 - 0,Rio Ave
+2740,28-08-2023,Rio Ave,1 - 2,Porto
+2741,02-09-2023,Casa Pia,1 - 1,Rio Ave
+2742,16-09-2023,Rio Ave,1 - 1,FC Famalicão
+2743,25-09-2023,Sp Lisbon,2 - 0,Rio Ave
+2744,01-10-2023,Rio Ave,0 - 4,Moreirense
+2745,07-10-2023,Sp Braga,2 - 1,Rio Ave
+2746,29-10-2023,Rio Ave,3 - 4,Farense
+2747,05-11-2023,Rio Ave,2 - 0,Boavista
+2748,12-11-2023,Gil Vicente,1 - 1,Rio Ave
+2749,02-12-2023,Rio Ave,1 - 1,Estrela
+2750,10-12-2023,Arouca,2 - 2,Rio Ave
+2751,16-12-2023,Rio Ave,1 - 1,Vizela
+2752,23-12-2023,Guimaraes,1 - 0,Rio Ave
+2753,07-01-2024,Rio Ave,2 - 0,Portimonense SC
+2754,14-01-2024,Benfica,4 - 1,Rio Ave
+2755,21-01-2024,Chaves,? - ?,Rio Ave
+2756,11-08-2023,Sp Braga,1 - 2,FC Famalicão
+2757,19-08-2023,Chaves,2 - 4,Sp Braga
+2758,03-09-2023,Sp Braga,1 - 1,Sp Lisbon
+2759,09-09-2023,Moreirense,2 - 3,Sp Braga
+2760,16-09-2023,Farense,3 - 1,Sp Braga
+2761,24-09-2023,Sp Braga,4 - 1,Boavista
+2762,28-09-2023,Estrela,2 - 4,Sp Braga
+2763,07-10-2023,Sp Braga,2 - 1,Rio Ave
+2764,28-10-2023,Gil Vicente,3 - 3,Sp Braga
+2765,04-11-2023,Sp Braga,6 - 1,Portimonense SC
+2766,12-11-2023,Arouca,0 - 1,Sp Braga
+2767,03-12-2023,Sp Braga,3 - 1,Estoril
+2768,08-12-2023,Vizela,1 - 3,Sp Braga
+2769,17-12-2023,Sp Braga,0 - 1,Benfica
+2770,30-12-2023,Casa Pia,1 - 3,Sp Braga
+2771,06-01-2024,Sp Braga,1 - 1,Guimaraes
+2772,14-01-2024,Porto,2 - 0,Sp Braga
+2773,18-01-2024,FC Famalicão,? - ?,Sp Braga
+2774,12-08-2023,Sp Lisbon,3 - 2,Vizela
+2775,18-08-2023,Casa Pia,1 - 2,Sp Lisbon
+2776,27-08-2023,Sp Lisbon,1 - 0,FC Famalicão
+2777,03-09-2023,Sp Braga,1 - 1,Sp Lisbon
+2778,17-09-2023,Sp Lisbon,3 - 0,Moreirense
+2779,25-09-2023,Sp Lisbon,2 - 0,Rio Ave
+2780,30-09-2023,Farense,2 - 3,Sp Lisbon
+2781,08-10-2023,Sp Lisbon,2 - 1,Arouca
+2782,30-10-2023,Boavista,0 - 2,Sp Lisbon
+2783,05-11-2023,Sp Lisbon,3 - 2,Estrela
+2784,12-11-2023,Benfica,2 - 1,Sp Lisbon
+2785,04-12-2023,Sp Lisbon,3 - 1,Gil Vicente
+2786,09-12-2023,Guimaraes,3 - 2,Sp Lisbon
+2787,18-12-2023,Sp Lisbon,2 - 0,Porto
+2788,30-12-2023,Portimonense SC,1 - 2,Sp Lisbon
+2789,05-01-2024,Sp Lisbon,5 - 1,Estoril
+2790,13-01-2024,Chaves,0 - 3,Sp Lisbon
+2791,18-01-2024,Vizela,? - ?,Sp Lisbon
+2792,12-08-2023,Sp Lisbon,3 - 2,Vizela
+2793,20-08-2023,Vizela,2 - 2,Arouca
+2794,27-08-2023,Guimaraes,2 - 0,Vizela
+2795,01-09-2023,Vizela,1 - 0,Gil Vicente
+2796,16-09-2023,Vizela,1 - 2,Benfica
+2797,23-09-2023,Estoril,2 - 2,Vizela
+2798,30-09-2023,Vizela,2 - 3,Portimonense SC
+2799,07-10-2023,Farense,0 - 0,Vizela
+2800,29-10-2023,Vizela,0 - 2,Porto
+2801,05-11-2023,Casa Pia,0 - 1,Vizela
+2802,11-11-2023,Vizela,0 - 0,FC Famalicão
+2803,01-12-2023,Chaves,2 - 1,Vizela
+2804,08-12-2023,Vizela,1 - 3,Sp Braga
+2805,16-12-2023,Rio Ave,1 - 1,Vizela
+2806,23-12-2023,Vizela,0 - 0,Moreirense
+2807,06-01-2024,Estrela,1 - 1,Vizela
+2808,14-01-2024,Vizela,1 - 4,Boavista
+2809,18-01-2024,Vizela,? - ?,Sp Lisbon
+2810,13-08-2023,Adana Demirspor,2 - 1,Rizespor
+2811,21-08-2023,Ankaragucu,1 - 1,Adana Demirspor
+2812,03-09-2023,Hatayspor,3 - 3,Adana Demirspor
+2813,16-09-2023,Adana Demirspor,3 - 0,Pendikspor
+2814,24-09-2023,Kasimpasa,2 - 1,Adana Demirspor
+2815,27-09-2023,Adana Demirspor,4 - 2,Besiktas
+2816,01-10-2023,Adana Demirspor,4 - 0,Alanyaspor
+2817,06-10-2023,Adana Demirspor,1 - 0,Trabzonspor
+2818,23-10-2023,Fatih Karagümrük,2 - 0,Adana Demirspor
+2819,28-10-2023,Adana Demirspor,3 - 0,Konyaspor
+2820,05-11-2023,Sivasspor,1 - 1,Adana Demirspor
+2821,12-11-2023,Adana Demirspor,0 - 0,Fenerbahce
+2822,26-11-2023,Kayserispor,1 - 1,Adana Demirspor
+2823,02-12-2023,Adana Demirspor,2 - 3,Samsunspor
+2824,08-12-2023,Galatasaray,3 - 1,Adana Demirspor
+2825,19-12-2023,Gaziantep BBK,2 - 2,Adana Demirspor
+2826,24-12-2023,Adana Demirspor,2 - 1,Antalyaspor
+2827,06-01-2024,Buyuksehyr,0 - 0,Adana Demirspor
+2828,10-01-2024,Adana Demirspor,2 - 2,İstanbulspor
+2829,13-01-2024,Rizespor,1 - 0,Adana Demirspor
+2830,20-01-2024,Adana Demirspor,? - ?,Ankaragucu
+2831,14-08-2023,Alanyaspor,2 - 0,Buyuksehyr
+2832,19-08-2023,Rizespor,0 - 0,Alanyaspor
+2833,27-08-2023,Alanyaspor,0 - 0,Hatayspor
+2834,02-09-2023,Pendikspor,1 - 1,Alanyaspor
+2835,17-09-2023,Alanyaspor,3 - 3,Kasimpasa
+2836,24-09-2023,Alanyaspor,0 - 1,Fenerbahce
+2837,01-10-2023,Adana Demirspor,4 - 0,Alanyaspor
+2838,06-10-2023,Alanyaspor,2 - 1,Fatih Karagümrük
+2839,23-10-2023,Trabzonspor,1 - 0,Alanyaspor
+2840,28-10-2023,Alanyaspor,1 - 2,Sivasspor
+2841,06-11-2023,Kayserispor,1 - 0,Alanyaspor
+2842,11-11-2023,Alanyaspor,0 - 3,Gaziantep BBK
+2843,25-11-2023,Galatasaray,4 - 0,Alanyaspor
+2844,02-12-2023,Alanyaspor,2 - 2,Konyaspor
+2845,10-12-2023,İstanbulspor,0 - 1,Alanyaspor
+2846,21-12-2023,Besiktas,1 - 3,Alanyaspor
+2847,25-12-2023,Alanyaspor,3 - 1,Samsunspor
+2848,05-01-2024,Antalyaspor,0 - 0,Alanyaspor
+2849,09-01-2024,Alanyaspor,1 - 1,Ankaragucu
+2850,13-01-2024,Buyuksehyr,3 - 2,Alanyaspor
+2851,20-01-2024,Alanyaspor,? - ?,Rizespor
+2852,12-08-2023,Kasimpasa,3 - 2,Ankaragucu
+2853,21-08-2023,Ankaragucu,1 - 1,Adana Demirspor
+2854,27-08-2023,Fatih Karagümrük,1 - 1,Ankaragucu
+2855,03-09-2023,Ankaragucu,0 - 1,Fenerbahce
+2856,18-09-2023,Sivasspor,1 - 3,Ankaragucu
+2857,24-09-2023,Ankaragucu,1 - 1,Konyaspor
+2858,30-09-2023,Galatasaray,2 - 1,Ankaragucu
+2859,07-10-2023,Ankaragucu,3 - 0,Kayserispor
+2860,22-10-2023,İstanbulspor,2 - 1,Ankaragucu
+2861,29-10-2023,Ankaragucu,2 - 0,Samsunspor
+2862,05-11-2023,Buyuksehyr,3 - 3,Ankaragucu
+2863,10-11-2023,Ankaragucu,0 - 4,Antalyaspor
+2864,25-11-2023,Gaziantep BBK,0 - 1,Ankaragucu
+2865,03-12-2023,Ankaragucu,1 - 1,Besiktas
+2866,11-12-2023,Ankaragucu,1 - 1,Rizespor
+2867,21-12-2023,Ankaragucu,0 - 0,Hatayspor
+2868,25-12-2023,Pendikspor,1 - 1,Ankaragucu
+2869,06-01-2024,Ankaragucu,0 - 1,Trabzonspor
+2870,09-01-2024,Alanyaspor,1 - 1,Ankaragucu
+2871,13-01-2024,Ankaragucu,3 - 1,Kasimpasa
+2872,20-01-2024,Adana Demirspor,? - ?,Ankaragucu
+2873,11-08-2023,Trabzonspor,1 - 0,Antalyaspor
+2874,18-08-2023,Antalyaspor,1 - 1,Konyaspor
+2875,26-08-2023,Sivasspor,1 - 1,Antalyaspor
+2876,02-09-2023,Antalyaspor,1 - 1,Kayserispor
+2877,17-09-2023,Fenerbahce,3 - 2,Antalyaspor
+2878,23-09-2023,Antalyaspor,2 - 0,Samsunspor
+2879,30-09-2023,İstanbulspor,1 - 2,Antalyaspor
+2880,07-10-2023,Antalyaspor,0 - 2,Galatasaray
+2881,21-10-2023,Gaziantep BBK,1 - 0,Antalyaspor
+2882,29-10-2023,Antalyaspor,1 - 0,Buyuksehyr
+2883,05-11-2023,Antalyaspor,3 - 2,Besiktas
+2884,10-11-2023,Ankaragucu,0 - 4,Antalyaspor
+2885,26-11-2023,Antalyaspor,0 - 0,Rizespor
+2886,01-12-2023,Hatayspor,3 - 3,Antalyaspor
+2887,09-12-2023,Antalyaspor,2 - 1,Fatih Karagümrük
+2888,20-12-2023,Antalyaspor,0 - 0,Kasimpasa
+2889,24-12-2023,Adana Demirspor,2 - 1,Antalyaspor
+2890,05-01-2024,Antalyaspor,0 - 0,Alanyaspor
+2891,09-01-2024,Pendikspor,0 - 1,Antalyaspor
+2892,14-01-2024,Antalyaspor,1 - 1,Trabzonspor
+2893,21-01-2024,Konyaspor,? - ?,Antalyaspor
+2894,14-08-2023,Fatih Karagümrük,0 - 1,Besiktas
+2895,20-08-2023,Besiktas,1 - 1,Pendikspor
+2896,03-09-2023,Besiktas,2 - 0,Sivasspor
+2897,17-09-2023,Trabzonspor,3 - 0,Besiktas
+2898,24-09-2023,Besiktas,2 - 1,Kayserispor
+2899,27-09-2023,Adana Demirspor,4 - 2,Besiktas
+2900,01-10-2023,Konyaspor,0 - 2,Besiktas
+2901,08-10-2023,Besiktas,2 - 0,İstanbulspor
+2902,21-10-2023,Galatasaray,2 - 1,Besiktas
+2903,30-10-2023,Besiktas,2 - 0,Gaziantep BBK
+2904,05-11-2023,Antalyaspor,3 - 2,Besiktas
+2905,12-11-2023,Besiktas,1 - 0,Buyuksehyr
+2906,26-11-2023,Samsunspor,1 - 2,Besiktas
+2907,03-12-2023,Ankaragucu,1 - 1,Besiktas
+2908,09-12-2023,Besiktas,1 - 3,Fenerbahce
+2909,21-12-2023,Besiktas,1 - 3,Alanyaspor
+2910,25-12-2023,Hatayspor,1 - 2,Besiktas
+2911,05-01-2024,Besiktas,1 - 3,Kasimpasa
+2912,09-01-2024,Rizespor,0 - 4,Besiktas
+2913,13-01-2024,Besiktas,3 - 0,Fatih Karagümrük
+2914,20-01-2024,Pendikspor,? - ?,Besiktas
+2915,14-08-2023,Alanyaspor,2 - 0,Buyuksehyr
+2916,20-08-2023,Buyuksehyr,0 - 2,Fatih Karagümrük
+2917,02-09-2023,Buyuksehyr,0 - 1,Konyaspor
+2918,17-09-2023,İstanbulspor,0 - 2,Buyuksehyr
+2919,23-09-2023,Buyuksehyr,1 - 2,Galatasaray
+2920,28-09-2023,Fenerbahce,4 - 0,Buyuksehyr
+2921,02-10-2023,Kayserispor,0 - 0,Buyuksehyr
+2922,07-10-2023,Buyuksehyr,2 - 0,Gaziantep BBK
+2923,22-10-2023,Samsunspor,0 - 0,Buyuksehyr
+2924,29-10-2023,Antalyaspor,1 - 0,Buyuksehyr
+2925,05-11-2023,Buyuksehyr,3 - 3,Ankaragucu
+2926,12-11-2023,Besiktas,1 - 0,Buyuksehyr
+2927,27-11-2023,Buyuksehyr,4 - 1,Pendikspor
+2928,02-12-2023,Rizespor,3 - 2,Buyuksehyr
+2929,10-12-2023,Buyuksehyr,1 - 0,Hatayspor
+2930,19-12-2023,Buyuksehyr,3 - 1,Sivasspor
+2931,23-12-2023,Trabzonspor,1 - 1,Buyuksehyr
+2932,06-01-2024,Buyuksehyr,0 - 0,Adana Demirspor
+2933,09-01-2024,Kasimpasa,0 - 3,Buyuksehyr
+2934,13-01-2024,Buyuksehyr,3 - 2,Alanyaspor
+2935,20-01-2024,Fatih Karagümrük,? - ?,Buyuksehyr
+2936,14-08-2023,Fatih Karagümrük,0 - 1,Besiktas
+2937,20-08-2023,Buyuksehyr,0 - 2,Fatih Karagümrük
+2938,27-08-2023,Fatih Karagümrük,1 - 1,Ankaragucu
+2939,01-09-2023,Rizespor,1 - 0,Fatih Karagümrük
+2940,18-09-2023,Fatih Karagümrük,0 - 0,Hatayspor
+2941,23-09-2023,Pendikspor,1 - 1,Fatih Karagümrük
+2942,01-10-2023,Fatih Karagümrük,2 - 3,Kasimpasa
+2943,06-10-2023,Alanyaspor,2 - 1,Fatih Karagümrük
+2944,23-10-2023,Fatih Karagümrük,2 - 0,Adana Demirspor
+2945,29-10-2023,Fatih Karagümrük,0 - 0,Trabzonspor
+2946,05-11-2023,Konyaspor,1 - 1,Fatih Karagümrük
+2947,11-11-2023,Fatih Karagümrük,3 - 0,Sivasspor
+2948,26-11-2023,Fenerbahce,2 - 1,Fatih Karagümrük
+2949,01-12-2023,Fatih Karagümrük,3 - 0,İstanbulspor
+2950,09-12-2023,Antalyaspor,2 - 1,Fatih Karagümrük
+2951,20-12-2023,Galatasaray,1 - 0,Fatih Karagümrük
+2952,23-12-2023,Fatih Karagümrük,0 - 3,Gaziantep BBK
+2953,06-01-2024,Samsunspor,1 - 0,Fatih Karagümrük
+2954,10-01-2024,Fatih Karagümrük,4 - 1,Kayserispor
+2955,13-01-2024,Besiktas,3 - 0,Fatih Karagümrük
+2956,20-01-2024,Fatih Karagümrük,? - ?,Buyuksehyr
+2957,13-08-2023,Fenerbahce,2 - 1,Gaziantep BBK
+2958,21-08-2023,Samsunspor,0 - 2,Fenerbahce
+2959,03-09-2023,Ankaragucu,0 - 1,Fenerbahce
+2960,17-09-2023,Fenerbahce,3 - 2,Antalyaspor
+2961,24-09-2023,Alanyaspor,0 - 1,Fenerbahce
+2962,28-09-2023,Fenerbahce,4 - 0,Buyuksehyr
+2963,01-10-2023,Fenerbahce,5 - 0,Rizespor
+2964,08-10-2023,Kasimpasa,0 - 2,Fenerbahce
+2965,22-10-2023,Fenerbahce,4 - 2,Hatayspor
+2966,29-10-2023,Pendikspor,0 - 5,Fenerbahce
+2967,04-11-2023,Fenerbahce,2 - 3,Trabzonspor
+2968,12-11-2023,Adana Demirspor,0 - 0,Fenerbahce
+2969,26-11-2023,Fenerbahce,2 - 1,Fatih Karagümrük
+2970,04-12-2023,Fenerbahce,4 - 1,Sivasspor
+2971,09-12-2023,Besiktas,1 - 3,Fenerbahce
+2972,20-12-2023,Kayserispor,3 - 4,Fenerbahce
+2973,24-12-2023,Fenerbahce,0 - 0,Galatasaray
+2974,07-01-2024,İstanbulspor,1 - 5,Fenerbahce
+2975,10-01-2024,Fenerbahce,7 - 1,Konyaspor
+2976,14-01-2024,Gaziantep BBK,0 - 1,Fenerbahce
+2977,21-01-2024,Fenerbahce,? - ?,Samsunspor
+2978,12-08-2023,Kayserispor,0 - 0,Galatasaray
+2979,19-08-2023,Galatasaray,2 - 0,Trabzonspor
+2980,02-09-2023,Gaziantep BBK,0 - 3,Galatasaray
+2981,16-09-2023,Galatasaray,4 - 2,Samsunspor
+2982,23-09-2023,Buyuksehyr,1 - 2,Galatasaray
+2983,26-09-2023,İstanbulspor,0 - 1,Galatasaray
+2984,30-09-2023,Galatasaray,2 - 1,Ankaragucu
+2985,07-10-2023,Antalyaspor,0 - 2,Galatasaray
+2986,21-10-2023,Galatasaray,2 - 1,Besiktas
+2987,28-10-2023,Rizespor,0 - 1,Galatasaray
+2988,03-11-2023,Galatasaray,2 - 1,Kasimpasa
+2989,11-11-2023,Hatayspor,2 - 1,Galatasaray
+2990,25-11-2023,Galatasaray,4 - 0,Alanyaspor
+2991,02-12-2023,Pendikspor,0 - 2,Galatasaray
+2992,08-12-2023,Galatasaray,3 - 1,Adana Demirspor
+2993,20-12-2023,Galatasaray,1 - 0,Fatih Karagümrük
+2994,24-12-2023,Fenerbahce,0 - 0,Galatasaray
+2995,07-01-2024,Galatasaray,3 - 0,Konyaspor
+2996,11-01-2024,Sivasspor,1 - 1,Galatasaray
+2997,15-01-2024,Galatasaray,2 - 1,Kayserispor
+2998,21-01-2024,Trabzonspor,? - ?,Galatasaray
+2999,13-08-2023,Fenerbahce,2 - 1,Gaziantep BBK
+3000,20-08-2023,Gaziantep BBK,1 - 3,Sivasspor
+3001,25-08-2023,Konyaspor,2 - 0,Gaziantep BBK
+3002,02-09-2023,Gaziantep BBK,0 - 3,Galatasaray
+3003,16-09-2023,Kayserispor,2 - 0,Gaziantep BBK
+3004,22-09-2023,Gaziantep BBK,2 - 0,İstanbulspor
+3005,29-09-2023,Samsunspor,1 - 2,Gaziantep BBK
+3006,07-10-2023,Buyuksehyr,2 - 0,Gaziantep BBK
+3007,21-10-2023,Gaziantep BBK,1 - 0,Antalyaspor
+3008,30-10-2023,Besiktas,2 - 0,Gaziantep BBK
+3009,06-11-2023,Gaziantep BBK,2 - 0,Rizespor
+3010,11-11-2023,Alanyaspor,0 - 3,Gaziantep BBK
+3011,25-11-2023,Gaziantep BBK,0 - 1,Ankaragucu
+3012,03-12-2023,Kasimpasa,4 - 2,Gaziantep BBK
+3013,10-12-2023,Gaziantep BBK,1 - 3,Trabzonspor
+3014,19-12-2023,Gaziantep BBK,2 - 2,Adana Demirspor
+3015,23-12-2023,Fatih Karagümrük,0 - 3,Gaziantep BBK
+3016,05-01-2024,Gaziantep BBK,2 - 2,Pendikspor
+3017,10-01-2024,Hatayspor,0 - 0,Gaziantep BBK
+3018,14-01-2024,Gaziantep BBK,0 - 1,Fenerbahce
+3019,21-01-2024,Sivasspor,? - ?,Gaziantep BBK
+3020,12-08-2023,Pendikspor,1 - 5,Hatayspor
+3021,19-08-2023,Hatayspor,0 - 0,Kasimpasa
+3022,27-08-2023,Alanyaspor,0 - 0,Hatayspor
+3023,03-09-2023,Hatayspor,3 - 3,Adana Demirspor
+3024,18-09-2023,Fatih Karagümrük,0 - 0,Hatayspor
+3025,25-09-2023,Hatayspor,3 - 2,Trabzonspor
+3026,30-09-2023,Sivasspor,0 - 0,Hatayspor
+3027,08-10-2023,Hatayspor,3 - 1,Konyaspor
+3028,22-10-2023,Fenerbahce,4 - 2,Hatayspor
+3029,27-10-2023,Hatayspor,1 - 2,Kayserispor
+3030,04-11-2023,Samsunspor,2 - 1,Hatayspor
+3031,11-11-2023,Hatayspor,2 - 1,Galatasaray
+3032,25-11-2023,İstanbulspor,2 - 1,Hatayspor
+3033,01-12-2023,Hatayspor,3 - 3,Antalyaspor
+3034,10-12-2023,Buyuksehyr,1 - 0,Hatayspor
+3035,21-12-2023,Ankaragucu,0 - 0,Hatayspor
+3036,25-12-2023,Hatayspor,1 - 2,Besiktas
+3037,06-01-2024,Rizespor,2 - 0,Hatayspor
+3038,10-01-2024,Hatayspor,0 - 0,Gaziantep BBK
+3039,13-01-2024,Hatayspor,1 - 1,Pendikspor
+3040,20-01-2024,Kasimpasa,? - ?,Hatayspor
+3041,12-08-2023,Kasimpasa,3 - 2,Ankaragucu
+3042,19-08-2023,Hatayspor,0 - 0,Kasimpasa
+3043,26-08-2023,Kasimpasa,1 - 1,Pendikspor
+3044,01-09-2023,Kasimpasa,1 - 5,Trabzonspor
+3045,17-09-2023,Alanyaspor,3 - 3,Kasimpasa
+3046,24-09-2023,Kasimpasa,2 - 1,Adana Demirspor
+3047,01-10-2023,Fatih Karagümrük,2 - 3,Kasimpasa
+3048,08-10-2023,Kasimpasa,0 - 2,Fenerbahce
+3049,22-10-2023,Sivasspor,0 - 1,Kasimpasa
+3050,27-10-2023,Kasimpasa,3 - 1,İstanbulspor
+3051,03-11-2023,Galatasaray,2 - 1,Kasimpasa
+3052,11-11-2023,Kasimpasa,3 - 4,Kayserispor
+3053,25-11-2023,Konyaspor,2 - 0,Kasimpasa
+3054,03-12-2023,Kasimpasa,4 - 2,Gaziantep BBK
+3055,09-12-2023,Samsunspor,4 - 2,Kasimpasa
+3056,20-12-2023,Antalyaspor,0 - 0,Kasimpasa
+3057,25-12-2023,Kasimpasa,2 - 2,Rizespor
+3058,05-01-2024,Besiktas,1 - 3,Kasimpasa
+3059,09-01-2024,Kasimpasa,0 - 3,Buyuksehyr
+3060,13-01-2024,Ankaragucu,3 - 1,Kasimpasa
+3061,20-01-2024,Kasimpasa,? - ?,Hatayspor
+3062,12-08-2023,Kayserispor,0 - 0,Galatasaray
+3063,18-08-2023,İstanbulspor,1 - 1,Kayserispor
+3064,27-08-2023,Kayserispor,2 - 1,Samsunspor
+3065,02-09-2023,Antalyaspor,1 - 1,Kayserispor
+3066,16-09-2023,Kayserispor,2 - 0,Gaziantep BBK
+3067,24-09-2023,Besiktas,2 - 1,Kayserispor
+3068,02-10-2023,Kayserispor,0 - 0,Buyuksehyr
+3069,07-10-2023,Ankaragucu,3 - 0,Kayserispor
+3070,21-10-2023,Kayserispor,3 - 1,Rizespor
+3071,27-10-2023,Hatayspor,1 - 2,Kayserispor
+3072,06-11-2023,Kayserispor,1 - 0,Alanyaspor
+3073,11-11-2023,Kasimpasa,3 - 4,Kayserispor
+3074,26-11-2023,Kayserispor,1 - 1,Adana Demirspor
+3075,03-12-2023,Trabzonspor,0 - 1,Kayserispor
+3076,10-12-2023,Kayserispor,2 - 0,Pendikspor
+3077,20-12-2023,Kayserispor,3 - 4,Fenerbahce
+3078,24-12-2023,Konyaspor,2 - 0,Kayserispor
+3079,07-01-2024,Kayserispor,1 - 3,Sivasspor
+3080,10-01-2024,Fatih Karagümrük,4 - 1,Kayserispor
+3081,15-01-2024,Galatasaray,2 - 1,Kayserispor
+3082,22-01-2024,Kayserispor,? - ?,İstanbulspor
+3083,12-08-2023,Konyaspor,1 - 1,İstanbulspor
+3084,18-08-2023,Antalyaspor,1 - 1,Konyaspor
+3085,25-08-2023,Konyaspor,2 - 0,Gaziantep BBK
+3086,02-09-2023,Buyuksehyr,0 - 1,Konyaspor
+3087,16-09-2023,Konyaspor,1 - 2,Rizespor
+3088,24-09-2023,Ankaragucu,1 - 1,Konyaspor
+3089,01-10-2023,Konyaspor,0 - 2,Besiktas
+3090,08-10-2023,Hatayspor,3 - 1,Konyaspor
+3091,21-10-2023,Konyaspor,1 - 2,Pendikspor
+3092,28-10-2023,Adana Demirspor,3 - 0,Konyaspor
+3093,05-11-2023,Konyaspor,1 - 1,Fatih Karagümrük
+3094,10-11-2023,Trabzonspor,2 - 1,Konyaspor
+3095,25-11-2023,Konyaspor,2 - 0,Kasimpasa
+3096,02-12-2023,Alanyaspor,2 - 2,Konyaspor
+3097,11-12-2023,Konyaspor,0 - 1,Sivasspor
+3098,21-12-2023,Samsunspor,1 - 1,Konyaspor
+3099,24-12-2023,Konyaspor,2 - 0,Kayserispor
+3100,07-01-2024,Galatasaray,3 - 0,Konyaspor
+3101,10-01-2024,Fenerbahce,7 - 1,Konyaspor
+3102,14-01-2024,İstanbulspor,0 - 0,Konyaspor
+3103,21-01-2024,Konyaspor,? - ?,Antalyaspor
+3104,12-08-2023,Pendikspor,1 - 5,Hatayspor
+3105,20-08-2023,Besiktas,1 - 1,Pendikspor
+3106,26-08-2023,Kasimpasa,1 - 1,Pendikspor
+3107,02-09-2023,Pendikspor,1 - 1,Alanyaspor
+3108,16-09-2023,Adana Demirspor,3 - 0,Pendikspor
+3109,23-09-2023,Pendikspor,1 - 1,Fatih Karagümrük
+3110,30-09-2023,Trabzonspor,2 - 1,Pendikspor
+3111,07-10-2023,Pendikspor,2 - 3,Sivasspor
+3112,21-10-2023,Konyaspor,1 - 2,Pendikspor
+3113,29-10-2023,Pendikspor,0 - 5,Fenerbahce
+3114,04-11-2023,İstanbulspor,2 - 4,Pendikspor
+3115,12-11-2023,Pendikspor,1 - 0,Samsunspor
+3116,27-11-2023,Buyuksehyr,4 - 1,Pendikspor
+3117,02-12-2023,Pendikspor,0 - 2,Galatasaray
+3118,10-12-2023,Kayserispor,2 - 0,Pendikspor
+3119,21-12-2023,Rizespor,5 - 1,Pendikspor
+3120,25-12-2023,Pendikspor,1 - 1,Ankaragucu
+3121,05-01-2024,Gaziantep BBK,2 - 2,Pendikspor
+3122,09-01-2024,Pendikspor,0 - 1,Antalyaspor
+3123,13-01-2024,Hatayspor,1 - 1,Pendikspor
+3124,20-01-2024,Pendikspor,? - ?,Besiktas
+3125,13-08-2023,Adana Demirspor,2 - 1,Rizespor
+3126,19-08-2023,Rizespor,0 - 0,Alanyaspor
+3127,26-08-2023,Trabzonspor,2 - 3,Rizespor
+3128,01-09-2023,Rizespor,1 - 0,Fatih Karagümrük
+3129,16-09-2023,Konyaspor,1 - 2,Rizespor
+3130,23-09-2023,Rizespor,1 - 1,Sivasspor
+3131,01-10-2023,Fenerbahce,5 - 0,Rizespor
+3132,08-10-2023,Rizespor,1 - 0,Samsunspor
+3133,21-10-2023,Kayserispor,3 - 1,Rizespor
+3134,28-10-2023,Rizespor,0 - 1,Galatasaray
+3135,06-11-2023,Gaziantep BBK,2 - 0,Rizespor
+3136,12-11-2023,Rizespor,1 - 0,İstanbulspor
+3137,26-11-2023,Antalyaspor,0 - 0,Rizespor
+3138,02-12-2023,Rizespor,3 - 2,Buyuksehyr
+3139,11-12-2023,Ankaragucu,1 - 1,Rizespor
+3140,21-12-2023,Rizespor,5 - 1,Pendikspor
+3141,25-12-2023,Kasimpasa,2 - 2,Rizespor
+3142,06-01-2024,Rizespor,2 - 0,Hatayspor
+3143,09-01-2024,Rizespor,0 - 4,Besiktas
+3144,13-01-2024,Rizespor,1 - 0,Adana Demirspor
+3145,20-01-2024,Alanyaspor,? - ?,Rizespor
+3146,13-08-2023,Sivasspor,1 - 1,Samsunspor
+3147,21-08-2023,Samsunspor,0 - 2,Fenerbahce
+3148,27-08-2023,Kayserispor,2 - 1,Samsunspor
+3149,16-09-2023,Galatasaray,4 - 2,Samsunspor
+3150,23-09-2023,Antalyaspor,2 - 0,Samsunspor
+3151,29-09-2023,Samsunspor,1 - 2,Gaziantep BBK
+3152,08-10-2023,Rizespor,1 - 0,Samsunspor
+3153,22-10-2023,Samsunspor,0 - 0,Buyuksehyr
+3154,29-10-2023,Ankaragucu,2 - 0,Samsunspor
+3155,04-11-2023,Samsunspor,2 - 1,Hatayspor
+3156,08-11-2023,Samsunspor,2 - 1,İstanbulspor
+3157,12-11-2023,Pendikspor,1 - 0,Samsunspor
+3158,26-11-2023,Samsunspor,1 - 2,Besiktas
+3159,02-12-2023,Adana Demirspor,2 - 3,Samsunspor
+3160,09-12-2023,Samsunspor,4 - 2,Kasimpasa
+3161,21-12-2023,Samsunspor,1 - 1,Konyaspor
+3162,25-12-2023,Alanyaspor,3 - 1,Samsunspor
+3163,06-01-2024,Samsunspor,1 - 0,Fatih Karagümrük
+3164,11-01-2024,Trabzonspor,2 - 1,Samsunspor
+3165,14-01-2024,Samsunspor,2 - 0,Sivasspor
+3166,21-01-2024,Fenerbahce,? - ?,Samsunspor
+3167,13-08-2023,Sivasspor,1 - 1,Samsunspor
+3168,20-08-2023,Gaziantep BBK,1 - 3,Sivasspor
+3169,26-08-2023,Sivasspor,1 - 1,Antalyaspor
+3170,03-09-2023,Besiktas,2 - 0,Sivasspor
+3171,18-09-2023,Sivasspor,1 - 3,Ankaragucu
+3172,23-09-2023,Rizespor,1 - 1,Sivasspor
+3173,30-09-2023,Sivasspor,0 - 0,Hatayspor
+3174,07-10-2023,Pendikspor,2 - 3,Sivasspor
+3175,22-10-2023,Sivasspor,0 - 1,Kasimpasa
+3176,28-10-2023,Alanyaspor,1 - 2,Sivasspor
+3177,05-11-2023,Sivasspor,1 - 1,Adana Demirspor
+3178,11-11-2023,Fatih Karagümrük,3 - 0,Sivasspor
+3179,27-11-2023,Sivasspor,3 - 3,Trabzonspor
+3180,04-12-2023,Fenerbahce,4 - 1,Sivasspor
+3181,11-12-2023,Konyaspor,0 - 1,Sivasspor
+3182,19-12-2023,Buyuksehyr,3 - 1,Sivasspor
+3183,23-12-2023,Sivasspor,1 - 0,İstanbulspor
+3184,07-01-2024,Kayserispor,1 - 3,Sivasspor
+3185,11-01-2024,Sivasspor,1 - 1,Galatasaray
+3186,14-01-2024,Samsunspor,2 - 0,Sivasspor
+3187,21-01-2024,Sivasspor,? - ?,Gaziantep BBK
+3188,11-08-2023,Trabzonspor,1 - 0,Antalyaspor
+3189,19-08-2023,Galatasaray,2 - 0,Trabzonspor
+3190,26-08-2023,Trabzonspor,2 - 3,Rizespor
+3191,01-09-2023,Kasimpasa,1 - 5,Trabzonspor
+3192,17-09-2023,Trabzonspor,3 - 0,Besiktas
+3193,25-09-2023,Hatayspor,3 - 2,Trabzonspor
+3194,30-09-2023,Trabzonspor,2 - 1,Pendikspor
+3195,06-10-2023,Adana Demirspor,1 - 0,Trabzonspor
+3196,23-10-2023,Trabzonspor,1 - 0,Alanyaspor
+3197,29-10-2023,Fatih Karagümrük,0 - 0,Trabzonspor
+3198,04-11-2023,Fenerbahce,2 - 3,Trabzonspor
+3199,10-11-2023,Trabzonspor,2 - 1,Konyaspor
+3200,27-11-2023,Sivasspor,3 - 3,Trabzonspor
+3201,03-12-2023,Trabzonspor,0 - 1,Kayserispor
+3202,10-12-2023,Gaziantep BBK,1 - 3,Trabzonspor
+3203,19-12-2023,İstanbulspor,1 - 2,Trabzonspor
+3204,23-12-2023,Trabzonspor,1 - 1,Buyuksehyr
+3205,06-01-2024,Ankaragucu,0 - 1,Trabzonspor
+3206,11-01-2024,Trabzonspor,2 - 1,Samsunspor
+3207,14-01-2024,Antalyaspor,1 - 1,Trabzonspor
+3208,21-01-2024,Trabzonspor,? - ?,Galatasaray
+3209,12-08-2023,Konyaspor,1 - 1,İstanbulspor
+3210,18-08-2023,İstanbulspor,1 - 1,Kayserispor
+3211,17-09-2023,İstanbulspor,0 - 2,Buyuksehyr
+3212,22-09-2023,Gaziantep BBK,2 - 0,İstanbulspor
+3213,26-09-2023,İstanbulspor,0 - 1,Galatasaray
+3214,30-09-2023,İstanbulspor,1 - 2,Antalyaspor
+3215,08-10-2023,Besiktas,2 - 0,İstanbulspor
+3216,22-10-2023,İstanbulspor,2 - 1,Ankaragucu
+3217,27-10-2023,Kasimpasa,3 - 1,İstanbulspor
+3218,04-11-2023,İstanbulspor,2 - 4,Pendikspor
+3219,08-11-2023,Samsunspor,2 - 1,İstanbulspor
+3220,12-11-2023,Rizespor,1 - 0,İstanbulspor
+3221,25-11-2023,İstanbulspor,2 - 1,Hatayspor
+3222,01-12-2023,Fatih Karagümrük,3 - 0,İstanbulspor
+3223,10-12-2023,İstanbulspor,0 - 1,Alanyaspor
+3224,19-12-2023,İstanbulspor,1 - 2,Trabzonspor
+3225,23-12-2023,Sivasspor,1 - 0,İstanbulspor
+3226,07-01-2024,İstanbulspor,1 - 5,Fenerbahce
+3227,10-01-2024,Adana Demirspor,2 - 2,İstanbulspor
+3228,14-01-2024,İstanbulspor,0 - 0,Konyaspor
+3229,22-01-2024,Kayserispor,? - ?,İstanbulspor
+3230,26-08-2023,AEK,1 - 1,Panserraikos
+3231,03-09-2023,Volos New Football Club,2 - 3,AEK
+3232,17-09-2023,AEK,1 - 1,Olympiakos
+3233,25-09-2023,Panathinaikos,1 - 2,AEK
+3234,28-09-2023,AEK,2 - 1,Atromitos
+3235,02-10-2023,OFI,2 - 0,AEK
+3236,08-10-2023,AEK,3 - 0,Panetolikos
+3237,22-10-2023,Asteras Tripolis,0 - 3,AEK
+3238,30-10-2023,AEK,2 - 0,PAOK
+3239,04-11-2023,Kifisia,1 - 1,AEK
+3240,12-11-2023,AEK,3 - 0,Lamia
+3241,26-11-2023,Giannina,0 - 1,AEK
+3242,04-12-2023,AEK,1 - 0,Aris Thessalon.
+3243,18-12-2023,Panetolikos,2 - 2,AEK
+3244,21-12-2023,Panserraikos,2 - 2,AEK
+3245,03-01-2024,AEK,3 - 0,Volos New Football Club
+3246,07-01-2024,Olympiakos,1 - 2,AEK
+3247,14-01-2024,AEK,2 - 2,Panathinaikos
+3248,21-01-2024,Atromitos,? - ?,AEK
+3249,20-08-2023,OFI,3 - 2,Aris Thessalon.
+3250,27-08-2023,Lamia,1 - 0,Aris Thessalon.
+3251,03-09-2023,Aris Thessalon.,3 - 2,Asteras Tripolis
+3252,17-09-2023,PAOK,0 - 0,Aris Thessalon.
+3253,24-09-2023,Aris Thessalon.,3 - 0,Panetolikos
+3254,27-09-2023,Olympiakos,4 - 1,Aris Thessalon.
+3255,01-10-2023,Aris Thessalon.,1 - 1,Kifisia
+3256,21-10-2023,Aris Thessalon.,1 - 0,Panserraikos
+3257,29-10-2023,Aris Thessalon.,2 - 0,Giannina
+3258,05-11-2023,Aris Thessalon.,1 - 3,Atromitos
+3259,11-11-2023,Volos New Football Club,0 - 2,Aris Thessalon.
+3260,26-11-2023,Aris Thessalon.,2 - 0,Panathinaikos
+3261,04-12-2023,AEK,1 - 0,Aris Thessalon.
+3262,17-12-2023,Aris Thessalon.,1 - 0,OFI
+3263,20-12-2023,Aris Thessalon.,2 - 2,Lamia
+3264,03-01-2024,Asteras Tripolis,3 - 2,Aris Thessalon.
+3265,07-01-2024,Aris Thessalon.,2 - 1,PAOK
+3266,14-01-2024,Panetolikos,0 - 4,Aris Thessalon.
+3267,21-01-2024,Aris Thessalon.,? - ?,Olympiakos
+3268,20-08-2023,PAOK,3 - 0,Asteras Tripolis
+3269,26-08-2023,Asteras Tripolis,3 - 0,OFI
+3270,03-09-2023,Aris Thessalon.,3 - 2,Asteras Tripolis
+3271,17-09-2023,Asteras Tripolis,2 - 2,Giannina
+3272,24-09-2023,Volos New Football Club,1 - 2,Asteras Tripolis
+3273,28-09-2023,Asteras Tripolis,1 - 4,Panathinaikos
+3274,02-10-2023,Atromitos,0 - 0,Asteras Tripolis
+3275,22-10-2023,Asteras Tripolis,0 - 3,AEK
+3276,29-10-2023,Asteras Tripolis,0 - 1,Lamia
+3277,05-11-2023,Panetolikos,0 - 1,Asteras Tripolis
+3278,12-11-2023,Asteras Tripolis,0 - 2,Olympiakos
+3279,26-11-2023,Kifisia,1 - 3,Asteras Tripolis
+3280,02-12-2023,Asteras Tripolis,1 - 0,Panserraikos
+3281,17-12-2023,Asteras Tripolis,1 - 4,PAOK
+3282,21-12-2023,OFI,0 - 2,Asteras Tripolis
+3283,03-01-2024,Asteras Tripolis,3 - 2,Aris Thessalon.
+3284,07-01-2024,Giannina,2 - 1,Asteras Tripolis
+3285,14-01-2024,Asteras Tripolis,1 - 0,Volos New Football Club
+3286,21-01-2024,Panathinaikos,? - ?,Asteras Tripolis
+3287,27-08-2023,Olympiakos,4 - 0,Atromitos
+3288,01-09-2023,Kifisia,2 - 1,Atromitos
+3289,18-09-2023,Atromitos,1 - 1,Volos New Football Club
+3290,23-09-2023,OFI,1 - 1,Atromitos
+3291,28-09-2023,AEK,2 - 1,Atromitos
+3292,02-10-2023,Atromitos,0 - 0,Asteras Tripolis
+3293,08-10-2023,Panathinaikos,5 - 0,Atromitos
+3294,22-10-2023,PAOK,2 - 0,Atromitos
+3295,28-10-2023,Atromitos,3 - 2,Panetolikos
+3296,05-11-2023,Aris Thessalon.,1 - 3,Atromitos
+3297,11-11-2023,Atromitos,1 - 1,Panserraikos
+3298,26-11-2023,Lamia,3 - 3,Atromitos
+3299,03-12-2023,Atromitos,1 - 1,Giannina
+3300,17-12-2023,Atromitos,3 - 2,Panathinaikos
+3301,21-12-2023,Atromitos,0 - 0,Olympiakos
+3302,04-01-2024,Atromitos,3 - 0,Kifisia
+3303,07-01-2024,Volos New Football Club,1 - 2,Atromitos
+3304,13-01-2024,Atromitos,1 - 1,OFI
+3305,21-01-2024,Atromitos,? - ?,AEK
+3306,20-08-2023,Giannina,3 - 0,Kifisia
+3307,25-08-2023,Panetolikos,0 - 0,Giannina
+3308,03-09-2023,Giannina,0 - 1,Panathinaikos
+3309,17-09-2023,Asteras Tripolis,2 - 2,Giannina
+3310,24-09-2023,Giannina,1 - 3,PAOK
+3311,28-09-2023,Panserraikos,3 - 2,Giannina
+3312,01-10-2023,Giannina,0 - 3,Olympiakos
+3313,20-10-2023,Lamia,2 - 1,Giannina
+3314,29-10-2023,Aris Thessalon.,2 - 0,Giannina
+3315,05-11-2023,Giannina,1 - 1,Volos New Football Club
+3316,11-11-2023,OFI,1 - 1,Giannina
+3317,26-11-2023,Giannina,0 - 1,AEK
+3318,03-12-2023,Atromitos,1 - 1,Giannina
+3319,16-12-2023,Kifisia,4 - 2,Giannina
+3320,21-12-2023,Giannina,0 - 0,Panetolikos
+3321,03-01-2024,Panathinaikos,2 - 0,Giannina
+3322,07-01-2024,Giannina,2 - 1,Asteras Tripolis
+3323,14-01-2024,PAOK,4 - 0,Giannina
+3324,20-01-2024,Giannina,? - ?,Panserraikos
+3325,20-08-2023,Giannina,3 - 0,Kifisia
+3326,27-08-2023,PAOK,2 - 1,Kifisia
+3327,01-09-2023,Kifisia,2 - 1,Atromitos
+3328,17-09-2023,Kifisia,4 - 4,Panserraikos
+3329,24-09-2023,Olympiakos,4 - 0,Kifisia
+3330,27-09-2023,Kifisia,1 - 1,Lamia
+3331,01-10-2023,Aris Thessalon.,1 - 1,Kifisia
+3332,22-10-2023,Kifisia,0 - 0,OFI
+3333,28-10-2023,Volos New Football Club,2 - 1,Kifisia
+3334,04-11-2023,Kifisia,1 - 1,AEK
+3335,12-11-2023,Kifisia,0 - 1,Panathinaikos
+3336,26-11-2023,Kifisia,1 - 3,Asteras Tripolis
+3337,02-12-2023,Panetolikos,3 - 0,Kifisia
+3338,16-12-2023,Kifisia,4 - 2,Giannina
+3339,21-12-2023,Kifisia,0 - 6,PAOK
+3340,04-01-2024,Atromitos,3 - 0,Kifisia
+3341,07-01-2024,Panserraikos,1 - 1,Kifisia
+3342,14-01-2024,Kifisia,2 - 3,Olympiakos
+3343,20-01-2024,Lamia,? - ?,Kifisia
+3344,18-08-2023,Volos New Football Club,2 - 2,Lamia
+3345,27-08-2023,Lamia,1 - 0,Aris Thessalon.
+3346,03-09-2023,Olympiakos,4 - 0,Lamia
+3347,16-09-2023,Lamia,2 - 2,OFI
+3348,23-09-2023,Panserraikos,2 - 0,Lamia
+3349,27-09-2023,Kifisia,1 - 1,Lamia
+3350,01-10-2023,Lamia,1 - 0,Panetolikos
+3351,20-10-2023,Lamia,2 - 1,Giannina
+3352,29-10-2023,Asteras Tripolis,0 - 1,Lamia
+3353,04-11-2023,Lamia,1 - 2,Panathinaikos
+3354,12-11-2023,AEK,3 - 0,Lamia
+3355,26-11-2023,Lamia,3 - 3,Atromitos
+3356,04-12-2023,PAOK,3 - 0,Lamia
+3357,17-12-2023,Lamia,1 - 2,Volos New Football Club
+3358,20-12-2023,Aris Thessalon.,2 - 2,Lamia
+3359,03-01-2024,Lamia,1 - 0,Olympiakos
+3360,08-01-2024,OFI,1 - 1,Lamia
+3361,13-01-2024,Lamia,0 - 2,Panserraikos
+3362,20-01-2024,Lamia,? - ?,Kifisia
+3363,20-08-2023,OFI,3 - 2,Aris Thessalon.
+3364,26-08-2023,Asteras Tripolis,3 - 0,OFI
+3365,03-09-2023,OFI,1 - 0,PAOK
+3366,16-09-2023,Lamia,2 - 2,OFI
+3367,23-09-2023,OFI,1 - 1,Atromitos
+3368,27-09-2023,Panetolikos,1 - 1,OFI
+3369,02-10-2023,OFI,2 - 0,AEK
+3370,22-10-2023,Kifisia,0 - 0,OFI
+3371,30-10-2023,OFI,0 - 2,Olympiakos
+3372,06-11-2023,Panserraikos,2 - 1,OFI
+3373,11-11-2023,OFI,1 - 1,Giannina
+3374,24-11-2023,OFI,1 - 1,Volos New Football Club
+3375,03-12-2023,Panathinaikos,4 - 0,OFI
+3376,17-12-2023,Aris Thessalon.,1 - 0,OFI
+3377,21-12-2023,OFI,0 - 2,Asteras Tripolis
+3378,03-01-2024,PAOK,4 - 0,OFI
+3379,08-01-2024,OFI,1 - 1,Lamia
+3380,13-01-2024,Atromitos,1 - 1,OFI
+3381,20-01-2024,OFI,? - ?,Panetolikos
+3382,20-08-2023,Olympiakos,2 - 0,Panserraikos
+3383,27-08-2023,Olympiakos,4 - 0,Atromitos
+3384,03-09-2023,Olympiakos,4 - 0,Lamia
+3385,17-09-2023,AEK,1 - 1,Olympiakos
+3386,24-09-2023,Olympiakos,4 - 0,Kifisia
+3387,27-09-2023,Olympiakos,4 - 1,Aris Thessalon.
+3388,01-10-2023,Giannina,0 - 3,Olympiakos
+3389,22-10-2023,Olympiakos,1 - 1,Panathinaikos
+3390,30-10-2023,OFI,0 - 2,Olympiakos
+3391,05-11-2023,Olympiakos,2 - 4,PAOK
+3392,12-11-2023,Asteras Tripolis,0 - 2,Olympiakos
+3393,25-11-2023,Olympiakos,3 - 1,Panetolikos
+3394,03-12-2023,Volos New Football Club,2 - 2,Olympiakos
+3395,18-12-2023,Panserraikos,0 - 1,Olympiakos
+3396,21-12-2023,Atromitos,0 - 0,Olympiakos
+3397,03-01-2024,Lamia,1 - 0,Olympiakos
+3398,07-01-2024,Olympiakos,1 - 2,AEK
+3399,14-01-2024,Kifisia,2 - 3,Olympiakos
+3400,21-01-2024,Aris Thessalon.,? - ?,Olympiakos
+3401,20-08-2023,PAOK,3 - 0,Asteras Tripolis
+3402,27-08-2023,PAOK,2 - 1,Kifisia
+3403,03-09-2023,OFI,1 - 0,PAOK
+3404,17-09-2023,PAOK,0 - 0,Aris Thessalon.
+3405,24-09-2023,Giannina,1 - 3,PAOK
+3406,27-09-2023,PAOK,3 - 0,Volos New Football Club
+3407,01-10-2023,Panathinaikos,2 - 2,PAOK
+3408,22-10-2023,PAOK,2 - 0,Atromitos
+3409,30-10-2023,AEK,2 - 0,PAOK
+3410,05-11-2023,Olympiakos,2 - 4,PAOK
+3411,12-11-2023,PAOK,2 - 1,Panetolikos
+3412,25-11-2023,PAOK,5 - 0,Panserraikos
+3413,04-12-2023,PAOK,3 - 0,Lamia
+3414,17-12-2023,Asteras Tripolis,1 - 4,PAOK
+3415,21-12-2023,Kifisia,0 - 6,PAOK
+3416,03-01-2024,PAOK,4 - 0,OFI
+3417,07-01-2024,Aris Thessalon.,2 - 1,PAOK
+3418,14-01-2024,PAOK,4 - 0,Giannina
+3419,21-01-2024,Volos New Football Club,? - ?,PAOK
+3420,26-08-2023,Panathinaikos,3 - 0,Volos New Football Club
+3421,03-09-2023,Giannina,0 - 1,Panathinaikos
+3422,16-09-2023,Panetolikos,0 - 5,Panathinaikos
+3423,25-09-2023,Panathinaikos,1 - 2,AEK
+3424,28-09-2023,Asteras Tripolis,1 - 4,Panathinaikos
+3425,01-10-2023,Panathinaikos,2 - 2,PAOK
+3426,08-10-2023,Panathinaikos,5 - 0,Atromitos
+3427,22-10-2023,Olympiakos,1 - 1,Panathinaikos
+3428,29-10-2023,Panathinaikos,5 - 0,Panserraikos
+3429,04-11-2023,Lamia,1 - 2,Panathinaikos
+3430,12-11-2023,Kifisia,0 - 1,Panathinaikos
+3431,26-11-2023,Aris Thessalon.,2 - 0,Panathinaikos
+3432,03-12-2023,Panathinaikos,4 - 0,OFI
+3433,17-12-2023,Atromitos,3 - 2,Panathinaikos
+3434,20-12-2023,Volos New Football Club,0 - 3,Panathinaikos
+3435,03-01-2024,Panathinaikos,2 - 0,Giannina
+3436,07-01-2024,Panathinaikos,2 - 1,Panetolikos
+3437,14-01-2024,AEK,2 - 2,Panathinaikos
+3438,21-01-2024,Panathinaikos,? - ?,Asteras Tripolis
+3439,25-08-2023,Panetolikos,0 - 0,Giannina
+3440,02-09-2023,Panserraikos,1 - 1,Panetolikos
+3441,16-09-2023,Panetolikos,0 - 5,Panathinaikos
+3442,24-09-2023,Aris Thessalon.,3 - 0,Panetolikos
+3443,27-09-2023,Panetolikos,1 - 1,OFI
+3444,01-10-2023,Lamia,1 - 0,Panetolikos
+3445,08-10-2023,AEK,3 - 0,Panetolikos
+3446,21-10-2023,Panetolikos,2 - 0,Volos New Football Club
+3447,28-10-2023,Atromitos,3 - 2,Panetolikos
+3448,05-11-2023,Panetolikos,0 - 1,Asteras Tripolis
+3449,12-11-2023,PAOK,2 - 1,Panetolikos
+3450,25-11-2023,Olympiakos,3 - 1,Panetolikos
+3451,02-12-2023,Panetolikos,3 - 0,Kifisia
+3452,18-12-2023,Panetolikos,2 - 2,AEK
+3453,21-12-2023,Giannina,0 - 0,Panetolikos
+3454,04-01-2024,Panetolikos,3 - 2,Panserraikos
+3455,07-01-2024,Panathinaikos,2 - 1,Panetolikos
+3456,14-01-2024,Panetolikos,0 - 4,Aris Thessalon.
+3457,20-01-2024,OFI,? - ?,Panetolikos
+3458,20-08-2023,Olympiakos,2 - 0,Panserraikos
+3459,26-08-2023,AEK,1 - 1,Panserraikos
+3460,02-09-2023,Panserraikos,1 - 1,Panetolikos
+3461,17-09-2023,Kifisia,4 - 4,Panserraikos
+3462,23-09-2023,Panserraikos,2 - 0,Lamia
+3463,28-09-2023,Panserraikos,3 - 2,Giannina
+3464,21-10-2023,Aris Thessalon.,1 - 0,Panserraikos
+3465,29-10-2023,Panathinaikos,5 - 0,Panserraikos
+3466,06-11-2023,Panserraikos,2 - 1,OFI
+3467,11-11-2023,Atromitos,1 - 1,Panserraikos
+3468,25-11-2023,PAOK,5 - 0,Panserraikos
+3469,29-11-2023,Volos New Football Club,1 - 0,Panserraikos
+3470,02-12-2023,Asteras Tripolis,1 - 0,Panserraikos
+3471,18-12-2023,Panserraikos,0 - 1,Olympiakos
+3472,21-12-2023,Panserraikos,2 - 2,AEK
+3473,04-01-2024,Panetolikos,3 - 2,Panserraikos
+3474,07-01-2024,Panserraikos,1 - 1,Kifisia
+3475,13-01-2024,Lamia,0 - 2,Panserraikos
+3476,20-01-2024,Giannina,? - ?,Panserraikos
+3477,18-08-2023,Volos New Football Club,2 - 2,Lamia
+3478,26-08-2023,Panathinaikos,3 - 0,Volos New Football Club
+3479,03-09-2023,Volos New Football Club,2 - 3,AEK
+3480,18-09-2023,Atromitos,1 - 1,Volos New Football Club
+3481,24-09-2023,Volos New Football Club,1 - 2,Asteras Tripolis
+3482,27-09-2023,PAOK,3 - 0,Volos New Football Club
+3483,21-10-2023,Panetolikos,2 - 0,Volos New Football Club
+3484,28-10-2023,Volos New Football Club,2 - 1,Kifisia
+3485,05-11-2023,Giannina,1 - 1,Volos New Football Club
+3486,11-11-2023,Volos New Football Club,0 - 2,Aris Thessalon.
+3487,24-11-2023,OFI,1 - 1,Volos New Football Club
+3488,29-11-2023,Volos New Football Club,1 - 0,Panserraikos
+3489,03-12-2023,Volos New Football Club,2 - 2,Olympiakos
+3490,17-12-2023,Lamia,1 - 2,Volos New Football Club
+3491,20-12-2023,Volos New Football Club,0 - 3,Panathinaikos
+3492,03-01-2024,AEK,3 - 0,Volos New Football Club
+3493,07-01-2024,Volos New Football Club,1 - 2,Atromitos
+3494,14-01-2024,Asteras Tripolis,1 - 0,Volos New Football Club
+3495,21-01-2024,Volos New Football Club,? - ?,PAOK
